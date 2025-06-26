@@ -4,7 +4,7 @@ class Solution:
         res = [0] * len(temperatures)
 
         for idx, temp in enumerate(temperatures):
-            while stack and temp>stack[-1][0]:
+            while stack and temp > stack[-1][0]:
                 tem, ind = stack.pop()
                 res[ind] = idx - ind
             stack.append([temp, idx])
