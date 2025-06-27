@@ -1,24 +1,20 @@
 class Solution:
     def balancedString(self, s: str) -> int:
         n = len(s)
-        expfreq = n / 4
+        exp = n / 4
+        freq = Counter(s)
 
-        # m = defaultdict(int)
-        # for letter in s:
-        #     m[letter] += 1
-        m = Counter(s)
-
-        if max(m.values()) == expfreq:
+        if all(freq[c] == exp for c in "QWER"):
             return 0
 
         left = 0
-        ans = float("inf")
+        res = n
 
         for right in range(n):
-            m[s[right]] -= 1
+            freq[s[right]] -= 1
 
-            while left <= right and max(m.values()) <= expfreq:
-                ans = min(ans, right - left + 1)
-                m[s[left]] += 1
+            while left < n and all(freq[c] <= exp for c in "QWER"):
+                res = min(res, right - left + 1)
+                freq[s[left]] += 1
                 left += 1
-        return ans
+        return res
