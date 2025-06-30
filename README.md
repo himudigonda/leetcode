@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 43
+**Total Problems Solved:** 45
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 20 |
+| Easy | 22 |
 | Medium | 21 |
 | Hard | 2 |
 
@@ -16,10 +16,10 @@
 
 | Tag | Count |
 |---|---|
-| Array | 22 |
+| Array | 23 |
 | Sorting | 12 |
+| String | 10 |
 | Hash Table | 9 |
-| String | 9 |
 | Two Pointers | 8 |
 | Database | 7 |
 | Stack | 6 |
@@ -36,6 +36,7 @@
 | Greedy | 3 |
 | Sliding Window | 2 |
 | Divide and Conquer | 2 |
+| Recursion | 2 |
 | Prefix Sum | 2 |
 | Dynamic Programming | 2 |
 | Bucket Sort | 1 |
@@ -45,9 +46,9 @@
 | Trie | 1 |
 | Union Find | 1 |
 | Matrix | 1 |
+| Linked List | 1 |
 | Simulation | 1 |
 | Memoization | 1 |
-| Recursion | 1 |
 | Combinatorics | 1 |
 | Enumeration | 1 |
 | String Matching | 1 |
@@ -127,6 +128,7 @@
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 1751-slowest-key | Easy | [code](./Array/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 
 ### Hash Table
 
@@ -151,6 +153,7 @@
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./String/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 273-integer-to-english-words | Hard | [code](./String/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
+| 1751-slowest-key | Easy | [code](./String/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
@@ -292,6 +295,19 @@
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Matrix/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 
+### Linked List
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 206-reverse-linked-list | Easy | [code](./Linked-List/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
+
+### Recursion
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 206-reverse-linked-list | Easy | [code](./Recursion/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
+| 273-integer-to-english-words | Hard | [code](./Recursion/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
+
 ### Prefix Sum
 
 | Problem | Difficulty | Code | LeetCode |
@@ -338,12 +354,6 @@
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Two-Pointers/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./Two-Pointers/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
-
-### Recursion
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 273-integer-to-english-words | Hard | [code](./Recursion/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
 
 ### Combinatorics
 
