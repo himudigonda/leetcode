@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 45
+**Total Problems Solved:** 46
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 22 |
+| Easy | 23 |
 | Medium | 21 |
 | Hard | 2 |
 
@@ -20,8 +20,8 @@
 | Sorting | 12 |
 | String | 10 |
 | Hash Table | 9 |
+| Database | 8 |
 | Two Pointers | 8 |
-| Database | 7 |
 | Stack | 6 |
 | Depth-First Search | 5 |
 | Counting | 5 |
@@ -43,10 +43,10 @@
 | Quickselect | 1 |
 | Data Stream | 1 |
 | Randomized | 1 |
+| Linked List | 1 |
 | Trie | 1 |
 | Union Find | 1 |
 | Matrix | 1 |
-| Linked List | 1 |
 | Simulation | 1 |
 | Memoization | 1 |
 | Combinatorics | 1 |
@@ -101,6 +101,7 @@
 | 595-big-countries | Easy | [code](./Database/easy/595-big-countries) | [leetcode](https://leetcode.com/problems/big-countries/) |
 | 584-find-customer-referee | Easy | [code](./Database/easy/584-find-customer-referee) | [leetcode](https://leetcode.com/problems/find-customer-referee/) |
 | 1153-product-sales-analysis-i | Easy | [code](./Database/easy/1153-product-sales-analysis-i) | [leetcode](https://leetcode.com/problems/product-sales-analysis-i/) |
+| 197-rising-temperature | Easy | [code](./Database/easy/197-rising-temperature) | [leetcode](https://leetcode.com/problems/rising-temperature/) |
 
 ### Array
 
@@ -118,6 +119,7 @@
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 1184-car-pooling | Medium | [code](./Array/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Array/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
+| 1751-slowest-key | Easy | [code](./Array/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 | 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Array/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
@@ -128,7 +130,6 @@
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 1751-slowest-key | Easy | [code](./Array/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 
 ### Hash Table
 
@@ -151,9 +152,9 @@
 | 2163-kth-distinct-string-in-an-array | Easy | [code](./String/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
 | 1351-replace-the-substring-for-balanced-string | Medium | [code](./String/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./String/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
+| 1751-slowest-key | Easy | [code](./String/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 273-integer-to-english-words | Hard | [code](./String/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
-| 1751-slowest-key | Easy | [code](./String/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
@@ -269,6 +270,19 @@
 |---|---|---|---|
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Randomized/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 
+### Linked List
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 206-reverse-linked-list | Easy | [code](./Linked-List/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
+
+### Recursion
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 206-reverse-linked-list | Easy | [code](./Recursion/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
+| 273-integer-to-english-words | Hard | [code](./Recursion/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
+
 ### Trie
 
 | Problem | Difficulty | Code | LeetCode |
@@ -294,19 +308,6 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Matrix/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
-
-### Linked List
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 206-reverse-linked-list | Easy | [code](./Linked-List/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
-
-### Recursion
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 206-reverse-linked-list | Easy | [code](./Recursion/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
-| 273-integer-to-english-words | Hard | [code](./Recursion/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
 
 ### Prefix Sum
 
