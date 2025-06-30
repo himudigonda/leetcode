@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 49
+**Total Problems Solved:** 52
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 26 |
+| Easy | 29 |
 | Medium | 21 |
 | Hard | 2 |
 
@@ -16,29 +16,29 @@
 
 | Tag | Count |
 |---|---|
-| Array | 25 |
+| Array | 26 |
+| Hash Table | 12 |
+| String | 12 |
 | Sorting | 12 |
-| Hash Table | 10 |
-| String | 10 |
 | Two Pointers | 9 |
 | Database | 8 |
+| Counting | 6 |
 | Stack | 6 |
 | Depth-First Search | 5 |
-| Counting | 5 |
-| Binary Search | 4 |
 | Breadth-First Search | 4 |
 | Heap (Priority Queue) | 4 |
 | Math | 4 |
+| Binary Search | 4 |
 | Tree | 3 |
 | Binary Tree | 3 |
 | Design | 3 |
 | Monotonic Stack | 3 |
+| Linked List | 3 |
+| Recursion | 3 |
 | Dynamic Programming | 3 |
 | Greedy | 3 |
 | Sliding Window | 2 |
 | Divide and Conquer | 2 |
-| Linked List | 2 |
-| Recursion | 2 |
 | Prefix Sum | 2 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
@@ -54,45 +54,6 @@
 | String Matching | 1 |
 
 ## Solutions by Tag
-
-### Array
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
-| 2163-kth-distinct-string-in-an-array | Easy | [code](./Array/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
-| 594-longest-harmonious-subsequence | Easy | [code](./Array/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
-| 169-majority-element | Easy | [code](./Array/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
-| 1055-pairs-of-songs-with-total-durations-divisible-by-60 | Medium | [code](./Array/medium/1055-pairs-of-songs-with-total-durations-divisible-by-60) | [leetcode](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
-| 347-top-k-frequent-elements | Medium | [code](./Array/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
-| 380-insert-delete-getrandom-o1 | Medium | [code](./Array/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
-| 1753-path-with-minimum-effort | Medium | [code](./Array/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
-| 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
-| 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
-| 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
-| 1184-car-pooling | Medium | [code](./Array/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
-| 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Array/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
-| 1751-slowest-key | Easy | [code](./Array/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
-| 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
-| 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Array/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
-| 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-| 3430-count-days-without-meetings | Medium | [code](./Array/medium/3430-count-days-without-meetings) | [leetcode](https://leetcode.com/problems/count-days-without-meetings/) |
-| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| 11-container-with-most-water | Medium | [code](./Array/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
-| 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
-| 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 121-best-time-to-buy-and-sell-stock | Easy | [code](./Array/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-
-### Binary Search
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
-| 1753-path-with-minimum-effort | Medium | [code](./Binary-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
-| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Binary-Search/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 
 ### Tree
 
@@ -142,6 +103,37 @@
 | 197-rising-temperature | Easy | [code](./Database/easy/197-rising-temperature) | [leetcode](https://leetcode.com/problems/rising-temperature/) |
 | 1153-product-sales-analysis-i | Easy | [code](./Database/easy/1153-product-sales-analysis-i) | [leetcode](https://leetcode.com/problems/product-sales-analysis-i/) |
 
+### Array
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2163-kth-distinct-string-in-an-array | Easy | [code](./Array/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
+| 594-longest-harmonious-subsequence | Easy | [code](./Array/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
+| 169-majority-element | Easy | [code](./Array/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
+| 1055-pairs-of-songs-with-total-durations-divisible-by-60 | Medium | [code](./Array/medium/1055-pairs-of-songs-with-total-durations-divisible-by-60) | [leetcode](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
+| 347-top-k-frequent-elements | Medium | [code](./Array/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 380-insert-delete-getrandom-o1 | Medium | [code](./Array/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
+| 1753-path-with-minimum-effort | Medium | [code](./Array/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
+| 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
+| 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
+| 1184-car-pooling | Medium | [code](./Array/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
+| 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
+| 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Array/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
+| 1751-slowest-key | Easy | [code](./Array/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
+| 121-best-time-to-buy-and-sell-stock | Easy | [code](./Array/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
+| 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Array/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
+| 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 3430-count-days-without-meetings | Medium | [code](./Array/medium/3430-count-days-without-meetings) | [leetcode](https://leetcode.com/problems/count-days-without-meetings/) |
+| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 11-container-with-most-water | Medium | [code](./Array/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
+| 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+| 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 500-keyboard-row | Easy | [code](./Array/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
+
 ### Hash Table
 
 | Problem | Difficulty | Code | LeetCode |
@@ -153,8 +145,10 @@
 | 347-top-k-frequent-elements | Medium | [code](./Hash-Table/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Hash-Table/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 | 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+| 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./Hash-Table/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Hash-Table/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 500-keyboard-row | Easy | [code](./Hash-Table/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 
 ### String
@@ -164,11 +158,13 @@
 | 2163-kth-distinct-string-in-an-array | Easy | [code](./String/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
 | 1351-replace-the-substring-for-balanced-string | Medium | [code](./String/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./String/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
+| 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./String/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 | 1751-slowest-key | Easy | [code](./String/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 273-integer-to-english-words | Hard | [code](./String/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
+| 500-keyboard-row | Easy | [code](./String/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
 | 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 | 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 
@@ -181,6 +177,7 @@
 | 169-majority-element | Easy | [code](./Counting/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
 | 1055-pairs-of-songs-with-total-durations-divisible-by-60 | Medium | [code](./Counting/medium/1055-pairs-of-songs-with-total-durations-divisible-by-60) | [leetcode](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
 | 347-top-k-frequent-elements | Medium | [code](./Counting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./Counting/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 
 ### Sliding Window
 
@@ -288,6 +285,7 @@
 |---|---|---|---|
 | 206-reverse-linked-list | Easy | [code](./Linked-List/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
 | 141-linked-list-cycle | Easy | [code](./Linked-List/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+| 21-merge-two-sorted-lists | Easy | [code](./Linked-List/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 
 ### Recursion
 
@@ -295,6 +293,7 @@
 |---|---|---|---|
 | 206-reverse-linked-list | Easy | [code](./Recursion/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
 | 273-integer-to-english-words | Hard | [code](./Recursion/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
+| 21-merge-two-sorted-lists | Easy | [code](./Recursion/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 
 ### Two Pointers
 
@@ -315,6 +314,15 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 386-lexicographical-numbers | Medium | [code](./Trie/medium/386-lexicographical-numbers) | [leetcode](https://leetcode.com/problems/lexicographical-numbers/) |
+
+### Binary Search
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 1753-path-with-minimum-effort | Medium | [code](./Binary-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
+| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Binary-Search/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 
 ### Union Find
 
@@ -346,8 +354,8 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./Dynamic-Programming/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
-| 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Dynamic-Programming/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
 | 121-best-time-to-buy-and-sell-stock | Easy | [code](./Dynamic-Programming/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Dynamic-Programming/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
 
 ### Greedy
 
