@@ -142,20 +142,22 @@ def main():
             os.makedirs(target_dir, exist_ok=True)
             dest = os.path.join(target_dir, entry)
             if i == 0:
-                if not os.path.exists(dest):
+                if os.path.abspath(dest) != os.path.abspath(root):
+                    if os.path.exists(dest):
+                        print(f"     ⚠️ Removing old: {dest}")
+                        shutil.rmtree(dest)
                     shutil.move(root, dest)
-                    first_dest = dest
                     print(f"     ✅ Moved to: {t}/{diff}/{entry}")
                 else:
-                    print(f"     ⚠️ Already exists: {t}/{diff}/{entry}")
-                    first_dest = dest
+                    print(f"     ⏩ Already at destination: {t}/{diff}/{entry}")
+                first_dest = dest
             else:
                 if first_dest:
-                    if not os.path.exists(dest):
-                        shutil.copytree(first_dest, dest)
-                        print(f"     📄 Copied to: {t}/{diff}/{entry}")
-                    else:
-                        print(f"     ⚠️ Skipped copy: {t}/{diff}/{entry} already exists")
+                    if os.path.exists(dest):
+                        print(f"     ⚠️ Removing existing copy: {dest}")
+                        shutil.rmtree(dest)
+                    shutil.copytree(first_dest, dest)
+                    print(f"     📄 Copied to: {t}/{diff}/{entry}")
             metadata.setdefault(tag, []).append({
                 'entry': entry,
                 'difficulty': diff.capitalize(),
@@ -197,6 +199,14 @@ def main():
             f.write("\n")
 
     print("✅ README.md generated.\n")
+
+    # Final sweep: delete any leftover problem folders at root level
+    for entry in os.listdir(cwd):
+        path = os.path.join(cwd, entry)
+        if os.path.isdir(path) and not entry.startswith('.') and entry not in metadata:
+            if any(os.path.isfile(os.path.join(path, f)) for f in ("README.md", "readme.md", "Readme.md")):
+                print(f"🧹 Cleaning leftover: {entry}")
+                shutil.rmtree(path)
 
 if __name__ == '__main__':
     main()
