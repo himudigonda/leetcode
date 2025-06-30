@@ -1,11 +1,14 @@
 class Solution:
     def makeEqual(self, words: List[str]) -> bool:
-        counts = {}
         length = len(words)
+        concat = "".join(words)
+        counts = {}
 
-        for word in words:
-            for ch in word:
-                counts[ch] = counts.get(ch, 0) + 1
+        if len(concat) % length != 0:
+            return False
+
+        for ch in concat:
+            counts[ch] = counts.get(ch, 0) + 1
 
         for val in counts.values():
             if val % length != 0:
