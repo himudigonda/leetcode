@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 41
+**Total Problems Solved:** 42
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 18 |
+| Easy | 19 |
 | Medium | 21 |
 | Hard | 2 |
 
@@ -16,13 +16,13 @@
 
 | Tag | Count |
 |---|---|
-| Array | 21 |
-| Sorting | 11 |
+| Array | 22 |
+| Sorting | 12 |
 | Hash Table | 9 |
 | String | 8 |
+| Two Pointers | 7 |
 | Database | 7 |
 | Stack | 6 |
-| Two Pointers | 6 |
 | Counting | 5 |
 | Depth-First Search | 5 |
 | Heap (Priority Queue) | 4 |
@@ -77,6 +77,7 @@
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Array/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
+| 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 3430-count-days-without-meetings | Medium | [code](./Array/medium/3430-count-days-without-meetings) | [leetcode](https://leetcode.com/problems/count-days-without-meetings/) |
 
 ### Hash Table
@@ -114,6 +115,7 @@
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Sorting/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Sorting/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
+| 88-merge-sorted-array | Easy | [code](./Sorting/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 3430-count-days-without-meetings | Medium | [code](./Sorting/medium/3430-count-days-without-meetings) | [leetcode](https://leetcode.com/problems/count-days-without-meetings/) |
 
 ### Counting
@@ -326,6 +328,7 @@
 | 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Two-Pointers/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 88-merge-sorted-array | Easy | [code](./Two-Pointers/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 
 ### Recursion
 
