@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 46
+**Total Problems Solved:** 47
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 23 |
+| Easy | 24 |
 | Medium | 21 |
 | Hard | 2 |
 
@@ -18,10 +18,10 @@
 |---|---|
 | Array | 23 |
 | Sorting | 12 |
+| Hash Table | 10 |
 | String | 10 |
-| Hash Table | 9 |
+| Two Pointers | 9 |
 | Database | 8 |
-| Two Pointers | 8 |
 | Stack | 6 |
 | Depth-First Search | 5 |
 | Counting | 5 |
@@ -36,6 +36,7 @@
 | Greedy | 3 |
 | Sliding Window | 2 |
 | Divide and Conquer | 2 |
+| Linked List | 2 |
 | Recursion | 2 |
 | Prefix Sum | 2 |
 | Dynamic Programming | 2 |
@@ -43,7 +44,6 @@
 | Quickselect | 1 |
 | Data Stream | 1 |
 | Randomized | 1 |
-| Linked List | 1 |
 | Trie | 1 |
 | Union Find | 1 |
 | Matrix | 1 |
@@ -100,8 +100,8 @@
 | 1908-recyclable-and-low-fat-products | Easy | [code](./Database/easy/1908-recyclable-and-low-fat-products) | [leetcode](https://leetcode.com/problems/recyclable-and-low-fat-products/) |
 | 595-big-countries | Easy | [code](./Database/easy/595-big-countries) | [leetcode](https://leetcode.com/problems/big-countries/) |
 | 584-find-customer-referee | Easy | [code](./Database/easy/584-find-customer-referee) | [leetcode](https://leetcode.com/problems/find-customer-referee/) |
-| 1153-product-sales-analysis-i | Easy | [code](./Database/easy/1153-product-sales-analysis-i) | [leetcode](https://leetcode.com/problems/product-sales-analysis-i/) |
 | 197-rising-temperature | Easy | [code](./Database/easy/197-rising-temperature) | [leetcode](https://leetcode.com/problems/rising-temperature/) |
+| 1153-product-sales-analysis-i | Easy | [code](./Database/easy/1153-product-sales-analysis-i) | [leetcode](https://leetcode.com/problems/product-sales-analysis-i/) |
 
 ### Array
 
@@ -143,6 +143,7 @@
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Hash-Table/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Hash-Table/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 
 ### String
@@ -275,6 +276,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 206-reverse-linked-list | Easy | [code](./Linked-List/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
+| 141-linked-list-cycle | Easy | [code](./Linked-List/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
 
 ### Recursion
 
@@ -355,6 +357,7 @@
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Two-Pointers/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./Two-Pointers/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
+| 141-linked-list-cycle | Easy | [code](./Two-Pointers/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
 
 ### Combinatorics
 
