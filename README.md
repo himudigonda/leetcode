@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 39
+**Total Problems Solved:** 40
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 16 |
+| Easy | 17 |
 | Medium | 21 |
 | Hard | 2 |
 
@@ -24,20 +24,20 @@
 | Stack | 6 |
 | Two Pointers | 6 |
 | Counting | 5 |
+| Depth-First Search | 4 |
 | Heap (Priority Queue) | 4 |
 | Math | 4 |
-| Depth-First Search | 3 |
+| Breadth-First Search | 3 |
 | Design | 3 |
 | Monotonic Stack | 3 |
 | Binary Search | 3 |
 | Greedy | 3 |
-| Breadth-First Search | 2 |
+| Tree | 2 |
+| Binary Tree | 2 |
 | Sliding Window | 2 |
 | Divide and Conquer | 2 |
 | Prefix Sum | 2 |
 | Dynamic Programming | 2 |
-| Tree | 1 |
-| Binary Tree | 1 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
 | Data Stream | 1 |
@@ -58,6 +58,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 100-same-tree | Easy | [code](./Tree/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
+| 111-minimum-depth-of-binary-tree | Easy | [code](./Tree/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 
 ### Depth-First Search
 
@@ -66,6 +67,7 @@
 | 100-same-tree | Easy | [code](./Depth-First-Search/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 386-lexicographical-numbers | Medium | [code](./Depth-First-Search/medium/386-lexicographical-numbers) | [leetcode](https://leetcode.com/problems/lexicographical-numbers/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Depth-First-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 111-minimum-depth-of-binary-tree | Easy | [code](./Depth-First-Search/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 
 ### Breadth-First Search
 
@@ -73,12 +75,14 @@
 |---|---|---|---|
 | 100-same-tree | Easy | [code](./Breadth-First-Search/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Breadth-First-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 111-minimum-depth-of-binary-tree | Easy | [code](./Breadth-First-Search/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 
 ### Binary Tree
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 100-same-tree | Easy | [code](./Binary-Tree/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
+| 111-minimum-depth-of-binary-tree | Easy | [code](./Binary-Tree/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 
 ### Database
 
