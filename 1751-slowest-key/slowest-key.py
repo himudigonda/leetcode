@@ -1,17 +1,16 @@
 class Solution:
     def slowestKey(self, releaseTimes: List[int], keysPressed: str) -> str:
-        keysPressedArr = [str(i) for i in keysPressed]
-        if len(keysPressedArr) != len(releaseTimes):
+        if len(keysPressed) != len(releaseTimes):
             return -1
 
-        maxkey = keysPressedArr[0]
+        maxkey = keysPressed[0]
         maxduration = releaseTimes[0]
         for i in range(1, len(keysPressed)):
             curduration = releaseTimes[i] - releaseTimes[i - 1]
             if maxduration < curduration:
                 maxduration = curduration
-                maxkey = keysPressedArr[i]
+                maxkey = keysPressed[i]
             if maxduration == curduration:
-                if keysPressedArr[i] > maxkey:
-                    maxkey = keysPressedArr[i]
+                if keysPressed[i] > maxkey:
+                    maxkey = keysPressed[i]
         return maxkey
