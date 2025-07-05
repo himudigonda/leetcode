@@ -2,14 +2,14 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 52
+**Total Problems Solved:** 53
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 29 |
-| Medium | 21 |
+| Medium | 22 |
 | Hard | 2 |
 
 **By Tag:**
@@ -17,8 +17,8 @@
 | Tag | Count |
 |---|---|
 | Array | 26 |
-| Hash Table | 12 |
-| String | 12 |
+| Hash Table | 13 |
+| String | 13 |
 | Sorting | 12 |
 | Two Pointers | 9 |
 | Database | 8 |
@@ -31,13 +31,13 @@
 | Binary Search | 4 |
 | Tree | 3 |
 | Binary Tree | 3 |
+| Sliding Window | 3 |
 | Design | 3 |
 | Monotonic Stack | 3 |
 | Linked List | 3 |
 | Recursion | 3 |
 | Dynamic Programming | 3 |
 | Greedy | 3 |
-| Sliding Window | 2 |
 | Divide and Conquer | 2 |
 | Prefix Sum | 2 |
 | Bucket Sort | 1 |
@@ -103,6 +103,53 @@
 | 197-rising-temperature | Easy | [code](./Database/easy/197-rising-temperature) | [leetcode](https://leetcode.com/problems/rising-temperature/) |
 | 1153-product-sales-analysis-i | Easy | [code](./Database/easy/1153-product-sales-analysis-i) | [leetcode](https://leetcode.com/problems/product-sales-analysis-i/) |
 
+### Hash Table
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./Hash-Table/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
+| 2163-kth-distinct-string-in-an-array | Easy | [code](./Hash-Table/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
+| 594-longest-harmonious-subsequence | Easy | [code](./Hash-Table/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
+| 169-majority-element | Easy | [code](./Hash-Table/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
+| 1055-pairs-of-songs-with-total-durations-divisible-by-60 | Medium | [code](./Hash-Table/medium/1055-pairs-of-songs-with-total-durations-divisible-by-60) | [leetcode](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
+| 347-top-k-frequent-elements | Medium | [code](./Hash-Table/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 380-insert-delete-getrandom-o1 | Medium | [code](./Hash-Table/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
+| 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+| 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Hash-Table/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
+| 500-keyboard-row | Easy | [code](./Hash-Table/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
+| 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+
+### String
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./String/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
+| 2163-kth-distinct-string-in-an-array | Easy | [code](./String/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
+| 1351-replace-the-substring-for-balanced-string | Medium | [code](./String/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
+| 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./String/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
+| 1751-slowest-key | Easy | [code](./String/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
+| 500-keyboard-row | Easy | [code](./String/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
+| 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 273-integer-to-english-words | Hard | [code](./String/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
+| 3-longest-substring-without-repeating-characters | Medium | [code](./String/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+| 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
+| 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+| 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
+
+### Counting
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./Counting/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
+| 2163-kth-distinct-string-in-an-array | Easy | [code](./Counting/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
+| 594-longest-harmonious-subsequence | Easy | [code](./Counting/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
+| 169-majority-element | Easy | [code](./Counting/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
+| 1055-pairs-of-songs-with-total-durations-divisible-by-60 | Medium | [code](./Counting/medium/1055-pairs-of-songs-with-total-durations-divisible-by-60) | [leetcode](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
+| 347-top-k-frequent-elements | Medium | [code](./Counting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+
 ### Array
 
 | Problem | Difficulty | Code | LeetCode |
@@ -122,6 +169,7 @@
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Array/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 1751-slowest-key | Easy | [code](./Array/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 | 121-best-time-to-buy-and-sell-stock | Easy | [code](./Array/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 500-keyboard-row | Easy | [code](./Array/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
 | 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Array/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
@@ -132,52 +180,6 @@
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 500-keyboard-row | Easy | [code](./Array/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
-
-### Hash Table
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 2163-kth-distinct-string-in-an-array | Easy | [code](./Hash-Table/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
-| 594-longest-harmonious-subsequence | Easy | [code](./Hash-Table/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
-| 169-majority-element | Easy | [code](./Hash-Table/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
-| 1055-pairs-of-songs-with-total-durations-divisible-by-60 | Medium | [code](./Hash-Table/medium/1055-pairs-of-songs-with-total-durations-divisible-by-60) | [leetcode](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
-| 347-top-k-frequent-elements | Medium | [code](./Hash-Table/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
-| 380-insert-delete-getrandom-o1 | Medium | [code](./Hash-Table/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
-| 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
-| 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./Hash-Table/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
-| 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Hash-Table/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
-| 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
-| 500-keyboard-row | Easy | [code](./Hash-Table/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
-| 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
-
-### String
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 2163-kth-distinct-string-in-an-array | Easy | [code](./String/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
-| 1351-replace-the-substring-for-balanced-string | Medium | [code](./String/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
-| 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./String/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
-| 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./String/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
-| 1751-slowest-key | Easy | [code](./String/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
-| 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
-| 273-integer-to-english-words | Hard | [code](./String/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
-| 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
-| 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
-| 500-keyboard-row | Easy | [code](./String/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
-| 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
-| 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
-
-### Counting
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 2163-kth-distinct-string-in-an-array | Easy | [code](./Counting/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
-| 594-longest-harmonious-subsequence | Easy | [code](./Counting/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
-| 169-majority-element | Easy | [code](./Counting/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
-| 1055-pairs-of-songs-with-total-durations-divisible-by-60 | Medium | [code](./Counting/medium/1055-pairs-of-songs-with-total-durations-divisible-by-60) | [leetcode](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
-| 347-top-k-frequent-elements | Medium | [code](./Counting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
-| 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./Counting/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 
 ### Sliding Window
 
@@ -185,6 +187,7 @@
 |---|---|---|---|
 | 594-longest-harmonious-subsequence | Easy | [code](./Sliding-Window/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
 | 1351-replace-the-substring-for-balanced-string | Medium | [code](./Sliding-Window/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
+| 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 
 ### Sorting
 
@@ -292,8 +295,8 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 206-reverse-linked-list | Easy | [code](./Recursion/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
-| 273-integer-to-english-words | Hard | [code](./Recursion/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
 | 21-merge-two-sorted-lists | Easy | [code](./Recursion/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 273-integer-to-english-words | Hard | [code](./Recursion/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
 
 ### Two Pointers
 
