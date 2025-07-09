@@ -2,31 +2,31 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 53
+**Total Problems Solved:** 55
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 29 |
-| Medium | 22 |
+| Easy | 30 |
+| Medium | 23 |
 | Hard | 2 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 26 |
+| Array | 28 |
 | Hash Table | 13 |
 | String | 13 |
 | Sorting | 12 |
-| Two Pointers | 9 |
+| Two Pointers | 10 |
 | Database | 8 |
 | Counting | 6 |
 | Stack | 6 |
 | Depth-First Search | 5 |
+| Heap (Priority Queue) | 5 |
 | Breadth-First Search | 4 |
-| Heap (Priority Queue) | 4 |
 | Math | 4 |
 | Binary Search | 4 |
 | Tree | 3 |
@@ -115,10 +115,10 @@
 | 347-top-k-frequent-elements | Medium | [code](./Hash-Table/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Hash-Table/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 | 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+| 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Hash-Table/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 500-keyboard-row | Easy | [code](./Hash-Table/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
-| 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 
 ### String
@@ -127,13 +127,13 @@
 |---|---|---|---|
 | 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./String/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 | 2163-kth-distinct-string-in-an-array | Easy | [code](./String/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
+| 3-longest-substring-without-repeating-characters | Medium | [code](./String/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 1351-replace-the-substring-for-balanced-string | Medium | [code](./String/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./String/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
 | 1751-slowest-key | Easy | [code](./String/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 | 500-keyboard-row | Easy | [code](./String/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 273-integer-to-english-words | Hard | [code](./String/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
-| 3-longest-substring-without-repeating-characters | Medium | [code](./String/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
@@ -180,14 +180,16 @@
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 1127-last-stone-weight | Easy | [code](./Array/easy/1127-last-stone-weight) | [leetcode](https://leetcode.com/problems/last-stone-weight/) |
+| 31-next-permutation | Medium | [code](./Array/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 
 ### Sliding Window
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 594-longest-harmonious-subsequence | Easy | [code](./Sliding-Window/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
-| 1351-replace-the-substring-for-balanced-string | Medium | [code](./Sliding-Window/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 1351-replace-the-substring-for-balanced-string | Medium | [code](./Sliding-Window/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
 
 ### Sorting
 
@@ -221,6 +223,7 @@
 | 1753-path-with-minimum-effort | Medium | [code](./Heap-Priority-Queue/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 1184-car-pooling | Medium | [code](./Heap-Priority-Queue/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Heap-Priority-Queue/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
+| 1127-last-stone-weight | Easy | [code](./Heap-Priority-Queue/easy/1127-last-stone-weight) | [leetcode](https://leetcode.com/problems/last-stone-weight/) |
 
 ### Bucket Sort
 
@@ -311,6 +314,7 @@
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Two-Pointers/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./Two-Pointers/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
+| 31-next-permutation | Medium | [code](./Two-Pointers/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 
 ### Trie
 
