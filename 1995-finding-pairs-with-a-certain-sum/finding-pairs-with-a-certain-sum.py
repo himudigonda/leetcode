@@ -9,8 +9,7 @@ class FindSumPairs:
 
     def add(self, index: int, val: int) -> None:
         #     self.nums2[index] += val
-        oldval = self.nums2[index]
-        self.freq2[oldval] -= 1
+        self.freq2[self.nums2[index]] -= 1
         self.nums2[index] += val
         self.freq2[self.nums2[index]] += 1
 
