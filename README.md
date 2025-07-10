@@ -166,6 +166,7 @@
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 1184-car-pooling | Medium | [code](./Array/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
+| 1127-last-stone-weight | Easy | [code](./Array/easy/1127-last-stone-weight) | [leetcode](https://leetcode.com/problems/last-stone-weight/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Array/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 1751-slowest-key | Easy | [code](./Array/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
 | 121-best-time-to-buy-and-sell-stock | Easy | [code](./Array/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
@@ -178,10 +179,9 @@
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 11-container-with-most-water | Medium | [code](./Array/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 31-next-permutation | Medium | [code](./Array/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 1127-last-stone-weight | Easy | [code](./Array/easy/1127-last-stone-weight) | [leetcode](https://leetcode.com/problems/last-stone-weight/) |
-| 31-next-permutation | Medium | [code](./Array/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 
 ### Sliding Window
 
@@ -222,8 +222,8 @@
 | 347-top-k-frequent-elements | Medium | [code](./Heap-Priority-Queue/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Heap-Priority-Queue/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 1184-car-pooling | Medium | [code](./Heap-Priority-Queue/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
-| 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Heap-Priority-Queue/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 1127-last-stone-weight | Easy | [code](./Heap-Priority-Queue/easy/1127-last-stone-weight) | [leetcode](https://leetcode.com/problems/last-stone-weight/) |
+| 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Heap-Priority-Queue/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 
 ### Bucket Sort
 
@@ -310,11 +310,11 @@
 | 88-merge-sorted-array | Easy | [code](./Two-Pointers/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 11-container-with-most-water | Medium | [code](./Two-Pointers/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
+| 31-next-permutation | Medium | [code](./Two-Pointers/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 | 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Two-Pointers/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./Two-Pointers/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
-| 31-next-permutation | Medium | [code](./Two-Pointers/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 
 ### Trie
 
