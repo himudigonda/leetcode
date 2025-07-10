@@ -2,21 +2,21 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 56
+**Total Problems Solved:** 57
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 30 |
-| Medium | 24 |
+| Medium | 25 |
 | Hard | 2 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 29 |
+| Array | 30 |
 | Hash Table | 13 |
 | String | 13 |
 | Sorting | 12 |
@@ -26,9 +26,9 @@
 | Stack | 6 |
 | Depth-First Search | 5 |
 | Heap (Priority Queue) | 5 |
+| Binary Search | 5 |
 | Breadth-First Search | 4 |
 | Math | 4 |
-| Binary Search | 4 |
 | Dynamic Programming | 4 |
 | Tree | 3 |
 | Binary Tree | 3 |
@@ -39,6 +39,7 @@
 | Recursion | 3 |
 | Greedy | 3 |
 | Divide and Conquer | 2 |
+| Matrix | 2 |
 | Prefix Sum | 2 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
@@ -46,7 +47,6 @@
 | Randomized | 1 |
 | Trie | 1 |
 | Union Find | 1 |
-| Matrix | 1 |
 | Simulation | 1 |
 | Memoization | 1 |
 | Combinatorics | 1 |
@@ -165,6 +165,7 @@
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 1184-car-pooling | Medium | [code](./Array/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
+| 74-search-a-2d-matrix | Medium | [code](./Array/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 1127-last-stone-weight | Easy | [code](./Array/easy/1127-last-stone-weight) | [leetcode](https://leetcode.com/problems/last-stone-weight/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Array/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
@@ -176,13 +177,13 @@
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Array/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 3430-count-days-without-meetings | Medium | [code](./Array/medium/3430-count-days-without-meetings) | [leetcode](https://leetcode.com/problems/count-days-without-meetings/) |
+| 1130-last-stone-weight-ii | Medium | [code](./Array/medium/1130-last-stone-weight-ii) | [leetcode](https://leetcode.com/problems/last-stone-weight-ii/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 11-container-with-most-water | Medium | [code](./Array/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 31-next-permutation | Medium | [code](./Array/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 1130-last-stone-weight-ii | Medium | [code](./Array/medium/1130-last-stone-weight-ii) | [leetcode](https://leetcode.com/problems/last-stone-weight-ii/) |
 
 ### Sliding Window
 
@@ -328,6 +329,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Binary-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 74-search-a-2d-matrix | Medium | [code](./Binary-Search/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Binary-Search/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
@@ -343,6 +345,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Matrix/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 74-search-a-2d-matrix | Medium | [code](./Matrix/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 
 ### Prefix Sum
 
