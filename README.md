@@ -2,21 +2,21 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 55
+**Total Problems Solved:** 56
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 30 |
-| Medium | 23 |
+| Medium | 24 |
 | Hard | 2 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 28 |
+| Array | 29 |
 | Hash Table | 13 |
 | String | 13 |
 | Sorting | 12 |
@@ -29,6 +29,7 @@
 | Breadth-First Search | 4 |
 | Math | 4 |
 | Binary Search | 4 |
+| Dynamic Programming | 4 |
 | Tree | 3 |
 | Binary Tree | 3 |
 | Sliding Window | 3 |
@@ -36,7 +37,6 @@
 | Monotonic Stack | 3 |
 | Linked List | 3 |
 | Recursion | 3 |
-| Dynamic Programming | 3 |
 | Greedy | 3 |
 | Divide and Conquer | 2 |
 | Prefix Sum | 2 |
@@ -182,6 +182,7 @@
 | 31-next-permutation | Medium | [code](./Array/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 1130-last-stone-weight-ii | Medium | [code](./Array/medium/1130-last-stone-weight-ii) | [leetcode](https://leetcode.com/problems/last-stone-weight-ii/) |
 
 ### Sliding Window
 
@@ -363,6 +364,7 @@
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./Dynamic-Programming/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
 | 121-best-time-to-buy-and-sell-stock | Easy | [code](./Dynamic-Programming/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Dynamic-Programming/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
+| 1130-last-stone-weight-ii | Medium | [code](./Dynamic-Programming/medium/1130-last-stone-weight-ii) | [leetcode](https://leetcode.com/problems/last-stone-weight-ii/) |
 
 ### Greedy
 
