@@ -2,22 +2,22 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 57
+**Total Problems Solved:** 58
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 30 |
-| Medium | 25 |
+| Medium | 26 |
 | Hard | 2 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 30 |
-| Hash Table | 13 |
+| Array | 31 |
+| Hash Table | 14 |
 | String | 13 |
 | Sorting | 12 |
 | Two Pointers | 10 |
@@ -28,12 +28,12 @@
 | Heap (Priority Queue) | 5 |
 | Binary Search | 5 |
 | Breadth-First Search | 4 |
+| Design | 4 |
 | Math | 4 |
 | Dynamic Programming | 4 |
 | Tree | 3 |
 | Binary Tree | 3 |
 | Sliding Window | 3 |
-| Design | 3 |
 | Monotonic Stack | 3 |
 | Linked List | 3 |
 | Recursion | 3 |
@@ -119,6 +119,7 @@
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Hash-Table/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 500-keyboard-row | Easy | [code](./Hash-Table/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 1995-finding-pairs-with-a-certain-sum | Medium | [code](./Hash-Table/medium/1995-finding-pairs-with-a-certain-sum) | [leetcode](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 
 ### String
@@ -165,7 +166,6 @@
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 1184-car-pooling | Medium | [code](./Array/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
-| 74-search-a-2d-matrix | Medium | [code](./Array/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 1127-last-stone-weight | Easy | [code](./Array/easy/1127-last-stone-weight) | [leetcode](https://leetcode.com/problems/last-stone-weight/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Array/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
@@ -176,6 +176,7 @@
 | 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Array/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 74-search-a-2d-matrix | Medium | [code](./Array/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 3430-count-days-without-meetings | Medium | [code](./Array/medium/3430-count-days-without-meetings) | [leetcode](https://leetcode.com/problems/count-days-without-meetings/) |
 | 1130-last-stone-weight-ii | Medium | [code](./Array/medium/1130-last-stone-weight-ii) | [leetcode](https://leetcode.com/problems/last-stone-weight-ii/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
@@ -184,6 +185,7 @@
 | 31-next-permutation | Medium | [code](./Array/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 1995-finding-pairs-with-a-certain-sum | Medium | [code](./Array/medium/1995-finding-pairs-with-a-certain-sum) | [leetcode](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) |
 
 ### Sliding Window
 
@@ -257,6 +259,7 @@
 | 937-online-stock-span | Medium | [code](./Design/medium/937-online-stock-span) | [leetcode](https://leetcode.com/problems/online-stock-span/) |
 | 155-min-stack | Medium | [code](./Design/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Design/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
+| 1995-finding-pairs-with-a-certain-sum | Medium | [code](./Design/medium/1995-finding-pairs-with-a-certain-sum) | [leetcode](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) |
 
 ### Monotonic Stack
 
@@ -329,8 +332,8 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Binary-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
-| 74-search-a-2d-matrix | Medium | [code](./Binary-Search/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
+| 74-search-a-2d-matrix | Medium | [code](./Binary-Search/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Binary-Search/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
 
