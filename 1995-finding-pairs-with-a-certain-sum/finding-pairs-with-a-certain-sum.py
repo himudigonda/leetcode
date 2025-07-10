@@ -12,8 +12,7 @@ class FindSumPairs:
         oldval = self.nums2[index]
         self.freq2[oldval] -= 1
         self.nums2[index] += val
-        newval = self.nums2[index]
-        self.freq2[newval] += 1
+        self.freq2[self.nums2[index]] += 1
 
     def count(self, tot: int) -> int:
         #     pairs = 0
@@ -24,8 +23,7 @@ class FindSumPairs:
         #     return pairs
         pairs = 0
         for num1val in self.nums1:
-            target = tot - num1val
-            pairs += self.freq2[target]
+            pairs += self.freq2[tot - num1val]
         return pairs
 
 
