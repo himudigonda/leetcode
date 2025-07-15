@@ -2,22 +2,22 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 58
+**Total Problems Solved:** 60
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 30 |
-| Medium | 26 |
+| Medium | 28 |
 | Hard | 2 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 31 |
-| Hash Table | 14 |
+| Array | 33 |
+| Hash Table | 16 |
 | String | 13 |
 | Sorting | 12 |
 | Two Pointers | 10 |
@@ -37,16 +37,16 @@
 | Monotonic Stack | 3 |
 | Linked List | 3 |
 | Recursion | 3 |
+| Matrix | 3 |
 | Greedy | 3 |
 | Divide and Conquer | 2 |
-| Matrix | 2 |
+| Union Find | 2 |
 | Prefix Sum | 2 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
 | Data Stream | 1 |
 | Randomized | 1 |
 | Trie | 1 |
-| Union Find | 1 |
 | Simulation | 1 |
 | Memoization | 1 |
 | Combinatorics | 1 |
@@ -116,11 +116,13 @@
 | 1995-finding-pairs-with-a-certain-sum | Medium | [code](./Hash-Table/medium/1995-finding-pairs-with-a-certain-sum) | [leetcode](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) |
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Hash-Table/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 | 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+| 128-longest-consecutive-sequence | Medium | [code](./Hash-Table/medium/128-longest-consecutive-sequence) | [leetcode](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Hash-Table/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 500-keyboard-row | Easy | [code](./Hash-Table/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+| 36-valid-sudoku | Medium | [code](./Hash-Table/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 
 ### String
 
@@ -163,6 +165,7 @@
 | 1995-finding-pairs-with-a-certain-sum | Medium | [code](./Array/medium/1995-finding-pairs-with-a-certain-sum) | [leetcode](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) |
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Array/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Array/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 128-longest-consecutive-sequence | Medium | [code](./Array/medium/128-longest-consecutive-sequence) | [leetcode](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
@@ -186,6 +189,7 @@
 | 31-next-permutation | Medium | [code](./Array/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 36-valid-sudoku | Medium | [code](./Array/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 
 ### Sliding Window
 
@@ -342,6 +346,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Union-Find/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 128-longest-consecutive-sequence | Medium | [code](./Union-Find/medium/128-longest-consecutive-sequence) | [leetcode](https://leetcode.com/problems/longest-consecutive-sequence/) |
 
 ### Matrix
 
@@ -349,6 +354,7 @@
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Matrix/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 74-search-a-2d-matrix | Medium | [code](./Matrix/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
+| 36-valid-sudoku | Medium | [code](./Matrix/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 
 ### Prefix Sum
 
