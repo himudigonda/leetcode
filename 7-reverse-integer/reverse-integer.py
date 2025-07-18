@@ -14,20 +14,12 @@ class Solution:
         # return reversed_val
 
         # Optimal
-        INT_MAX = 2**31 - 1
-        INT_MIN = -2**31
-        sign = 1 if x >= 0 else -1
-        num = abs(x)
-        reversed_num = 0
-        limit = INT_MAX if sign == 1 else abs(INT_MIN)
-        limit_div_10 = limit // 10
-        limit_mod_10 = limit % 10
-        while num > 0:
-            digit = num % 10
-            num //= 10
-            if reversed_num > limit_div_10:
-                return 0
-            if reversed_num == limit_div_10 and digit > limit_mod_10:
-                return 0
-            reversed_num = reversed_num * 10 + digit
-        return reversed_num * sign
+        sign = -1 if x < 0 else 1
+        x *= sign
+        reverse = 0
+        while x:
+            reverse = reverse * 10 + x % 10
+            x //= 10
+        if reverse > 2**31 - 1:
+            return 0
+        return sign * reverse
