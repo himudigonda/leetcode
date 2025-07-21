@@ -2,30 +2,30 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 65
+**Total Problems Solved:** 68
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 32 |
-| Medium | 31 |
+| Easy | 33 |
+| Medium | 33 |
 | Hard | 2 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 34 |
+| Array | 35 |
 | Hash Table | 18 |
-| String | 15 |
+| String | 18 |
 | Sorting | 12 |
 | Two Pointers | 10 |
 | Database | 8 |
 | Math | 7 |
+| Depth-First Search | 6 |
 | Counting | 6 |
 | Stack | 6 |
-| Depth-First Search | 5 |
 | Heap (Priority Queue) | 5 |
 | Binary Search | 5 |
 | Breadth-First Search | 4 |
@@ -40,19 +40,20 @@
 | Recursion | 3 |
 | Matrix | 3 |
 | Divide and Conquer | 2 |
+| Trie | 2 |
 | Union Find | 2 |
 | Prefix Sum | 2 |
+| Backtracking | 2 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
 | Data Stream | 1 |
 | Randomized | 1 |
-| Trie | 1 |
 | Simulation | 1 |
 | Memoization | 1 |
 | Combinatorics | 1 |
 | Enumeration | 1 |
-| Backtracking | 1 |
 | String Matching | 1 |
+| Bit Manipulation | 1 |
 
 ## Solutions by Tag
 
@@ -73,6 +74,7 @@
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Depth-First-Search/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 386-lexicographical-numbers | Medium | [code](./Depth-First-Search/medium/386-lexicographical-numbers) | [leetcode](https://leetcode.com/problems/lexicographical-numbers/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Depth-First-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Depth-First-Search/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
 
 ### Breadth-First Search
 
@@ -133,6 +135,7 @@
 |---|---|---|---|
 | 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./String/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 | 2163-kth-distinct-string-in-an-array | Easy | [code](./String/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
+| 1302-delete-characters-to-make-fancy-string | Easy | [code](./String/easy/1302-delete-characters-to-make-fancy-string) | [leetcode](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./String/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 1351-replace-the-substring-for-balanced-string | Medium | [code](./String/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./String/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
@@ -144,8 +147,10 @@
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+| 800-letter-case-permutation | Medium | [code](./String/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
 | 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 | 3396-valid-word | Easy | [code](./String/easy/3396-valid-word) | [leetcode](https://leetcode.com/problems/valid-word/) |
+| 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./String/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
 
 ### Counting
 
@@ -196,6 +201,7 @@
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 36-valid-sudoku | Medium | [code](./Array/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Array/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
 
 ### Sliding Window
 
@@ -290,12 +296,12 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Math/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
-| 9-palindrome-number | Easy | [code](./Math/easy/9-palindrome-number) | [leetcode](https://leetcode.com/problems/palindrome-number/) |
-| 7-reverse-integer | Medium | [code](./Math/medium/7-reverse-integer) | [leetcode](https://leetcode.com/problems/reverse-integer/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Math/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 2661-smallest-missing-non-negative-integer-after-operations | Medium | [code](./Math/medium/2661-smallest-missing-non-negative-integer-after-operations) | [leetcode](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) |
 | 273-integer-to-english-words | Hard | [code](./Math/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
 | 3201-distribute-candies-among-children-ii | Medium | [code](./Math/medium/3201-distribute-candies-among-children-ii) | [leetcode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
+| 9-palindrome-number | Easy | [code](./Math/easy/9-palindrome-number) | [leetcode](https://leetcode.com/problems/palindrome-number/) |
+| 7-reverse-integer | Medium | [code](./Math/medium/7-reverse-integer) | [leetcode](https://leetcode.com/problems/reverse-integer/) |
 
 ### Randomized
 
@@ -339,6 +345,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 386-lexicographical-numbers | Medium | [code](./Trie/medium/386-lexicographical-numbers) | [leetcode](https://leetcode.com/problems/lexicographical-numbers/) |
+| 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Trie/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
 
 ### Binary Search
 
@@ -419,10 +426,17 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./Backtracking/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 800-letter-case-permutation | Medium | [code](./Backtracking/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
 
 ### String Matching
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String-Matching/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+
+### Bit Manipulation
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 800-letter-case-permutation | Medium | [code](./Bit-Manipulation/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
 
