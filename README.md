@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 71
+**Total Problems Solved:** 73
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 34 |
+| Easy | 36 |
 | Medium | 35 |
 | Hard | 2 |
 
@@ -16,17 +16,17 @@
 
 | Tag | Count |
 |---|---|
-| Array | 38 |
-| Hash Table | 18 |
+| Array | 40 |
+| Hash Table | 19 |
 | String | 18 |
-| Sorting | 13 |
+| Sorting | 14 |
 | Two Pointers | 11 |
+| Math | 9 |
 | Database | 8 |
-| Math | 8 |
+| Binary Search | 7 |
 | Depth-First Search | 6 |
 | Counting | 6 |
 | Stack | 6 |
-| Binary Search | 6 |
 | Heap (Priority Queue) | 5 |
 | Greedy | 5 |
 | Breadth-First Search | 4 |
@@ -43,6 +43,7 @@
 | Divide and Conquer | 2 |
 | Trie | 2 |
 | Union Find | 2 |
+| Bit Manipulation | 2 |
 | Backtracking | 2 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
@@ -52,7 +53,6 @@
 | Memoization | 1 |
 | Combinatorics | 1 |
 | Enumeration | 1 |
-| Bit Manipulation | 1 |
 | String Matching | 1 |
 
 ## Solutions by Tag
@@ -126,6 +126,7 @@
 | 2661-smallest-missing-non-negative-integer-after-operations | Medium | [code](./Hash-Table/medium/2661-smallest-missing-non-negative-integer-after-operations) | [leetcode](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 36-valid-sudoku | Medium | [code](./Hash-Table/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
+| 268-missing-number | Easy | [code](./Hash-Table/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./Hash-Table/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 
@@ -176,20 +177,22 @@
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Array/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Array/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Array/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
-| 189-rotate-array | Medium | [code](./Array/medium/189-rotate-array) | [leetcode](https://leetcode.com/problems/rotate-array/) |
 | 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 1184-car-pooling | Medium | [code](./Array/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Array/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 1127-last-stone-weight | Easy | [code](./Array/easy/1127-last-stone-weight) | [leetcode](https://leetcode.com/problems/last-stone-weight/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Array/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 1751-slowest-key | Easy | [code](./Array/easy/1751-slowest-key) | [leetcode](https://leetcode.com/problems/slowest-key/) |
+| 1878-check-if-array-is-sorted-and-rotated | Easy | [code](./Array/easy/1878-check-if-array-is-sorted-and-rotated) | [leetcode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
 | 121-best-time-to-buy-and-sell-stock | Easy | [code](./Array/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 500-keyboard-row | Easy | [code](./Array/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
 | 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Array/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
+| 189-rotate-array | Medium | [code](./Array/medium/189-rotate-array) | [leetcode](https://leetcode.com/problems/rotate-array/) |
 | 128-longest-consecutive-sequence | Medium | [code](./Array/medium/128-longest-consecutive-sequence) | [leetcode](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 74-search-a-2d-matrix | Medium | [code](./Array/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
@@ -203,17 +206,17 @@
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 36-valid-sudoku | Medium | [code](./Array/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 1878-check-if-array-is-sorted-and-rotated | Easy | [code](./Array/easy/1878-check-if-array-is-sorted-and-rotated) | [leetcode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
-| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Array/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
+| 268-missing-number | Easy | [code](./Array/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
+| 485-max-consecutive-ones | Easy | [code](./Array/easy/485-max-consecutive-ones) | [leetcode](https://leetcode.com/problems/max-consecutive-ones/) |
 
 ### Sliding Window
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 594-longest-harmonious-subsequence | Easy | [code](./Sliding-Window/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Sliding-Window/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 1351-replace-the-substring-for-balanced-string | Medium | [code](./Sliding-Window/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
-| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Sliding-Window/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 
 ### Sorting
 
@@ -224,6 +227,7 @@
 | 347-top-k-frequent-elements | Medium | [code](./Sorting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 883-car-fleet | Medium | [code](./Sorting/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 1184-car-pooling | Medium | [code](./Sorting/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Sorting/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 | 2204-find-subsequence-of-length-k-with-the-largest-sum | Easy | [code](./Sorting/easy/2204-find-subsequence-of-length-k-with-the-largest-sum) | [leetcode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
 | 88-merge-sorted-array | Easy | [code](./Sorting/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Sorting/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
@@ -231,7 +235,7 @@
 | 49-group-anagrams | Medium | [code](./Sorting/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Sorting/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Sorting/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
+| 268-missing-number | Easy | [code](./Sorting/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
 
 ### Divide and Conquer
 
@@ -305,6 +309,7 @@
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Math/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 2661-smallest-missing-non-negative-integer-after-operations | Medium | [code](./Math/medium/2661-smallest-missing-non-negative-integer-after-operations) | [leetcode](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) |
 | 273-integer-to-english-words | Hard | [code](./Math/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
+| 268-missing-number | Easy | [code](./Math/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
 | 3201-distribute-candies-among-children-ii | Medium | [code](./Math/medium/3201-distribute-candies-among-children-ii) | [leetcode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
 | 9-palindrome-number | Easy | [code](./Math/easy/9-palindrome-number) | [leetcode](https://leetcode.com/problems/palindrome-number/) |
 | 7-reverse-integer | Medium | [code](./Math/medium/7-reverse-integer) | [leetcode](https://leetcode.com/problems/reverse-integer/) |
@@ -336,9 +341,9 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 141-linked-list-cycle | Easy | [code](./Two-Pointers/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
-| 189-rotate-array | Medium | [code](./Two-Pointers/medium/189-rotate-array) | [leetcode](https://leetcode.com/problems/rotate-array/) |
 | 26-remove-duplicates-from-sorted-array | Easy | [code](./Two-Pointers/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 88-merge-sorted-array | Easy | [code](./Two-Pointers/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
+| 189-rotate-array | Medium | [code](./Two-Pointers/medium/189-rotate-array) | [leetcode](https://leetcode.com/problems/rotate-array/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 11-container-with-most-water | Medium | [code](./Two-Pointers/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 | 31-next-permutation | Medium | [code](./Two-Pointers/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
@@ -359,11 +364,12 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Binary-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Binary-Search/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 | 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 74-search-a-2d-matrix | Medium | [code](./Binary-Search/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Binary-Search/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Binary-Search/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
+| 268-missing-number | Easy | [code](./Binary-Search/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
 
 ### Union Find
 
@@ -394,6 +400,16 @@
 |---|---|---|---|
 | 1184-car-pooling | Medium | [code](./Simulation/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
 
+### Greedy
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Greedy/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
+| 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./Greedy/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
+| 2661-smallest-missing-non-negative-integer-after-operations | Medium | [code](./Greedy/medium/2661-smallest-missing-non-negative-integer-after-operations) | [leetcode](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) |
+| 11-container-with-most-water | Medium | [code](./Greedy/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
+| 409-longest-palindrome | Easy | [code](./Greedy/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+
 ### Dynamic Programming
 
 | Problem | Difficulty | Code | LeetCode |
@@ -403,21 +419,18 @@
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Dynamic-Programming/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
 | 1130-last-stone-weight-ii | Medium | [code](./Dynamic-Programming/medium/1130-last-stone-weight-ii) | [leetcode](https://leetcode.com/problems/last-stone-weight-ii/) |
 
-### Greedy
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./Greedy/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
-| 2661-smallest-missing-non-negative-integer-after-operations | Medium | [code](./Greedy/medium/2661-smallest-missing-non-negative-integer-after-operations) | [leetcode](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) |
-| 11-container-with-most-water | Medium | [code](./Greedy/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
-| 409-longest-palindrome | Easy | [code](./Greedy/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
-| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Greedy/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
-
 ### Memoization
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./Memoization/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
+
+### Bit Manipulation
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 268-missing-number | Easy | [code](./Bit-Manipulation/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
+| 800-letter-case-permutation | Medium | [code](./Bit-Manipulation/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
 
 ### Combinatorics
 
@@ -437,12 +450,6 @@
 |---|---|---|---|
 | 800-letter-case-permutation | Medium | [code](./Backtracking/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./Backtracking/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
-
-### Bit Manipulation
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 800-letter-case-permutation | Medium | [code](./Bit-Manipulation/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
 
 ### String Matching
 
