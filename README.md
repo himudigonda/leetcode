@@ -2,47 +2,47 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 68
+**Total Problems Solved:** 71
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 33 |
-| Medium | 33 |
+| Easy | 34 |
+| Medium | 35 |
 | Hard | 2 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 35 |
+| Array | 38 |
 | Hash Table | 18 |
 | String | 18 |
-| Sorting | 12 |
-| Two Pointers | 10 |
+| Sorting | 13 |
+| Two Pointers | 11 |
 | Database | 8 |
-| Math | 7 |
+| Math | 8 |
 | Depth-First Search | 6 |
 | Counting | 6 |
 | Stack | 6 |
+| Binary Search | 6 |
 | Heap (Priority Queue) | 5 |
-| Binary Search | 5 |
+| Greedy | 5 |
 | Breadth-First Search | 4 |
+| Sliding Window | 4 |
 | Design | 4 |
 | Dynamic Programming | 4 |
-| Greedy | 4 |
 | Tree | 3 |
 | Binary Tree | 3 |
-| Sliding Window | 3 |
 | Monotonic Stack | 3 |
 | Linked List | 3 |
 | Recursion | 3 |
 | Matrix | 3 |
+| Prefix Sum | 3 |
 | Divide and Conquer | 2 |
 | Trie | 2 |
 | Union Find | 2 |
-| Prefix Sum | 2 |
 | Backtracking | 2 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
@@ -52,8 +52,8 @@
 | Memoization | 1 |
 | Combinatorics | 1 |
 | Enumeration | 1 |
-| String Matching | 1 |
 | Bit Manipulation | 1 |
+| String Matching | 1 |
 
 ## Solutions by Tag
 
@@ -135,7 +135,7 @@
 |---|---|---|---|
 | 2025-redistribute-characters-to-make-all-strings-equal | Easy | [code](./String/easy/2025-redistribute-characters-to-make-all-strings-equal) | [leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 | 2163-kth-distinct-string-in-an-array | Easy | [code](./String/easy/2163-kth-distinct-string-in-an-array) | [leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |
-| 1302-delete-characters-to-make-fancy-string | Easy | [code](./String/easy/1302-delete-characters-to-make-fancy-string) | [leetcode](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) |
+| 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./String/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./String/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 1351-replace-the-substring-for-balanced-string | Medium | [code](./String/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./String/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
@@ -143,14 +143,14 @@
 | 500-keyboard-row | Easy | [code](./String/easy/500-keyboard-row) | [leetcode](https://leetcode.com/problems/keyboard-row/) |
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 273-integer-to-english-words | Hard | [code](./String/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
+| 800-letter-case-permutation | Medium | [code](./String/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./String/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
-| 800-letter-case-permutation | Medium | [code](./String/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
+| 1302-delete-characters-to-make-fancy-string | Easy | [code](./String/easy/1302-delete-characters-to-make-fancy-string) | [leetcode](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) |
 | 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 | 3396-valid-word | Easy | [code](./String/easy/3396-valid-word) | [leetcode](https://leetcode.com/problems/valid-word/) |
-| 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./String/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
 
 ### Counting
 
@@ -175,6 +175,8 @@
 | 1995-finding-pairs-with-a-certain-sum | Medium | [code](./Array/medium/1995-finding-pairs-with-a-certain-sum) | [leetcode](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) |
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Array/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Array/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Array/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
+| 189-rotate-array | Medium | [code](./Array/medium/189-rotate-array) | [leetcode](https://leetcode.com/problems/rotate-array/) |
 | 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
@@ -201,7 +203,8 @@
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 36-valid-sudoku | Medium | [code](./Array/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Array/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
+| 1878-check-if-array-is-sorted-and-rotated | Easy | [code](./Array/easy/1878-check-if-array-is-sorted-and-rotated) | [leetcode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Array/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 
 ### Sliding Window
 
@@ -210,6 +213,7 @@
 | 594-longest-harmonious-subsequence | Easy | [code](./Sliding-Window/easy/594-longest-harmonious-subsequence) | [leetcode](https://leetcode.com/problems/longest-harmonious-subsequence/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 1351-replace-the-substring-for-balanced-string | Medium | [code](./Sliding-Window/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Sliding-Window/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 
 ### Sorting
 
@@ -227,6 +231,7 @@
 | 49-group-anagrams | Medium | [code](./Sorting/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Sorting/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Sorting/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 
 ### Divide and Conquer
 
@@ -296,6 +301,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Math/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
+| 189-rotate-array | Medium | [code](./Math/medium/189-rotate-array) | [leetcode](https://leetcode.com/problems/rotate-array/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Math/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 2661-smallest-missing-non-negative-integer-after-operations | Medium | [code](./Math/medium/2661-smallest-missing-non-negative-integer-after-operations) | [leetcode](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) |
 | 273-integer-to-english-words | Hard | [code](./Math/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
@@ -330,6 +336,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 141-linked-list-cycle | Easy | [code](./Two-Pointers/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+| 189-rotate-array | Medium | [code](./Two-Pointers/medium/189-rotate-array) | [leetcode](https://leetcode.com/problems/rotate-array/) |
 | 26-remove-duplicates-from-sorted-array | Easy | [code](./Two-Pointers/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 88-merge-sorted-array | Easy | [code](./Two-Pointers/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
@@ -356,6 +363,7 @@
 | 74-search-a-2d-matrix | Medium | [code](./Binary-Search/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Binary-Search/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Binary-Search/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 
 ### Union Find
 
@@ -378,6 +386,7 @@
 |---|---|---|---|
 | 238-product-of-array-except-self | Medium | [code](./Prefix-Sum/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 1184-car-pooling | Medium | [code](./Prefix-Sum/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Prefix-Sum/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 
 ### Simulation
 
@@ -402,6 +411,7 @@
 | 2661-smallest-missing-non-negative-integer-after-operations | Medium | [code](./Greedy/medium/2661-smallest-missing-non-negative-integer-after-operations) | [leetcode](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) |
 | 11-container-with-most-water | Medium | [code](./Greedy/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 | 409-longest-palindrome | Easy | [code](./Greedy/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+| 1966-frequency-of-the-most-frequent-element | Medium | [code](./Greedy/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 
 ### Memoization
 
@@ -425,18 +435,18 @@
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 17-letter-combinations-of-a-phone-number | Medium | [code](./Backtracking/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 800-letter-case-permutation | Medium | [code](./Backtracking/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
-
-### String Matching
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String-Matching/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+| 17-letter-combinations-of-a-phone-number | Medium | [code](./Backtracking/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 
 ### Bit Manipulation
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 800-letter-case-permutation | Medium | [code](./Bit-Manipulation/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
+
+### String Matching
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String-Matching/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 
