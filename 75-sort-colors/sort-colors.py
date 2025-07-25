@@ -7,9 +7,7 @@ class Solution:
         i = 0
 
         def swap(l, r):
-            tmp = nums[l]
-            nums[l] = nums[r]
-            nums[r] = tmp
+            nums[l], nums[r] = nums[r], nums[l]
 
         while i <= r:
             if nums[i] == 0:
