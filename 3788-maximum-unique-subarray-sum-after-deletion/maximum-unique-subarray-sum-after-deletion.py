@@ -4,7 +4,7 @@ class Solution:
         res = 0
         if len(nums) == 1:
             return nums[0]
-    
+
         if max(nums) < 0:
             return max(nums)
 
