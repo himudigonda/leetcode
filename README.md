@@ -2,43 +2,43 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 83
+**Total Problems Solved:** 85
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 40 |
-| Medium | 41 |
+| Easy | 41 |
+| Medium | 42 |
 | Hard | 2 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 50 |
-| Hash Table | 22 |
+| Array | 52 |
+| Hash Table | 23 |
 | String | 18 |
 | Sorting | 15 |
 | Two Pointers | 12 |
 | Math | 9 |
 | Database | 8 |
+| Stack | 8 |
 | Binary Search | 8 |
 | Depth-First Search | 7 |
 | Counting | 6 |
 | Sliding Window | 6 |
-| Stack | 6 |
-| Greedy | 6 |
 | Bit Manipulation | 6 |
+| Greedy | 6 |
 | Breadth-First Search | 5 |
 | Heap (Priority Queue) | 5 |
+| Monotonic Stack | 5 |
 | Dynamic Programming | 5 |
 | Design | 4 |
 | Matrix | 4 |
 | Tree | 3 |
 | Binary Tree | 3 |
 | Divide and Conquer | 3 |
-| Monotonic Stack | 3 |
 | Linked List | 3 |
 | Recursion | 3 |
 | Prefix Sum | 3 |
@@ -50,10 +50,10 @@
 | Quickselect | 1 |
 | Data Stream | 1 |
 | Randomized | 1 |
+| Brainteaser | 1 |
 | Simulation | 1 |
 | Memoization | 1 |
 | Combinatorics | 1 |
-| Brainteaser | 1 |
 | String Matching | 1 |
 
 ## Solutions by Tag
@@ -135,6 +135,7 @@
 | 36-valid-sudoku | Medium | [code](./Hash-Table/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./Hash-Table/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+| 496-next-greater-element-i | Easy | [code](./Hash-Table/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 
 ### String
 
@@ -184,12 +185,15 @@
 | 733-flood-fill | Easy | [code](./Array/easy/733-flood-fill) | [leetcode](https://leetcode.com/problems/flood-fill/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Array/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Array/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
+| 2503-longest-subarray-with-maximum-bitwise-and | Medium | [code](./Array/medium/2503-longest-subarray-with-maximum-bitwise-and) | [leetcode](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) |
 | 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 1184-car-pooling | Medium | [code](./Array/medium/1184-car-pooling) | [leetcode](https://leetcode.com/problems/car-pooling/) |
 | 1966-frequency-of-the-most-frequent-element | Medium | [code](./Array/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 | 1813-maximum-erasure-value | Medium | [code](./Array/medium/1813-maximum-erasure-value) | [leetcode](https://leetcode.com/problems/maximum-erasure-value/) |
+| 2498-smallest-subarrays-with-maximum-bitwise-or | Medium | [code](./Array/medium/2498-smallest-subarrays-with-maximum-bitwise-or) | [leetcode](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) |
+| 503-next-greater-element-ii | Medium | [code](./Array/medium/503-next-greater-element-ii) | [leetcode](https://leetcode.com/problems/next-greater-element-ii/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
 | 268-missing-number | Easy | [code](./Array/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
@@ -212,6 +216,7 @@
 | 75-sort-colors | Medium | [code](./Array/medium/75-sort-colors) | [leetcode](https://leetcode.com/problems/sort-colors/) |
 | 3430-count-days-without-meetings | Medium | [code](./Array/medium/3430-count-days-without-meetings) | [leetcode](https://leetcode.com/problems/count-days-without-meetings/) |
 | 2661-smallest-missing-non-negative-integer-after-operations | Medium | [code](./Array/medium/2661-smallest-missing-non-negative-integer-after-operations) | [leetcode](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) |
+| 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Array/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
 | 1130-last-stone-weight-ii | Medium | [code](./Array/medium/1130-last-stone-weight-ii) | [leetcode](https://leetcode.com/problems/last-stone-weight-ii/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 53-maximum-subarray | Medium | [code](./Array/medium/53-maximum-subarray) | [leetcode](https://leetcode.com/problems/maximum-subarray/) |
@@ -221,9 +226,7 @@
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 36-valid-sudoku | Medium | [code](./Array/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Array/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
-| 2503-longest-subarray-with-maximum-bitwise-and | Medium | [code](./Array/medium/2503-longest-subarray-with-maximum-bitwise-and) | [leetcode](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) |
-| 2498-smallest-subarrays-with-maximum-bitwise-or | Medium | [code](./Array/medium/2498-smallest-subarrays-with-maximum-bitwise-or) | [leetcode](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) |
+| 496-next-greater-element-i | Easy | [code](./Array/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 
 ### Sliding Window
 
@@ -233,8 +236,8 @@
 | 1966-frequency-of-the-most-frequent-element | Medium | [code](./Sliding-Window/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 1813-maximum-erasure-value | Medium | [code](./Sliding-Window/medium/1813-maximum-erasure-value) | [leetcode](https://leetcode.com/problems/maximum-erasure-value/) |
-| 1351-replace-the-substring-for-balanced-string | Medium | [code](./Sliding-Window/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
 | 2498-smallest-subarrays-with-maximum-bitwise-or | Medium | [code](./Sliding-Window/medium/2498-smallest-subarrays-with-maximum-bitwise-or) | [leetcode](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) |
+| 1351-replace-the-substring-for-balanced-string | Medium | [code](./Sliding-Window/medium/1351-replace-the-substring-for-balanced-string) | [leetcode](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) |
 
 ### Sorting
 
@@ -294,7 +297,9 @@
 | 155-min-stack | Medium | [code](./Stack/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
 | 883-car-fleet | Medium | [code](./Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Stack/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
+| 503-next-greater-element-ii | Medium | [code](./Stack/medium/503-next-greater-element-ii) | [leetcode](https://leetcode.com/problems/next-greater-element-ii/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Stack/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 496-next-greater-element-i | Easy | [code](./Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 | 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 
 ### Design
@@ -313,6 +318,8 @@
 | 937-online-stock-span | Medium | [code](./Monotonic-Stack/medium/937-online-stock-span) | [leetcode](https://leetcode.com/problems/online-stock-span/) |
 | 883-car-fleet | Medium | [code](./Monotonic-Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Monotonic-Stack/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
+| 503-next-greater-element-ii | Medium | [code](./Monotonic-Stack/medium/503-next-greater-element-ii) | [leetcode](https://leetcode.com/problems/next-greater-element-ii/) |
+| 496-next-greater-element-i | Easy | [code](./Monotonic-Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 
 ### Data Stream
 
@@ -395,12 +402,12 @@
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Binary-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 1966-frequency-of-the-most-frequent-element | Medium | [code](./Binary-Search/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
+| 2498-smallest-subarrays-with-maximum-bitwise-or | Medium | [code](./Binary-Search/medium/2498-smallest-subarrays-with-maximum-bitwise-or) | [leetcode](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) |
 | 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 268-missing-number | Easy | [code](./Binary-Search/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
 | 74-search-a-2d-matrix | Medium | [code](./Binary-Search/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Binary-Search/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 2498-smallest-subarrays-with-maximum-bitwise-or | Medium | [code](./Binary-Search/medium/2498-smallest-subarrays-with-maximum-bitwise-or) | [leetcode](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) |
 
 ### Union Find
 
@@ -408,6 +415,23 @@
 |---|---|---|---|
 | 1753-path-with-minimum-effort | Medium | [code](./Union-Find/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 128-longest-consecutive-sequence | Medium | [code](./Union-Find/medium/128-longest-consecutive-sequence) | [leetcode](https://leetcode.com/problems/longest-consecutive-sequence/) |
+
+### Bit Manipulation
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2503-longest-subarray-with-maximum-bitwise-and | Medium | [code](./Bit-Manipulation/medium/2503-longest-subarray-with-maximum-bitwise-and) | [leetcode](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) |
+| 2498-smallest-subarrays-with-maximum-bitwise-or | Medium | [code](./Bit-Manipulation/medium/2498-smallest-subarrays-with-maximum-bitwise-or) | [leetcode](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) |
+| 268-missing-number | Easy | [code](./Bit-Manipulation/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
+| 136-single-number | Easy | [code](./Bit-Manipulation/easy/136-single-number) | [leetcode](https://leetcode.com/problems/single-number/) |
+| 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Bit-Manipulation/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
+| 800-letter-case-permutation | Medium | [code](./Bit-Manipulation/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
+
+### Brainteaser
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2503-longest-subarray-with-maximum-bitwise-and | Medium | [code](./Brainteaser/medium/2503-longest-subarray-with-maximum-bitwise-and) | [leetcode](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) |
 
 ### Prefix Sum
 
@@ -450,43 +474,26 @@
 |---|---|---|---|
 | 2395-longest-binary-subsequence-less-than-or-equal-to-k | Medium | [code](./Memoization/medium/2395-longest-binary-subsequence-less-than-or-equal-to-k) | [leetcode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) |
 
-### Bit Manipulation
+### Backtracking
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 268-missing-number | Easy | [code](./Bit-Manipulation/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
-| 136-single-number | Easy | [code](./Bit-Manipulation/easy/136-single-number) | [leetcode](https://leetcode.com/problems/single-number/) |
-| 800-letter-case-permutation | Medium | [code](./Bit-Manipulation/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
-| 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Bit-Manipulation/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
-| 2503-longest-subarray-with-maximum-bitwise-and | Medium | [code](./Bit-Manipulation/medium/2503-longest-subarray-with-maximum-bitwise-and) | [leetcode](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) |
-| 2498-smallest-subarrays-with-maximum-bitwise-or | Medium | [code](./Bit-Manipulation/medium/2498-smallest-subarrays-with-maximum-bitwise-or) | [leetcode](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) |
+| 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Backtracking/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
+| 800-letter-case-permutation | Medium | [code](./Backtracking/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
+| 17-letter-combinations-of-a-phone-number | Medium | [code](./Backtracking/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+
+### Enumeration
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Enumeration/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
+| 3201-distribute-candies-among-children-ii | Medium | [code](./Enumeration/medium/3201-distribute-candies-among-children-ii) | [leetcode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
 
 ### Combinatorics
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 3201-distribute-candies-among-children-ii | Medium | [code](./Combinatorics/medium/3201-distribute-candies-among-children-ii) | [leetcode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
-
-### Enumeration
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 3201-distribute-candies-among-children-ii | Medium | [code](./Enumeration/medium/3201-distribute-candies-among-children-ii) | [leetcode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
-| 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Enumeration/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
-
-### Backtracking
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 800-letter-case-permutation | Medium | [code](./Backtracking/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
-| 17-letter-combinations-of-a-phone-number | Medium | [code](./Backtracking/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
-| 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Backtracking/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
-
-### Brainteaser
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 2503-longest-subarray-with-maximum-bitwise-and | Medium | [code](./Brainteaser/medium/2503-longest-subarray-with-maximum-bitwise-and) | [leetcode](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) |
 
 ### String Matching
 
