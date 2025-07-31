@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 89
+**Total Problems Solved:** 90
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 42 |
+| Easy | 43 |
 | Medium | 45 |
 | Hard | 2 |
 
@@ -21,15 +21,15 @@
 | String | 19 |
 | Sorting | 15 |
 | Two Pointers | 13 |
-| Math | 10 |
+| Math | 11 |
 | Depth-First Search | 8 |
 | Database | 8 |
 | Stack | 8 |
 | Binary Search | 8 |
+| Bit Manipulation | 7 |
 | Breadth-First Search | 6 |
 | Counting | 6 |
 | Sliding Window | 6 |
-| Bit Manipulation | 6 |
 | Greedy | 6 |
 | Tree | 5 |
 | Binary Tree | 5 |
@@ -46,6 +46,7 @@
 | Trie | 2 |
 | Union Find | 2 |
 | Enumeration | 2 |
+| Binary Search Tree | 1 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
 | Data Stream | 1 |
@@ -53,7 +54,6 @@
 | Brainteaser | 1 |
 | Simulation | 1 |
 | Memoization | 1 |
-| Binary Search Tree | 1 |
 | Combinatorics | 1 |
 | String Matching | 1 |
 
@@ -76,11 +76,11 @@
 | 100-same-tree | Easy | [code](./Depth-First-Search/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 101-symmetric-tree | Easy | [code](./Depth-First-Search/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Depth-First-Search/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
+| 230-kth-smallest-element-in-a-bst | Medium | [code](./Depth-First-Search/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 733-flood-fill | Easy | [code](./Depth-First-Search/easy/733-flood-fill) | [leetcode](https://leetcode.com/problems/flood-fill/) |
 | 386-lexicographical-numbers | Medium | [code](./Depth-First-Search/medium/386-lexicographical-numbers) | [leetcode](https://leetcode.com/problems/lexicographical-numbers/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Depth-First-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Depth-First-Search/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
-| 230-kth-smallest-element-in-a-bst | Medium | [code](./Depth-First-Search/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 
 ### Breadth-First Search
 
@@ -89,9 +89,9 @@
 | 100-same-tree | Easy | [code](./Breadth-First-Search/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 101-symmetric-tree | Easy | [code](./Breadth-First-Search/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Breadth-First-Search/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
+| 998-check-completeness-of-a-binary-tree | Medium | [code](./Breadth-First-Search/medium/998-check-completeness-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
 | 733-flood-fill | Easy | [code](./Breadth-First-Search/easy/733-flood-fill) | [leetcode](https://leetcode.com/problems/flood-fill/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Breadth-First-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
-| 998-check-completeness-of-a-binary-tree | Medium | [code](./Breadth-First-Search/medium/998-check-completeness-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
 
 ### Binary Tree
 
@@ -102,6 +102,12 @@
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Binary-Tree/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 998-check-completeness-of-a-binary-tree | Medium | [code](./Binary-Tree/medium/998-check-completeness-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
+
+### Binary Search Tree
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Search-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 
 ### Database
 
@@ -217,6 +223,7 @@
 | 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 136-single-number | Easy | [code](./Array/easy/136-single-number) | [leetcode](https://leetcode.com/problems/single-number/) |
 | 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
+| 2316-count-hills-and-valleys-in-an-array | Easy | [code](./Array/easy/2316-count-hills-and-valleys-in-an-array) | [leetcode](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |
 | 1669-minimum-cost-to-cut-a-stick | Hard | [code](./Array/hard/1669-minimum-cost-to-cut-a-stick) | [leetcode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
 | 189-rotate-array | Medium | [code](./Array/medium/189-rotate-array) | [leetcode](https://leetcode.com/problems/rotate-array/) |
 | 128-longest-consecutive-sequence | Medium | [code](./Array/medium/128-longest-consecutive-sequence) | [leetcode](https://leetcode.com/problems/longest-consecutive-sequence/) |
@@ -235,7 +242,6 @@
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 36-valid-sudoku | Medium | [code](./Array/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 2316-count-hills-and-valleys-in-an-array | Easy | [code](./Array/easy/2316-count-hills-and-valleys-in-an-array) | [leetcode](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |
 
 ### Sliding Window
 
@@ -350,6 +356,7 @@
 | 9-palindrome-number | Easy | [code](./Math/easy/9-palindrome-number) | [leetcode](https://leetcode.com/problems/palindrome-number/) |
 | 7-reverse-integer | Medium | [code](./Math/medium/7-reverse-integer) | [leetcode](https://leetcode.com/problems/reverse-integer/) |
 | 556-next-greater-element-iii | Medium | [code](./Math/medium/556-next-greater-element-iii) | [leetcode](https://leetcode.com/problems/next-greater-element-iii/) |
+| 1444-number-of-steps-to-reduce-a-number-to-zero | Easy | [code](./Math/easy/1444-number-of-steps-to-reduce-a-number-to-zero) | [leetcode](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |
 
 ### Randomized
 
@@ -437,6 +444,7 @@
 | 136-single-number | Easy | [code](./Bit-Manipulation/easy/136-single-number) | [leetcode](https://leetcode.com/problems/single-number/) |
 | 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Bit-Manipulation/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
 | 800-letter-case-permutation | Medium | [code](./Bit-Manipulation/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
+| 1444-number-of-steps-to-reduce-a-number-to-zero | Easy | [code](./Bit-Manipulation/easy/1444-number-of-steps-to-reduce-a-number-to-zero) | [leetcode](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |
 
 ### Brainteaser
 
@@ -499,12 +507,6 @@
 |---|---|---|---|
 | 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Enumeration/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
 | 3201-distribute-candies-among-children-ii | Medium | [code](./Enumeration/medium/3201-distribute-candies-among-children-ii) | [leetcode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
-
-### Binary Search Tree
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Search-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 
 ### Combinatorics
 
