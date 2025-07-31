@@ -2,42 +2,42 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 85
+**Total Problems Solved:** 89
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 41 |
-| Medium | 42 |
+| Easy | 42 |
+| Medium | 45 |
 | Hard | 2 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 52 |
+| Array | 53 |
 | Hash Table | 23 |
-| String | 18 |
+| String | 19 |
 | Sorting | 15 |
-| Two Pointers | 12 |
-| Math | 9 |
+| Two Pointers | 13 |
+| Math | 10 |
+| Depth-First Search | 8 |
 | Database | 8 |
 | Stack | 8 |
 | Binary Search | 8 |
-| Depth-First Search | 7 |
+| Breadth-First Search | 6 |
 | Counting | 6 |
 | Sliding Window | 6 |
 | Bit Manipulation | 6 |
 | Greedy | 6 |
-| Breadth-First Search | 5 |
+| Tree | 5 |
+| Binary Tree | 5 |
 | Heap (Priority Queue) | 5 |
 | Monotonic Stack | 5 |
 | Dynamic Programming | 5 |
 | Design | 4 |
 | Matrix | 4 |
-| Tree | 3 |
-| Binary Tree | 3 |
 | Divide and Conquer | 3 |
 | Linked List | 3 |
 | Recursion | 3 |
@@ -53,6 +53,7 @@
 | Brainteaser | 1 |
 | Simulation | 1 |
 | Memoization | 1 |
+| Binary Search Tree | 1 |
 | Combinatorics | 1 |
 | String Matching | 1 |
 
@@ -65,6 +66,8 @@
 | 100-same-tree | Easy | [code](./Tree/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 101-symmetric-tree | Easy | [code](./Tree/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Tree/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
+| 230-kth-smallest-element-in-a-bst | Medium | [code](./Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
+| 998-check-completeness-of-a-binary-tree | Medium | [code](./Tree/medium/998-check-completeness-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
 
 ### Depth-First Search
 
@@ -77,6 +80,7 @@
 | 386-lexicographical-numbers | Medium | [code](./Depth-First-Search/medium/386-lexicographical-numbers) | [leetcode](https://leetcode.com/problems/lexicographical-numbers/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Depth-First-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Depth-First-Search/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
+| 230-kth-smallest-element-in-a-bst | Medium | [code](./Depth-First-Search/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 
 ### Breadth-First Search
 
@@ -87,6 +91,7 @@
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Breadth-First-Search/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 733-flood-fill | Easy | [code](./Breadth-First-Search/easy/733-flood-fill) | [leetcode](https://leetcode.com/problems/flood-fill/) |
 | 1753-path-with-minimum-effort | Medium | [code](./Breadth-First-Search/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 998-check-completeness-of-a-binary-tree | Medium | [code](./Breadth-First-Search/medium/998-check-completeness-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
 
 ### Binary Tree
 
@@ -95,6 +100,8 @@
 | 100-same-tree | Easy | [code](./Binary-Tree/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 101-symmetric-tree | Easy | [code](./Binary-Tree/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Binary-Tree/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
+| 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
+| 998-check-completeness-of-a-binary-tree | Medium | [code](./Binary-Tree/medium/998-check-completeness-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
 
 ### Database
 
@@ -122,6 +129,7 @@
 | 1995-finding-pairs-with-a-certain-sum | Medium | [code](./Hash-Table/medium/1995-finding-pairs-with-a-certain-sum) | [leetcode](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) |
 | 380-insert-delete-getrandom-o1 | Medium | [code](./Hash-Table/medium/380-insert-delete-getrandom-o1) | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
 | 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+| 496-next-greater-element-i | Easy | [code](./Hash-Table/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 1813-maximum-erasure-value | Medium | [code](./Hash-Table/medium/1813-maximum-erasure-value) | [leetcode](https://leetcode.com/problems/maximum-erasure-value/) |
 | 1-two-sum | Easy | [code](./Hash-Table/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
@@ -135,7 +143,6 @@
 | 36-valid-sudoku | Medium | [code](./Hash-Table/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./Hash-Table/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
-| 496-next-greater-element-i | Easy | [code](./Hash-Table/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 
 ### String
 
@@ -153,6 +160,7 @@
 | 273-integer-to-english-words | Hard | [code](./String/hard/273-integer-to-english-words) | [leetcode](https://leetcode.com/problems/integer-to-english-words/) |
 | 800-letter-case-permutation | Medium | [code](./String/medium/800-letter-case-permutation) | [leetcode](https://leetcode.com/problems/letter-case-permutation/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./String/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 556-next-greater-element-iii | Medium | [code](./String/medium/556-next-greater-element-iii) | [leetcode](https://leetcode.com/problems/next-greater-element-iii/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./String/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
@@ -186,6 +194,8 @@
 | 1753-path-with-minimum-effort | Medium | [code](./Array/medium/1753-path-with-minimum-effort) | [leetcode](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 1350-remove-sub-folders-from-the-filesystem | Medium | [code](./Array/medium/1350-remove-sub-folders-from-the-filesystem) | [leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
 | 2503-longest-subarray-with-maximum-bitwise-and | Medium | [code](./Array/medium/2503-longest-subarray-with-maximum-bitwise-and) | [leetcode](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) |
+| 496-next-greater-element-i | Easy | [code](./Array/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
+| 503-next-greater-element-ii | Medium | [code](./Array/medium/503-next-greater-element-ii) | [leetcode](https://leetcode.com/problems/next-greater-element-ii/) |
 | 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
@@ -193,7 +203,6 @@
 | 1966-frequency-of-the-most-frequent-element | Medium | [code](./Array/medium/1966-frequency-of-the-most-frequent-element) | [leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |
 | 1813-maximum-erasure-value | Medium | [code](./Array/medium/1813-maximum-erasure-value) | [leetcode](https://leetcode.com/problems/maximum-erasure-value/) |
 | 2498-smallest-subarrays-with-maximum-bitwise-or | Medium | [code](./Array/medium/2498-smallest-subarrays-with-maximum-bitwise-or) | [leetcode](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) |
-| 503-next-greater-element-ii | Medium | [code](./Array/medium/503-next-greater-element-ii) | [leetcode](https://leetcode.com/problems/next-greater-element-ii/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
 | 268-missing-number | Easy | [code](./Array/easy/268-missing-number) | [leetcode](https://leetcode.com/problems/missing-number/) |
@@ -226,7 +235,7 @@
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 36-valid-sudoku | Medium | [code](./Array/medium/36-valid-sudoku) | [leetcode](https://leetcode.com/problems/valid-sudoku/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Array/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 496-next-greater-element-i | Easy | [code](./Array/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
+| 2316-count-hills-and-valleys-in-an-array | Easy | [code](./Array/easy/2316-count-hills-and-valleys-in-an-array) | [leetcode](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |
 
 ### Sliding Window
 
@@ -295,11 +304,11 @@
 |---|---|---|---|
 | 937-online-stock-span | Medium | [code](./Stack/medium/937-online-stock-span) | [leetcode](https://leetcode.com/problems/online-stock-span/) |
 | 155-min-stack | Medium | [code](./Stack/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
+| 496-next-greater-element-i | Easy | [code](./Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
+| 503-next-greater-element-ii | Medium | [code](./Stack/medium/503-next-greater-element-ii) | [leetcode](https://leetcode.com/problems/next-greater-element-ii/) |
 | 883-car-fleet | Medium | [code](./Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Stack/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
-| 503-next-greater-element-ii | Medium | [code](./Stack/medium/503-next-greater-element-ii) | [leetcode](https://leetcode.com/problems/next-greater-element-ii/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Stack/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-| 496-next-greater-element-i | Easy | [code](./Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 | 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 
 ### Design
@@ -316,10 +325,10 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 937-online-stock-span | Medium | [code](./Monotonic-Stack/medium/937-online-stock-span) | [leetcode](https://leetcode.com/problems/online-stock-span/) |
+| 496-next-greater-element-i | Easy | [code](./Monotonic-Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
+| 503-next-greater-element-ii | Medium | [code](./Monotonic-Stack/medium/503-next-greater-element-ii) | [leetcode](https://leetcode.com/problems/next-greater-element-ii/) |
 | 883-car-fleet | Medium | [code](./Monotonic-Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Monotonic-Stack/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
-| 503-next-greater-element-ii | Medium | [code](./Monotonic-Stack/medium/503-next-greater-element-ii) | [leetcode](https://leetcode.com/problems/next-greater-element-ii/) |
-| 496-next-greater-element-i | Easy | [code](./Monotonic-Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 
 ### Data Stream
 
@@ -340,6 +349,7 @@
 | 3201-distribute-candies-among-children-ii | Medium | [code](./Math/medium/3201-distribute-candies-among-children-ii) | [leetcode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
 | 9-palindrome-number | Easy | [code](./Math/easy/9-palindrome-number) | [leetcode](https://leetcode.com/problems/palindrome-number/) |
 | 7-reverse-integer | Medium | [code](./Math/medium/7-reverse-integer) | [leetcode](https://leetcode.com/problems/reverse-integer/) |
+| 556-next-greater-element-iii | Medium | [code](./Math/medium/556-next-greater-element-iii) | [leetcode](https://leetcode.com/problems/next-greater-element-iii/) |
 
 ### Randomized
 
@@ -377,6 +387,7 @@
 | 31-next-permutation | Medium | [code](./Two-Pointers/medium/31-next-permutation) | [leetcode](https://leetcode.com/problems/next-permutation/) |
 | 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 1621-number-of-subsequences-that-satisfy-the-given-sum-condition | Medium | [code](./Two-Pointers/medium/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) | [leetcode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 556-next-greater-element-iii | Medium | [code](./Two-Pointers/medium/556-next-greater-element-iii) | [leetcode](https://leetcode.com/problems/next-greater-element-iii/) |
 | 28-find-the-index-of-the-first-occurrence-in-a-string | Easy | [code](./Two-Pointers/easy/28-find-the-index-of-the-first-occurrence-in-a-string) | [leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 
@@ -488,6 +499,12 @@
 |---|---|---|---|
 | 2170-count-number-of-maximum-bitwise-or-subsets | Medium | [code](./Enumeration/medium/2170-count-number-of-maximum-bitwise-or-subsets) | [leetcode](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) |
 | 3201-distribute-candies-among-children-ii | Medium | [code](./Enumeration/medium/3201-distribute-candies-among-children-ii) | [leetcode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
+
+### Binary Search Tree
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Search-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 
 ### Combinatorics
 
