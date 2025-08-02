@@ -1,34 +1,26 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        # # Iter 1
-        stack = []
-        cur = ""
-        for c in path + "/":
-            if c == "/":
-                if cur == "..":
-                    if stack:
-                        stack.pop()
-                elif cur != "" and cur != ".":
-                    stack.append(cur)
-                cur = ""
-            else:
-                cur += c
-        return "/" + "/".join(stack)
-
-        # Iter 2
+        # # BruteForce
         # stack = []
-        # for token in path.split("/"):
-        #     if token == "..":
-        #         if stack:
-        #             stack.pop()
-        #     elif token and token != ".":
-        #         stack.append(token)
-        # return "/" + "/".join(stack)
-        # arr = [i for i in path.split('/')]
-        # for i in arr:
-        #     if i == '..':
-        #         stack.pop()
-        #     elif i == ".":
-        #         continue
+        # cur = ""
+        # for c in path + "/":
+        #     if c == "/":
+        #         if cur == "..":
+        #             if stack:
+        #                 stack.pop()
+        #         elif cur != "" and cur != ".":
+        #             stack.append(cur)
+        #         cur = ""
         #     else:
-        #         stack.append(i)
+        #         cur += c
+        # return "/" + "/".join(stack)
+
+        # Optimal
+        stack = []
+        for token in path.split("/"):
+            if token == "..":
+                if stack:
+                    stack.pop()
+            elif token and token != ".":
+                stack.append(token)
+        return "/" + "/".join(stack)
