@@ -16,63 +16,38 @@
 
 | Tag | Count |
 |---|---|
-| String | 2 |
 | Math | 2 |
-| Stack | 1 |
+| String | 2 |
+| Linked List | 1 |
+| Recursion | 1 |
+| Dynamic Programming | 1 |
+| Memoization | 1 |
 | Array | 1 |
 | Hash Table | 1 |
 | Bit Manipulation | 1 |
 | Simulation | 1 |
-| Dynamic Programming | 1 |
-| Memoization | 1 |
-| Linked List | 1 |
-| Recursion | 1 |
+| Stack | 1 |
 
 ## Solutions by Tag
 
-### String
+### Linked List
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
-| 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
+| 21-merge-two-sorted-lists | Easy | [code](./Linked-List/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 
-### Stack
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
-
-### Array
+### Recursion
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
-
-### Hash Table
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 1-two-sum | Easy | [code](./Hash-Table/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
+| 21-merge-two-sorted-lists | Easy | [code](./Recursion/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 
 ### Math
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 67-add-binary | Easy | [code](./Math/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 70-climbing-stairs | Easy | [code](./Math/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
-
-### Bit Manipulation
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 67-add-binary | Easy | [code](./Bit-Manipulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
-
-### Simulation
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 67-add-binary | Easy | [code](./Simulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
+| 67-add-binary | Easy | [code](./Math/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 
 ### Dynamic Programming
 
@@ -86,15 +61,40 @@
 |---|---|---|---|
 | 70-climbing-stairs | Easy | [code](./Memoization/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
 
-### Linked List
+### Array
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 21-merge-two-sorted-lists | Easy | [code](./Linked-List/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
 
-### Recursion
+### Hash Table
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 21-merge-two-sorted-lists | Easy | [code](./Recursion/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 1-two-sum | Easy | [code](./Hash-Table/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
+
+### String
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
+| 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
+
+### Bit Manipulation
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 67-add-binary | Easy | [code](./Bit-Manipulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
+
+### Simulation
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 67-add-binary | Easy | [code](./Simulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
+
+### Stack
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 
