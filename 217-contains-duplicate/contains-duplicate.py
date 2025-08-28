@@ -1,11 +1,11 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        # BruteForce
-        return not len(nums) == len(set(nums))
+        # # BruteForce
+        # return not len(nums) == len(set(nums))
 
         # Optimal
         counts = Counter(nums)
         for i in counts:
             if counts[i] > 1:
-                return False
-        return True
+                return True
+        return False
