@@ -3,7 +3,7 @@ class Solution:
         min_price = float("inf")
         max_profit = float("-inf")
 
-        for index, val in enumerate(prices):
+        for val in prices:
             if val < min_price:
                 min_price = val
             if max_profit < val - min_price:
