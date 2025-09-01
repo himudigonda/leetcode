@@ -33,6 +33,7 @@ class Solution:
         #             bfs(row, col)
         # return islands
 
+        # DFS Optimal in-place update
         if not grid:
             return
 
