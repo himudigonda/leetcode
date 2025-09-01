@@ -52,10 +52,11 @@ class Solution:
                 return
 
             grid[row][col] = "-1"
-            directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
-            for dr, dc in directions:
-                r, c = row + dr, col + dc
-                dfs(r, c)
+
+            dfs(row, col + 1)
+            dfs(row, col - 1)
+            dfs(row + 1, col)
+            dfs(row - 1, col)
 
         for i in range(ROWS):
             for j in range(COLS):
