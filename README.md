@@ -21,71 +21,48 @@
 | Depth-First Search | 5 |
 | Hash Table | 5 |
 | Sorting | 5 |
+| Stack | 4 |
 | Tree | 4 |
 | Binary Tree | 4 |
-| Stack | 4 |
-| Binary Search | 3 |
 | Breadth-First Search | 3 |
+| Binary Search | 3 |
 | Math | 3 |
 | Dynamic Programming | 3 |
 | Two Pointers | 3 |
 | Counting | 2 |
+| Binary Search Tree | 1 |
 | Divide and Conquer | 1 |
 | Heap (Priority Queue) | 1 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
+| Design | 1 |
 | Linked List | 1 |
 | Recursion | 1 |
-| Memoization | 1 |
-| Trie | 1 |
-| Bit Manipulation | 1 |
-| Simulation | 1 |
-| Design | 1 |
-| Binary Search Tree | 1 |
-| Backtracking | 1 |
 | Union Find | 1 |
 | Matrix | 1 |
+| Memoization | 1 |
+| Trie | 1 |
+| Backtracking | 1 |
+| Bit Manipulation | 1 |
+| Simulation | 1 |
 
 ## Solutions by Tag
 
-### Array
+### Stack
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
-| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Array/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
-| 347-top-k-frequent-elements | Medium | [code](./Array/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
-| 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-| 14-longest-common-prefix | Easy | [code](./Array/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
-| 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
-| 217-contains-duplicate | Easy | [code](./Array/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
-| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
-| 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 121-best-time-to-buy-and-sell-stock | Easy | [code](./Array/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| 200-number-of-islands | Medium | [code](./Array/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
-
-### Binary Search
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
-| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Binary-Search/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
-| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-
-### Counting
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Counting/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
-| 347-top-k-frequent-elements | Medium | [code](./Counting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 94-binary-tree-inorder-traversal | Easy | [code](./Stack/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 155-min-stack | Medium | [code](./Stack/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
+| 150-evaluate-reverse-polish-notation | Medium | [code](./Stack/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 
 ### Tree
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 104-maximum-depth-of-binary-tree | Easy | [code](./Tree/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 | 94-binary-tree-inorder-traversal | Easy | [code](./Tree/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 104-maximum-depth-of-binary-tree | Easy | [code](./Tree/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 | 98-validate-binary-search-tree | Medium | [code](./Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 
@@ -93,11 +70,20 @@
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 104-maximum-depth-of-binary-tree | Easy | [code](./Depth-First-Search/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 | 94-binary-tree-inorder-traversal | Easy | [code](./Depth-First-Search/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 104-maximum-depth-of-binary-tree | Easy | [code](./Depth-First-Search/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 | 98-validate-binary-search-tree | Medium | [code](./Depth-First-Search/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Depth-First-Search/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 200-number-of-islands | Medium | [code](./Depth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+
+### Binary Tree
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 94-binary-tree-inorder-traversal | Easy | [code](./Binary-Tree/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 104-maximum-depth-of-binary-tree | Easy | [code](./Binary-Tree/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 98-validate-binary-search-tree | Medium | [code](./Binary-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
+| 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Binary-Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 
 ### Breadth-First Search
 
@@ -107,23 +93,43 @@
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Breadth-First-Search/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 200-number-of-islands | Medium | [code](./Breadth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
 
-### Binary Tree
+### Binary Search Tree
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 104-maximum-depth-of-binary-tree | Easy | [code](./Binary-Tree/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
-| 94-binary-tree-inorder-traversal | Easy | [code](./Binary-Tree/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
-| 98-validate-binary-search-tree | Medium | [code](./Binary-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
-| 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Binary-Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
+| 98-validate-binary-search-tree | Medium | [code](./Binary-Search-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
 
-### Stack
+### Array
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 94-binary-tree-inorder-traversal | Easy | [code](./Stack/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
-| 150-evaluate-reverse-polish-notation | Medium | [code](./Stack/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-| 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
-| 155-min-stack | Medium | [code](./Stack/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
+| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Array/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
+| 347-top-k-frequent-elements | Medium | [code](./Array/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 200-number-of-islands | Medium | [code](./Array/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
+| 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
+| 14-longest-common-prefix | Easy | [code](./Array/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
+| 121-best-time-to-buy-and-sell-stock | Easy | [code](./Array/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 217-contains-duplicate | Easy | [code](./Array/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
+| 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+
+### Binary Search
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Binary-Search/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
+| 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
+| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+
+### Counting
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Counting/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
+| 347-top-k-frequent-elements | Medium | [code](./Counting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 
 ### Hash Table
 
@@ -169,6 +175,12 @@
 |---|---|---|---|
 | 347-top-k-frequent-elements | Medium | [code](./Quickselect/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 
+### Design
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 155-min-stack | Medium | [code](./Design/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
+
 ### Linked List
 
 | Problem | Difficulty | Code | LeetCode |
@@ -180,6 +192,18 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 21-merge-two-sorted-lists | Easy | [code](./Recursion/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+
+### Union Find
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 200-number-of-islands | Medium | [code](./Union-Find/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+
+### Matrix
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 200-number-of-islands | Medium | [code](./Matrix/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
 
 ### Math
 
@@ -208,12 +232,12 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 14-longest-common-prefix | Easy | [code](./String/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
-| 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 22-generate-parentheses | Medium | [code](./String/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
 | 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 242-valid-anagram | Easy | [code](./String/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
-| 22-generate-parentheses | Medium | [code](./String/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
+| 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 
 ### Trie
 
@@ -229,6 +253,12 @@
 | 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 
+### Backtracking
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 22-generate-parentheses | Medium | [code](./Backtracking/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
+
 ### Bit Manipulation
 
 | Problem | Difficulty | Code | LeetCode |
@@ -240,34 +270,4 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 67-add-binary | Easy | [code](./Simulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
-
-### Design
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 155-min-stack | Medium | [code](./Design/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
-
-### Binary Search Tree
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 98-validate-binary-search-tree | Medium | [code](./Binary-Search-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
-
-### Backtracking
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 22-generate-parentheses | Medium | [code](./Backtracking/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
-
-### Union Find
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 200-number-of-islands | Medium | [code](./Union-Find/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
-
-### Matrix
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 200-number-of-islands | Medium | [code](./Matrix/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
 
