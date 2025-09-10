@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 24
+**Total Problems Solved:** 25
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 10 |
 | Hard | 0 |
 
@@ -16,7 +16,7 @@
 
 | Tag | Count |
 |---|---|
-| Array | 12 |
+| Array | 13 |
 | String | 7 |
 | Depth-First Search | 5 |
 | Hash Table | 5 |
@@ -24,11 +24,11 @@
 | Stack | 4 |
 | Tree | 4 |
 | Binary Tree | 4 |
+| Two Pointers | 4 |
 | Breadth-First Search | 3 |
 | Binary Search | 3 |
 | Math | 3 |
 | Dynamic Programming | 3 |
-| Two Pointers | 3 |
 | Counting | 2 |
 | Binary Search Tree | 1 |
 | Divide and Conquer | 1 |
@@ -115,6 +115,7 @@
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+| 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 
 ### Binary Search
 
@@ -252,6 +253,7 @@
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
+| 26-remove-duplicates-from-sorted-array | Easy | [code](./Two-Pointers/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 
 ### Backtracking
 
