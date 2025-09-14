@@ -8,9 +8,9 @@ class Solution:
             hours = 0
             for p in piles:
                 hours += math.ceil(p / k)
-            if hours <= h:
+            if hours > h:
+                l = k + 1
+            else:
                 res = min(res, k)
                 r = k - 1
-            else:
-                l = k + 1
         return res
