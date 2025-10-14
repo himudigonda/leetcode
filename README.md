@@ -22,10 +22,10 @@
 | Sorting | 7 |
 | Two Pointers | 7 |
 | Depth-First Search | 6 |
-| Binary Search | 5 |
 | Stack | 5 |
 | Tree | 5 |
 | Binary Tree | 5 |
+| Binary Search | 5 |
 | Breadth-First Search | 3 |
 | Math | 3 |
 | Dynamic Programming | 3 |
@@ -44,44 +44,12 @@
 | Monotonic Stack | 1 |
 | Memoization | 1 |
 | Trie | 1 |
-| Backtracking | 1 |
 | Counting Sort | 1 |
+| Backtracking | 1 |
 | Bit Manipulation | 1 |
 | Simulation | 1 |
 
 ## Solutions by Tag
-
-### Array
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 907-koko-eating-bananas | Medium | [code](./Array/medium/907-koko-eating-bananas) | [leetcode](https://leetcode.com/problems/koko-eating-bananas/) |
-| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Array/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
-| 347-top-k-frequent-elements | Medium | [code](./Array/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
-| 200-number-of-islands | Medium | [code](./Array/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
-| 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
-| 74-search-a-2d-matrix | Medium | [code](./Array/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
-| 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
-| 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
-| 14-longest-common-prefix | Easy | [code](./Array/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
-| 121-best-time-to-buy-and-sell-stock | Easy | [code](./Array/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| 217-contains-duplicate | Easy | [code](./Array/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
-| 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
-| 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Array/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
-
-### Binary Search
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 907-koko-eating-bananas | Medium | [code](./Binary-Search/medium/907-koko-eating-bananas) | [leetcode](https://leetcode.com/problems/koko-eating-bananas/) |
-| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Binary-Search/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
-| 74-search-a-2d-matrix | Medium | [code](./Binary-Search/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
-| 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
-| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 
 ### Stack
 
@@ -139,6 +107,38 @@
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Search-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 98-validate-binary-search-tree | Medium | [code](./Binary-Search-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
 
+### Array
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Array/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
+| 347-top-k-frequent-elements | Medium | [code](./Array/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 200-number-of-islands | Medium | [code](./Array/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
+| 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
+| 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
+| 14-longest-common-prefix | Easy | [code](./Array/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
+| 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Array/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
+| 121-best-time-to-buy-and-sell-stock | Easy | [code](./Array/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 217-contains-duplicate | Easy | [code](./Array/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
+| 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 907-koko-eating-bananas | Medium | [code](./Array/medium/907-koko-eating-bananas) | [leetcode](https://leetcode.com/problems/koko-eating-bananas/) |
+| 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 74-search-a-2d-matrix | Medium | [code](./Array/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
+| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+
+### Binary Search
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Binary-Search/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
+| 792-binary-search | Easy | [code](./Binary-Search/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
+| 907-koko-eating-bananas | Medium | [code](./Binary-Search/medium/907-koko-eating-bananas) | [leetcode](https://leetcode.com/problems/koko-eating-bananas/) |
+| 74-search-a-2d-matrix | Medium | [code](./Binary-Search/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
+| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+
 ### Counting
 
 | Problem | Difficulty | Code | LeetCode |
@@ -151,12 +151,12 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 347-top-k-frequent-elements | Medium | [code](./Hash-Table/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Hash-Table/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 | 1-two-sum | Easy | [code](./Hash-Table/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
+| 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Hash-Table/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 217-contains-duplicate | Easy | [code](./Hash-Table/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
-| 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
-| 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Hash-Table/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 242-valid-anagram | Easy | [code](./Hash-Table/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 
 ### Divide and Conquer
@@ -171,10 +171,10 @@
 |---|---|---|---|
 | 347-top-k-frequent-elements | Medium | [code](./Sorting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 883-car-fleet | Medium | [code](./Sorting/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
+| 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Sorting/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 217-contains-duplicate | Easy | [code](./Sorting/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
 | 49-group-anagrams | Medium | [code](./Sorting/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Sorting/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 242-valid-anagram | Easy | [code](./Sorting/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 
 ### Heap (Priority Queue)
@@ -232,26 +232,14 @@
 |---|---|---|---|
 | 883-car-fleet | Medium | [code](./Monotonic-Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 
-### Two Pointers
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 567-permutation-in-string | Medium | [code](./Two-Pointers/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
-| 26-remove-duplicates-from-sorted-array | Easy | [code](./Two-Pointers/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
-| 541-reverse-string-ii | Easy | [code](./Two-Pointers/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
-| 345-reverse-vowels-of-a-string | Easy | [code](./Two-Pointers/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
-
 ### String
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 3-longest-substring-without-repeating-characters | Medium | [code](./String/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./String/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 | 14-longest-common-prefix | Easy | [code](./String/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
-| 3-longest-substring-without-repeating-characters | Medium | [code](./String/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 22-generate-parentheses | Medium | [code](./String/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
 | 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
@@ -264,8 +252,20 @@
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 567-permutation-in-string | Medium | [code](./Sliding-Window/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 567-permutation-in-string | Medium | [code](./Sliding-Window/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
+
+### Two Pointers
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 567-permutation-in-string | Medium | [code](./Two-Pointers/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
+| 26-remove-duplicates-from-sorted-array | Easy | [code](./Two-Pointers/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+| 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
+| 541-reverse-string-ii | Easy | [code](./Two-Pointers/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
+| 345-reverse-vowels-of-a-string | Easy | [code](./Two-Pointers/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 
 ### Math
 
@@ -295,17 +295,17 @@
 |---|---|---|---|
 | 14-longest-common-prefix | Easy | [code](./Trie/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
 
-### Backtracking
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 22-generate-parentheses | Medium | [code](./Backtracking/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
-
 ### Counting Sort
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Counting-Sort/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
+
+### Backtracking
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 22-generate-parentheses | Medium | [code](./Backtracking/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
 
 ### Bit Manipulation
 
