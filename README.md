@@ -2,21 +2,21 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 34
+**Total Problems Solved:** 35
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 18 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 0 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 17 |
+| Array | 18 |
 | String | 11 |
 | Hash Table | 8 |
 | Sorting | 7 |
@@ -43,6 +43,7 @@
 | Union Find | 1 |
 | Monotonic Stack | 1 |
 | Memoization | 1 |
+| Prefix Sum | 1 |
 | Trie | 1 |
 | Counting Sort | 1 |
 | Backtracking | 1 |
@@ -115,6 +116,7 @@
 | 347-top-k-frequent-elements | Medium | [code](./Array/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 200-number-of-islands | Medium | [code](./Array/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
 | 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
+| 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
 | 14-longest-common-prefix | Easy | [code](./Array/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
@@ -240,9 +242,9 @@
 | 567-permutation-in-string | Medium | [code](./String/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 | 14-longest-common-prefix | Easy | [code](./String/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 22-generate-parentheses | Medium | [code](./String/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
 | 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
-| 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 541-reverse-string-ii | Easy | [code](./String/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
 | 345-reverse-vowels-of-a-string | Easy | [code](./String/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 | 242-valid-anagram | Easy | [code](./String/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
@@ -288,6 +290,12 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 70-climbing-stairs | Easy | [code](./Memoization/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
+
+### Prefix Sum
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 238-product-of-array-except-self | Medium | [code](./Prefix-Sum/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 
 ### Trie
 
