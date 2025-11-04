@@ -24,16 +24,32 @@ class Solution:
         #     res[i] = prefix[i] * suffix[i]
         # return res
 
-        # prefix suffix : int -> O(2*n) & O(1): 2 pass solution
-        n = len(nums)
-        prefix = 1
-        suffix = 1
-        res = [1] * n
-        for i in range(n):
-            res[i] = prefix
-            prefix = prefix * nums[i]
+        # # prefix suffix : int -> O(2*n) & O(1): 2 pass solution
+        # n = len(nums)
+        # prefix = 1
+        # suffix = 1
+        # res = [1] * n
+        # for i in range(n):
+        #     res[i] = prefix
+        #     prefix = prefix * nums[i]
         
-        for j in range(n - 1, -1, -1):
-            res[j] = res[j] * suffix
-            suffix = suffix * nums[j]
+        # for j in range(n - 1, -1, -1):
+        #     res[j] = res[j] * suffix
+        #     suffix = suffix * nums[j]
+        # return res
+
+        # # another version using div
+        prod = 1
+        zero = 0
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                prod *= nums[i]
+            else:
+                zero += 1
+        if zero == 0:
+            res = [prod // num for num in nums]
+        elif zero == 1:
+            res = [0 if num != 0 else prod for num in nums]
+        else:
+            return [0 for num in nums]
         return res
