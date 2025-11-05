@@ -2,22 +2,22 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 36
+**Total Problems Solved:** 37
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 18 |
-| Medium | 18 |
+| Medium | 19 |
 | Hard | 0 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 19 |
-| String | 11 |
+| Array | 20 |
+| String | 12 |
 | Hash Table | 8 |
 | Two Pointers | 8 |
 | Sorting | 7 |
@@ -26,13 +26,14 @@
 | Tree | 5 |
 | Binary Tree | 5 |
 | Binary Search | 5 |
+| Dynamic Programming | 4 |
 | Breadth-First Search | 3 |
 | Math | 3 |
-| Dynamic Programming | 3 |
 | Binary Search Tree | 2 |
 | Counting | 2 |
 | Matrix | 2 |
 | Sliding Window | 2 |
+| Greedy | 2 |
 | Divide and Conquer | 1 |
 | Heap (Priority Queue) | 1 |
 | Bucket Sort | 1 |
@@ -49,7 +50,6 @@
 | Backtracking | 1 |
 | Bit Manipulation | 1 |
 | Simulation | 1 |
-| Greedy | 1 |
 
 ## Solutions by Tag
 
@@ -129,9 +129,10 @@
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 74-search-a-2d-matrix | Medium | [code](./Array/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 11-container-with-most-water | Medium | [code](./Array/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 11-container-with-most-water | Medium | [code](./Array/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
+| 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 
 ### Binary Search
 
@@ -257,6 +258,7 @@
 | 345-reverse-vowels-of-a-string | Easy | [code](./String/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 | 242-valid-anagram | Easy | [code](./String/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 | 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
+| 1700-minimum-time-to-make-rope-colorful | Medium | [code](./String/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 
 ### Sliding Window
 
@@ -272,11 +274,11 @@
 | 567-permutation-in-string | Medium | [code](./Two-Pointers/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 | 26-remove-duplicates-from-sorted-array | Easy | [code](./Two-Pointers/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 11-container-with-most-water | Medium | [code](./Two-Pointers/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 | 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 541-reverse-string-ii | Easy | [code](./Two-Pointers/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
 | 345-reverse-vowels-of-a-string | Easy | [code](./Two-Pointers/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
-| 11-container-with-most-water | Medium | [code](./Two-Pointers/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 
 ### Math
 
@@ -293,6 +295,7 @@
 | 70-climbing-stairs | Easy | [code](./Dynamic-Programming/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
 | 121-best-time-to-buy-and-sell-stock | Easy | [code](./Dynamic-Programming/easy/121-best-time-to-buy-and-sell-stock) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 22-generate-parentheses | Medium | [code](./Dynamic-Programming/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
+| 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Dynamic-Programming/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 
 ### Memoization
 
@@ -312,6 +315,13 @@
 |---|---|---|---|
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Counting-Sort/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 
+### Greedy
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 11-container-with-most-water | Medium | [code](./Greedy/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
+| 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Greedy/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
+
 ### Backtracking
 
 | Problem | Difficulty | Code | LeetCode |
@@ -329,10 +339,4 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 67-add-binary | Easy | [code](./Simulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
-
-### Greedy
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 11-container-with-most-water | Medium | [code](./Greedy/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 
