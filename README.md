@@ -2,25 +2,25 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 35
+**Total Problems Solved:** 36
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 18 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 0 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 18 |
+| Array | 19 |
 | String | 11 |
 | Hash Table | 8 |
+| Two Pointers | 8 |
 | Sorting | 7 |
-| Two Pointers | 7 |
 | Depth-First Search | 6 |
 | Stack | 5 |
 | Tree | 5 |
@@ -42,13 +42,14 @@
 | Recursion | 1 |
 | Union Find | 1 |
 | Monotonic Stack | 1 |
-| Memoization | 1 |
 | Prefix Sum | 1 |
+| Memoization | 1 |
 | Trie | 1 |
 | Counting Sort | 1 |
 | Backtracking | 1 |
 | Bit Manipulation | 1 |
 | Simulation | 1 |
+| Greedy | 1 |
 
 ## Solutions by Tag
 
@@ -130,6 +131,7 @@
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+| 11-container-with-most-water | Medium | [code](./Array/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 
 ### Binary Search
 
@@ -234,6 +236,12 @@
 |---|---|---|---|
 | 883-car-fleet | Medium | [code](./Monotonic-Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 
+### Prefix Sum
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 238-product-of-array-except-self | Medium | [code](./Prefix-Sum/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
+
 ### String
 
 | Problem | Difficulty | Code | LeetCode |
@@ -242,9 +250,9 @@
 | 567-permutation-in-string | Medium | [code](./String/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 | 14-longest-common-prefix | Easy | [code](./String/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
-| 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 22-generate-parentheses | Medium | [code](./String/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
 | 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
+| 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 541-reverse-string-ii | Easy | [code](./String/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
 | 345-reverse-vowels-of-a-string | Easy | [code](./String/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 | 242-valid-anagram | Easy | [code](./String/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
@@ -268,6 +276,7 @@
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 541-reverse-string-ii | Easy | [code](./Two-Pointers/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
 | 345-reverse-vowels-of-a-string | Easy | [code](./Two-Pointers/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
+| 11-container-with-most-water | Medium | [code](./Two-Pointers/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 
 ### Math
 
@@ -290,12 +299,6 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 70-climbing-stairs | Easy | [code](./Memoization/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
-
-### Prefix Sum
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 238-product-of-array-except-self | Medium | [code](./Prefix-Sum/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 
 ### Trie
 
@@ -326,4 +329,10 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 67-add-binary | Easy | [code](./Simulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
+
+### Greedy
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 11-container-with-most-water | Medium | [code](./Greedy/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 
