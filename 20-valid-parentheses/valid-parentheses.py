@@ -8,10 +8,13 @@ class Solution:
         }
 
         for ch in s:
-            if ch in mapping.values():
+            if ch not in mapping:
                 stack.append(ch)
-            elif stack and stack[-1] == mapping[ch]:
-                stack.pop()
             else:
-                return False
+                if not stack:
+                    return False
+                else:
+                    popped = stack.pop()
+                    if popped != mapping[ch]:
+                        return False
         return len(stack) == 0
