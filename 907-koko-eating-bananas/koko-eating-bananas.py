@@ -1,7 +1,7 @@
 import math
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        piles.sort()
+        # piles.sort()
         max_in_piles = max(piles)
 
         def count_hours(speed):
