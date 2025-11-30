@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 55
+**Total Problems Solved:** 56
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 32 |
+| Easy | 33 |
 | Medium | 23 |
 | Hard | 0 |
 
@@ -29,12 +29,13 @@
 | Dynamic Programming | 6 |
 | Breadth-First Search | 5 |
 | Binary Search | 5 |
+| Linked List | 4 |
 | Counting | 3 |
-| Linked List | 3 |
 | Greedy | 3 |
 | Binary Search Tree | 2 |
 | Divide and Conquer | 2 |
 | Design | 2 |
+| Recursion | 2 |
 | Matrix | 2 |
 | Monotonic Stack | 2 |
 | Sliding Window | 2 |
@@ -43,14 +44,13 @@
 | Heap (Priority Queue) | 1 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
-| Recursion | 1 |
+| Queue | 1 |
 | Union Find | 1 |
 | Prefix Sum | 1 |
 | Memoization | 1 |
 | Trie | 1 |
 | Counting Sort | 1 |
 | Backtracking | 1 |
-| Queue | 1 |
 
 ## Solutions by Tag
 
@@ -106,11 +106,11 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 94-binary-tree-inorder-traversal | Easy | [code](./Stack/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 232-implement-queue-using-stacks | Easy | [code](./Stack/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 155-min-stack | Medium | [code](./Stack/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
 | 883-car-fleet | Medium | [code](./Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Stack/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Stack/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-| 232-implement-queue-using-stacks | Easy | [code](./Stack/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 
 ### Binary Search Tree
@@ -125,6 +125,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Array/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
+| 169-majority-element | Easy | [code](./Array/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
 | 347-top-k-frequent-elements | Medium | [code](./Array/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 200-number-of-islands | Medium | [code](./Array/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
 | 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
@@ -151,7 +152,6 @@
 | 1388-greatest-sum-divisible-by-three | Medium | [code](./Array/medium/1388-greatest-sum-divisible-by-three) | [leetcode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 169-majority-element | Easy | [code](./Array/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
 
 ### Binary Search
 
@@ -168,14 +168,16 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 2614-maximum-count-of-positive-integer-and-negative-integer | Easy | [code](./Counting/easy/2614-maximum-count-of-positive-integer-and-negative-integer) | [leetcode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
-| 347-top-k-frequent-elements | Medium | [code](./Counting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 169-majority-element | Easy | [code](./Counting/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
+| 347-top-k-frequent-elements | Medium | [code](./Counting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 
 ### Hash Table
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 169-majority-element | Easy | [code](./Hash-Table/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
 | 347-top-k-frequent-elements | Medium | [code](./Hash-Table/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Hash-Table/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 | 1-two-sum | Easy | [code](./Hash-Table/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
@@ -183,21 +185,20 @@
 | 217-contains-duplicate | Easy | [code](./Hash-Table/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Hash-Table/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
-| 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
-| 169-majority-element | Easy | [code](./Hash-Table/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
 | 242-valid-anagram | Easy | [code](./Hash-Table/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 
 ### Divide and Conquer
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 347-top-k-frequent-elements | Medium | [code](./Divide-and-Conquer/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 169-majority-element | Easy | [code](./Divide-and-Conquer/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
+| 347-top-k-frequent-elements | Medium | [code](./Divide-and-Conquer/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 
 ### Sorting
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 169-majority-element | Easy | [code](./Sorting/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
 | 347-top-k-frequent-elements | Medium | [code](./Sorting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 883-car-fleet | Medium | [code](./Sorting/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Sorting/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
@@ -205,7 +206,6 @@
 | 49-group-anagrams | Medium | [code](./Sorting/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 1388-greatest-sum-divisible-by-three | Medium | [code](./Sorting/medium/1388-greatest-sum-divisible-by-three) | [leetcode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 169-majority-element | Easy | [code](./Sorting/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
 | 242-valid-anagram | Easy | [code](./Sorting/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 
 ### Heap (Priority Queue)
@@ -230,22 +230,46 @@
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 155-min-stack | Medium | [code](./Design/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
 | 232-implement-queue-using-stacks | Easy | [code](./Design/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
+| 155-min-stack | Medium | [code](./Design/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
+
+### Queue
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 232-implement-queue-using-stacks | Easy | [code](./Queue/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
 
 ### Linked List
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 83-remove-duplicates-from-sorted-list | Easy | [code](./Linked-List/easy/83-remove-duplicates-from-sorted-list) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
-| 21-merge-two-sorted-lists | Easy | [code](./Linked-List/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 141-linked-list-cycle | Easy | [code](./Linked-List/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+| 21-merge-two-sorted-lists | Easy | [code](./Linked-List/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 206-reverse-linked-list | Easy | [code](./Linked-List/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
+
+### Two Pointers
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 141-linked-list-cycle | Easy | [code](./Two-Pointers/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+| 567-permutation-in-string | Medium | [code](./Two-Pointers/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
+| 27-remove-element | Easy | [code](./Two-Pointers/easy/27-remove-element) | [leetcode](https://leetcode.com/problems/remove-element/) |
+| 26-remove-duplicates-from-sorted-array | Easy | [code](./Two-Pointers/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 11-container-with-most-water | Medium | [code](./Two-Pointers/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
+| 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+| 392-is-subsequence | Easy | [code](./Two-Pointers/easy/392-is-subsequence) | [leetcode](https://leetcode.com/problems/is-subsequence/) |
+| 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
+| 541-reverse-string-ii | Easy | [code](./Two-Pointers/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
+| 345-reverse-vowels-of-a-string | Easy | [code](./Two-Pointers/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 
 ### Recursion
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 21-merge-two-sorted-lists | Easy | [code](./Recursion/easy/21-merge-two-sorted-lists) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 206-reverse-linked-list | Easy | [code](./Recursion/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
 
 ### Union Find
 
@@ -299,22 +323,6 @@
 |---|---|---|---|
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Sliding-Window/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
-
-### Two Pointers
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 567-permutation-in-string | Medium | [code](./Two-Pointers/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
-| 27-remove-element | Easy | [code](./Two-Pointers/easy/27-remove-element) | [leetcode](https://leetcode.com/problems/remove-element/) |
-| 26-remove-duplicates-from-sorted-array | Easy | [code](./Two-Pointers/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Two-Pointers/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| 11-container-with-most-water | Medium | [code](./Two-Pointers/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
-| 15-3sum | Medium | [code](./Two-Pointers/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 392-is-subsequence | Easy | [code](./Two-Pointers/easy/392-is-subsequence) | [leetcode](https://leetcode.com/problems/is-subsequence/) |
-| 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
-| 541-reverse-string-ii | Easy | [code](./Two-Pointers/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
-| 345-reverse-vowels-of-a-string | Easy | [code](./Two-Pointers/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
-| 141-linked-list-cycle | Easy | [code](./Two-Pointers/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
 
 ### Math
 
@@ -379,12 +387,6 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 22-generate-parentheses | Medium | [code](./Backtracking/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
-
-### Queue
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 232-implement-queue-using-stacks | Easy | [code](./Queue/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
 
 ### Simulation
 
