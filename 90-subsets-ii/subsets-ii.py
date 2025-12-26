@@ -18,4 +18,4 @@ class Solution:
             backtrack(i + 1)
 
         backtrack(0)
-        return list(res)
+        return res
