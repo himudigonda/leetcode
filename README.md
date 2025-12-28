@@ -2,57 +2,57 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 87
+**Total Problems Solved:** 94
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 43 |
-| Medium | 43 |
+| Easy | 45 |
+| Medium | 48 |
 | Hard | 1 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 44 |
-| String | 22 |
-| Depth-First Search | 15 |
-| Hash Table | 15 |
-| Tree | 14 |
-| Binary Tree | 14 |
+| Array | 47 |
+| String | 26 |
+| Hash Table | 18 |
+| Depth-First Search | 16 |
+| Tree | 15 |
+| Binary Tree | 15 |
 | Two Pointers | 14 |
 | Sorting | 13 |
 | Math | 12 |
-| Binary Search | 9 |
-| Dynamic Programming | 9 |
-| Breadth-First Search | 8 |
+| Binary Search | 10 |
+| Dynamic Programming | 10 |
+| Breadth-First Search | 9 |
+| Backtracking | 9 |
 | Stack | 7 |
 | Linked List | 7 |
-| Backtracking | 6 |
 | Counting | 5 |
+| Matrix | 5 |
 | Greedy | 5 |
 | Bit Manipulation | 5 |
-| Matrix | 4 |
 | Binary Search Tree | 3 |
 | Divide and Conquer | 3 |
+| Design | 3 |
 | Recursion | 3 |
 | Sliding Window | 3 |
-| Design | 2 |
+| Trie | 3 |
 | Monotonic Stack | 2 |
 | Prefix Sum | 2 |
 | Simulation | 2 |
+| String Matching | 1 |
+| Hash Function | 1 |
 | Heap (Priority Queue) | 1 |
 | Bucket Sort | 1 |
 | Quickselect | 1 |
 | Queue | 1 |
 | Union Find | 1 |
 | Memoization | 1 |
-| Trie | 1 |
 | Counting Sort | 1 |
-| String Matching | 1 |
-| Hash Function | 1 |
 
 ## Solutions by Tag
 
@@ -60,6 +60,7 @@
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 572-subtree-of-another-tree | Easy | [code](./Tree/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
 | 110-balanced-binary-tree | Easy | [code](./Tree/easy/110-balanced-binary-tree) | [leetcode](https://leetcode.com/problems/balanced-binary-tree/) |
 | 100-same-tree | Easy | [code](./Tree/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 94-binary-tree-inorder-traversal | Easy | [code](./Tree/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
@@ -67,18 +68,19 @@
 | 112-path-sum | Easy | [code](./Tree/easy/112-path-sum) | [leetcode](https://leetcode.com/problems/path-sum/) |
 | 543-diameter-of-binary-tree | Easy | [code](./Tree/easy/543-diameter-of-binary-tree) | [leetcode](https://leetcode.com/problems/diameter-of-binary-tree/) |
 | 104-maximum-depth-of-binary-tree | Easy | [code](./Tree/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Tree/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
+| 102-binary-tree-level-order-traversal | Medium | [code](./Tree/medium/102-binary-tree-level-order-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 98-validate-binary-search-tree | Medium | [code](./Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
-| 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Tree/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
-| 102-binary-tree-level-order-traversal | Medium | [code](./Tree/medium/102-binary-tree-level-order-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
-| 572-subtree-of-another-tree | Easy | [code](./Tree/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
+| 101-symmetric-tree | Easy | [code](./Tree/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
 
 ### Depth-First Search
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 572-subtree-of-another-tree | Easy | [code](./Depth-First-Search/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
 | 110-balanced-binary-tree | Easy | [code](./Depth-First-Search/easy/110-balanced-binary-tree) | [leetcode](https://leetcode.com/problems/balanced-binary-tree/) |
 | 100-same-tree | Easy | [code](./Depth-First-Search/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 94-binary-tree-inorder-traversal | Easy | [code](./Depth-First-Search/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
@@ -86,19 +88,26 @@
 | 112-path-sum | Easy | [code](./Depth-First-Search/easy/112-path-sum) | [leetcode](https://leetcode.com/problems/path-sum/) |
 | 543-diameter-of-binary-tree | Easy | [code](./Depth-First-Search/easy/543-diameter-of-binary-tree) | [leetcode](https://leetcode.com/problems/diameter-of-binary-tree/) |
 | 104-maximum-depth-of-binary-tree | Easy | [code](./Depth-First-Search/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Depth-First-Search/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Depth-First-Search/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 98-validate-binary-search-tree | Medium | [code](./Depth-First-Search/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Depth-First-Search/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Depth-First-Search/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
 | 79-word-search | Medium | [code](./Depth-First-Search/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
 | 200-number-of-islands | Medium | [code](./Depth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
-| 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Depth-First-Search/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
-| 572-subtree-of-another-tree | Easy | [code](./Depth-First-Search/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
+| 101-symmetric-tree | Easy | [code](./Depth-First-Search/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
+
+### String Matching
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 572-subtree-of-another-tree | Easy | [code](./String-Matching/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
 
 ### Binary Tree
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 572-subtree-of-another-tree | Easy | [code](./Binary-Tree/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
 | 110-balanced-binary-tree | Easy | [code](./Binary-Tree/easy/110-balanced-binary-tree) | [leetcode](https://leetcode.com/problems/balanced-binary-tree/) |
 | 100-same-tree | Easy | [code](./Binary-Tree/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 94-binary-tree-inorder-traversal | Easy | [code](./Binary-Tree/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
@@ -106,13 +115,19 @@
 | 112-path-sum | Easy | [code](./Binary-Tree/easy/112-path-sum) | [leetcode](https://leetcode.com/problems/path-sum/) |
 | 543-diameter-of-binary-tree | Easy | [code](./Binary-Tree/easy/543-diameter-of-binary-tree) | [leetcode](https://leetcode.com/problems/diameter-of-binary-tree/) |
 | 104-maximum-depth-of-binary-tree | Easy | [code](./Binary-Tree/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Binary-Tree/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
+| 102-binary-tree-level-order-traversal | Medium | [code](./Binary-Tree/medium/102-binary-tree-level-order-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 98-validate-binary-search-tree | Medium | [code](./Binary-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Binary-Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Binary-Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
-| 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Binary-Tree/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
-| 102-binary-tree-level-order-traversal | Medium | [code](./Binary-Tree/medium/102-binary-tree-level-order-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
-| 572-subtree-of-another-tree | Easy | [code](./Binary-Tree/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
+| 101-symmetric-tree | Easy | [code](./Binary-Tree/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
+
+### Hash Function
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 572-subtree-of-another-tree | Easy | [code](./Hash-Function/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
 
 ### Breadth-First Search
 
@@ -122,10 +137,11 @@
 | 226-invert-binary-tree | Easy | [code](./Breadth-First-Search/easy/226-invert-binary-tree) | [leetcode](https://leetcode.com/problems/invert-binary-tree/) |
 | 112-path-sum | Easy | [code](./Breadth-First-Search/easy/112-path-sum) | [leetcode](https://leetcode.com/problems/path-sum/) |
 | 104-maximum-depth-of-binary-tree | Easy | [code](./Breadth-First-Search/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 102-binary-tree-level-order-traversal | Medium | [code](./Breadth-First-Search/medium/102-binary-tree-level-order-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Breadth-First-Search/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 200-number-of-islands | Medium | [code](./Breadth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 101-symmetric-tree | Easy | [code](./Breadth-First-Search/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
 | 1036-rotting-oranges | Medium | [code](./Breadth-First-Search/medium/1036-rotting-oranges) | [leetcode](https://leetcode.com/problems/rotting-oranges/) |
-| 102-binary-tree-level-order-traversal | Medium | [code](./Breadth-First-Search/medium/102-binary-tree-level-order-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 
 ### Stack
 
@@ -143,9 +159,9 @@
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Binary-Search-Tree/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Search-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 98-validate-binary-search-tree | Medium | [code](./Binary-Search-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
-| 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Binary-Search-Tree/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 
 ### Array
 
@@ -160,6 +176,7 @@
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 209-minimum-size-subarray-sum | Medium | [code](./Array/medium/209-minimum-size-subarray-sum) | [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 40-combination-sum-ii | Medium | [code](./Array/medium/40-combination-sum-ii) | [leetcode](https://leetcode.com/problems/combination-sum-ii/) |
 | 3334-apple-redistribution-into-boxes | Easy | [code](./Array/easy/3334-apple-redistribution-into-boxes) | [leetcode](https://leetcode.com/problems/apple-redistribution-into-boxes/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
@@ -184,17 +201,19 @@
 | 74-search-a-2d-matrix | Medium | [code](./Array/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 3351-maximize-happiness-of-selected-children | Medium | [code](./Array/medium/3351-maximize-happiness-of-selected-children) | [leetcode](https://leetcode.com/problems/maximize-happiness-of-selected-children/) |
 | 198-house-robber | Medium | [code](./Array/medium/198-house-robber) | [leetcode](https://leetcode.com/problems/house-robber/) |
+| 78-subsets | Medium | [code](./Array/medium/78-subsets) | [leetcode](https://leetcode.com/problems/subsets/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Array/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 11-container-with-most-water | Medium | [code](./Array/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 1388-greatest-sum-divisible-by-three | Medium | [code](./Array/medium/1388-greatest-sum-divisible-by-three) | [leetcode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 287-find-the-duplicate-number | Medium | [code](./Array/medium/287-find-the-duplicate-number) | [leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
-| 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
-| 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 78-subsets | Medium | [code](./Array/medium/78-subsets) | [leetcode](https://leetcode.com/problems/subsets/) |
 | 39-combination-sum | Medium | [code](./Array/medium/39-combination-sum) | [leetcode](https://leetcode.com/problems/combination-sum/) |
 | 90-subsets-ii | Medium | [code](./Array/medium/90-subsets-ii) | [leetcode](https://leetcode.com/problems/subsets-ii/) |
 | 46-permutations | Medium | [code](./Array/medium/46-permutations) | [leetcode](https://leetcode.com/problems/permutations/) |
+| 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
+| 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+| 3329-find-the-length-of-the-longest-common-prefix | Medium | [code](./Array/medium/3329-find-the-length-of-the-longest-common-prefix) | [leetcode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) |
+| 1476-count-negative-numbers-in-a-sorted-matrix | Easy | [code](./Array/easy/1476-count-negative-numbers-in-a-sorted-matrix) | [leetcode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) |
 
 ### Binary Search
 
@@ -209,6 +228,7 @@
 | 74-search-a-2d-matrix | Medium | [code](./Binary-Search/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 167-two-sum-ii-input-array-is-sorted | Medium | [code](./Binary-Search/medium/167-two-sum-ii-input-array-is-sorted) | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 287-find-the-duplicate-number | Medium | [code](./Binary-Search/medium/287-find-the-duplicate-number) | [leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
+| 1476-count-negative-numbers-in-a-sorted-matrix | Easy | [code](./Binary-Search/easy/1476-count-negative-numbers-in-a-sorted-matrix) | [leetcode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) |
 
 ### Counting
 
@@ -236,9 +256,12 @@
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Hash-Table/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 217-contains-duplicate | Easy | [code](./Hash-Table/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
+| 3329-find-the-length-of-the-longest-common-prefix | Medium | [code](./Hash-Table/medium/3329-find-the-length-of-the-longest-common-prefix) | [leetcode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) |
 | 13-roman-to-integer | Easy | [code](./Hash-Table/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Hash-Table/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
 | 242-valid-anagram | Easy | [code](./Hash-Table/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
+| 208-implement-trie-prefix-tree | Medium | [code](./Hash-Table/medium/208-implement-trie-prefix-tree) | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+| 17-letter-combinations-of-a-phone-number | Medium | [code](./Hash-Table/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 
 ### Divide and Conquer
 
@@ -280,6 +303,7 @@
 | 49-group-anagrams | Medium | [code](./String/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./String/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 22-generate-parentheses | Medium | [code](./String/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
+| 3329-find-the-length-of-the-longest-common-prefix | Medium | [code](./String/medium/3329-find-the-length-of-the-longest-common-prefix) | [leetcode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) |
 | 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 43-multiply-strings | Medium | [code](./String/medium/43-multiply-strings) | [leetcode](https://leetcode.com/problems/multiply-strings/) |
 | 168-excel-sheet-column-title | Easy | [code](./String/easy/168-excel-sheet-column-title) | [leetcode](https://leetcode.com/problems/excel-sheet-column-title/) |
@@ -292,6 +316,9 @@
 | 242-valid-anagram | Easy | [code](./String/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 | 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 | 58-length-of-last-word | Easy | [code](./String/easy/58-length-of-last-word) | [leetcode](https://leetcode.com/problems/length-of-last-word/) |
+| 208-implement-trie-prefix-tree | Medium | [code](./String/medium/208-implement-trie-prefix-tree) | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+| 17-letter-combinations-of-a-phone-number | Medium | [code](./String/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 131-palindrome-partitioning | Medium | [code](./String/medium/131-palindrome-partitioning) | [leetcode](https://leetcode.com/problems/palindrome-partitioning/) |
 
 ### Heap (Priority Queue)
 
@@ -317,6 +344,7 @@
 |---|---|---|---|
 | 232-implement-queue-using-stacks | Easy | [code](./Design/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 155-min-stack | Medium | [code](./Design/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
+| 208-implement-trie-prefix-tree | Medium | [code](./Design/medium/208-implement-trie-prefix-tree) | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) |
 
 ### Queue
 
@@ -385,11 +413,14 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 79-word-search | Medium | [code](./Backtracking/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
-| 22-generate-parentheses | Medium | [code](./Backtracking/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
+| 40-combination-sum-ii | Medium | [code](./Backtracking/medium/40-combination-sum-ii) | [leetcode](https://leetcode.com/problems/combination-sum-ii/) |
 | 78-subsets | Medium | [code](./Backtracking/medium/78-subsets) | [leetcode](https://leetcode.com/problems/subsets/) |
 | 39-combination-sum | Medium | [code](./Backtracking/medium/39-combination-sum) | [leetcode](https://leetcode.com/problems/combination-sum/) |
 | 90-subsets-ii | Medium | [code](./Backtracking/medium/90-subsets-ii) | [leetcode](https://leetcode.com/problems/subsets-ii/) |
 | 46-permutations | Medium | [code](./Backtracking/medium/46-permutations) | [leetcode](https://leetcode.com/problems/permutations/) |
+| 22-generate-parentheses | Medium | [code](./Backtracking/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
+| 17-letter-combinations-of-a-phone-number | Medium | [code](./Backtracking/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 131-palindrome-partitioning | Medium | [code](./Backtracking/medium/131-palindrome-partitioning) | [leetcode](https://leetcode.com/problems/palindrome-partitioning/) |
 
 ### Matrix
 
@@ -399,6 +430,7 @@
 | 200-number-of-islands | Medium | [code](./Matrix/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
 | 1036-rotting-oranges | Medium | [code](./Matrix/medium/1036-rotting-oranges) | [leetcode](https://leetcode.com/problems/rotting-oranges/) |
 | 74-search-a-2d-matrix | Medium | [code](./Matrix/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
+| 1476-count-negative-numbers-in-a-sorted-matrix | Easy | [code](./Matrix/easy/1476-count-negative-numbers-in-a-sorted-matrix) | [leetcode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) |
 
 ### Union Find
 
@@ -441,6 +473,7 @@
 | 22-generate-parentheses | Medium | [code](./Dynamic-Programming/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
 | 392-is-subsequence | Easy | [code](./Dynamic-Programming/easy/392-is-subsequence) | [leetcode](https://leetcode.com/problems/is-subsequence/) |
 | 1250-longest-common-subsequence | Medium | [code](./Dynamic-Programming/medium/1250-longest-common-subsequence) | [leetcode](https://leetcode.com/problems/longest-common-subsequence/) |
+| 131-palindrome-partitioning | Medium | [code](./Dynamic-Programming/medium/131-palindrome-partitioning) | [leetcode](https://leetcode.com/problems/palindrome-partitioning/) |
 
 ### Memoization
 
@@ -463,16 +496,18 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 14-longest-common-prefix | Easy | [code](./Trie/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
+| 3329-find-the-length-of-the-longest-common-prefix | Medium | [code](./Trie/medium/3329-find-the-length-of-the-longest-common-prefix) | [leetcode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) |
+| 208-implement-trie-prefix-tree | Medium | [code](./Trie/medium/208-implement-trie-prefix-tree) | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) |
 
 ### Bit Manipulation
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 1071-binary-prefix-divisible-by-5 | Easy | [code](./Bit-Manipulation/easy/1071-binary-prefix-divisible-by-5) | [leetcode](https://leetcode.com/problems/binary-prefix-divisible-by-5/) |
-| 287-find-the-duplicate-number | Medium | [code](./Bit-Manipulation/medium/287-find-the-duplicate-number) | [leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
-| 67-add-binary | Easy | [code](./Bit-Manipulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 78-subsets | Medium | [code](./Bit-Manipulation/medium/78-subsets) | [leetcode](https://leetcode.com/problems/subsets/) |
+| 287-find-the-duplicate-number | Medium | [code](./Bit-Manipulation/medium/287-find-the-duplicate-number) | [leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
 | 90-subsets-ii | Medium | [code](./Bit-Manipulation/medium/90-subsets-ii) | [leetcode](https://leetcode.com/problems/subsets-ii/) |
+| 67-add-binary | Easy | [code](./Bit-Manipulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 
 ### Counting Sort
 
@@ -486,16 +521,4 @@
 |---|---|---|---|
 | 67-add-binary | Easy | [code](./Simulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 43-multiply-strings | Medium | [code](./Simulation/medium/43-multiply-strings) | [leetcode](https://leetcode.com/problems/multiply-strings/) |
-
-### String Matching
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 572-subtree-of-another-tree | Easy | [code](./String-Matching/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
-
-### Hash Function
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 572-subtree-of-another-tree | Easy | [code](./Hash-Function/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
 
