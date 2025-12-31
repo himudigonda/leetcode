@@ -14,5 +14,5 @@ class Solution:
             return findDepth(node.left, node, val, level + 1) or findDepth(node.right, node, val, level + 1)
 
         xdepth, xparent = findDepth(root, None, x, 0)
-        ydpeth, yparent = findDepth(root, None, y, 0)
-        return xdepth == ydpeth and xparent != yparent
+        ydepth, yparent = findDepth(root, None, y, 0)
+        return xdepth == ydepth and xparent != yparent
