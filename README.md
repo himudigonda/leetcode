@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 123
+**Total Problems Solved:** 132
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 65 |
+| Easy | 74 |
 | Medium | 57 |
 | Hard | 1 |
 
@@ -16,47 +16,48 @@
 
 | Tag | Count |
 |---|---|
-| Array | 61 |
-| String | 30 |
-| Hash Table | 23 |
-| Tree | 21 |
-| Depth-First Search | 21 |
-| Binary Tree | 21 |
-| Math | 17 |
-| Sorting | 16 |
-| Two Pointers | 16 |
+| Array | 67 |
+| String | 31 |
+| Hash Table | 25 |
+| Tree | 23 |
+| Depth-First Search | 23 |
+| Binary Tree | 23 |
+| Math | 18 |
+| Sorting | 17 |
+| Two Pointers | 17 |
 | Binary Search | 13 |
+| Breadth-First Search | 12 |
 | Linked List | 11 |
-| Breadth-First Search | 10 |
 | Stack | 10 |
 | Backtracking | 10 |
 | Dynamic Programming | 10 |
+| Design | 7 |
+| Matrix | 7 |
 | Divide and Conquer | 6 |
-| Design | 6 |
 | Heap (Priority Queue) | 6 |
 | Counting | 6 |
 | Greedy | 6 |
 | Recursion | 6 |
-| Matrix | 6 |
 | Bit Manipulation | 6 |
 | Binary Search Tree | 5 |
 | Trie | 4 |
 | Quickselect | 3 |
+| Queue | 3 |
 | Sliding Window | 3 |
 | Enumeration | 3 |
-| Queue | 2 |
+| Simulation | 3 |
+| Data Stream | 2 |
 | Monotonic Stack | 2 |
 | Prefix Sum | 2 |
-| Simulation | 2 |
 | String Matching | 1 |
 | Hash Function | 1 |
-| Data Stream | 1 |
 | Bucket Sort | 1 |
 | Number Theory | 1 |
 | Union Find | 1 |
 | Geometry | 1 |
 | Memoization | 1 |
 | Counting Sort | 1 |
+| Graph | 1 |
 
 ## Solutions by Tag
 
@@ -65,6 +66,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 572-subtree-of-another-tree | Easy | [code](./Tree/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
+| 1035-cousins-in-binary-tree | Easy | [code](./Tree/easy/1035-cousins-in-binary-tree) | [leetcode](https://leetcode.com/problems/cousins-in-binary-tree/) |
 | 110-balanced-binary-tree | Easy | [code](./Tree/easy/110-balanced-binary-tree) | [leetcode](https://leetcode.com/problems/balanced-binary-tree/) |
 | 100-same-tree | Easy | [code](./Tree/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 94-binary-tree-inorder-traversal | Easy | [code](./Tree/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
@@ -85,12 +87,14 @@
 | 98-validate-binary-search-tree | Medium | [code](./Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
+| 1005-univalued-binary-tree | Easy | [code](./Tree/easy/1005-univalued-binary-tree) | [leetcode](https://leetcode.com/problems/univalued-binary-tree/) |
 
 ### Depth-First Search
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 572-subtree-of-another-tree | Easy | [code](./Depth-First-Search/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
+| 1035-cousins-in-binary-tree | Easy | [code](./Depth-First-Search/easy/1035-cousins-in-binary-tree) | [leetcode](https://leetcode.com/problems/cousins-in-binary-tree/) |
 | 110-balanced-binary-tree | Easy | [code](./Depth-First-Search/easy/110-balanced-binary-tree) | [leetcode](https://leetcode.com/problems/balanced-binary-tree/) |
 | 100-same-tree | Easy | [code](./Depth-First-Search/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 94-binary-tree-inorder-traversal | Easy | [code](./Depth-First-Search/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
@@ -111,6 +115,7 @@
 | 211-design-add-and-search-words-data-structure | Medium | [code](./Depth-First-Search/medium/211-design-add-and-search-words-data-structure) | [leetcode](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |
 | 79-word-search | Medium | [code](./Depth-First-Search/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
 | 200-number-of-islands | Medium | [code](./Depth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 1005-univalued-binary-tree | Easy | [code](./Depth-First-Search/easy/1005-univalued-binary-tree) | [leetcode](https://leetcode.com/problems/univalued-binary-tree/) |
 
 ### String Matching
 
@@ -123,6 +128,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 572-subtree-of-another-tree | Easy | [code](./Binary-Tree/easy/572-subtree-of-another-tree) | [leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
+| 1035-cousins-in-binary-tree | Easy | [code](./Binary-Tree/easy/1035-cousins-in-binary-tree) | [leetcode](https://leetcode.com/problems/cousins-in-binary-tree/) |
 | 110-balanced-binary-tree | Easy | [code](./Binary-Tree/easy/110-balanced-binary-tree) | [leetcode](https://leetcode.com/problems/balanced-binary-tree/) |
 | 100-same-tree | Easy | [code](./Binary-Tree/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 94-binary-tree-inorder-traversal | Easy | [code](./Binary-Tree/easy/94-binary-tree-inorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
@@ -143,6 +149,7 @@
 | 98-validate-binary-search-tree | Medium | [code](./Binary-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Binary-Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Binary-Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
+| 1005-univalued-binary-tree | Easy | [code](./Binary-Tree/easy/1005-univalued-binary-tree) | [leetcode](https://leetcode.com/problems/univalued-binary-tree/) |
 
 ### Hash Function
 
@@ -154,6 +161,7 @@
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 1035-cousins-in-binary-tree | Easy | [code](./Breadth-First-Search/easy/1035-cousins-in-binary-tree) | [leetcode](https://leetcode.com/problems/cousins-in-binary-tree/) |
 | 100-same-tree | Easy | [code](./Breadth-First-Search/easy/100-same-tree) | [leetcode](https://leetcode.com/problems/same-tree/) |
 | 226-invert-binary-tree | Easy | [code](./Breadth-First-Search/easy/226-invert-binary-tree) | [leetcode](https://leetcode.com/problems/invert-binary-tree/) |
 | 101-symmetric-tree | Easy | [code](./Breadth-First-Search/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
@@ -164,6 +172,7 @@
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Breadth-First-Search/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 200-number-of-islands | Medium | [code](./Breadth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
 | 1036-rotting-oranges | Medium | [code](./Breadth-First-Search/medium/1036-rotting-oranges) | [leetcode](https://leetcode.com/problems/rotting-oranges/) |
+| 1005-univalued-binary-tree | Easy | [code](./Breadth-First-Search/easy/1005-univalued-binary-tree) | [leetcode](https://leetcode.com/problems/univalued-binary-tree/) |
 
 ### Stack
 
@@ -195,7 +204,6 @@
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
 | 209-minimum-size-subarray-sum | Medium | [code](./Array/medium/209-minimum-size-subarray-sum) | [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
-| 3221-find-the-peaks | Easy | [code](./Array/easy/3221-find-the-peaks) | [leetcode](https://leetcode.com/problems/find-the-peaks/) |
 | 1014-k-closest-points-to-origin | Medium | [code](./Array/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 215-kth-largest-element-in-an-array | Medium | [code](./Array/medium/215-kth-largest-element-in-an-array) | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 4008-restore-finishing-order | Easy | [code](./Array/easy/4008-restore-finishing-order) | [leetcode](https://leetcode.com/problems/restore-finishing-order/) |
@@ -203,6 +211,7 @@
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
 | 66-plus-one | Easy | [code](./Array/easy/66-plus-one) | [leetcode](https://leetcode.com/problems/plus-one/) |
+| 3221-find-the-peaks | Easy | [code](./Array/easy/3221-find-the-peaks) | [leetcode](https://leetcode.com/problems/find-the-peaks/) |
 | 3799-unique-3-digit-even-numbers | Easy | [code](./Array/easy/3799-unique-3-digit-even-numbers) | [leetcode](https://leetcode.com/problems/unique-3-digit-even-numbers/) |
 | 14-longest-common-prefix | Easy | [code](./Array/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
 | 1071-binary-prefix-divisible-by-5 | Easy | [code](./Array/easy/1071-binary-prefix-divisible-by-5) | [leetcode](https://leetcode.com/problems/binary-prefix-divisible-by-5/) |
@@ -218,6 +227,7 @@
 | 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 136-single-number | Easy | [code](./Array/easy/136-single-number) | [leetcode](https://leetcode.com/problems/single-number/) |
 | 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
+| 2316-count-hills-and-valleys-in-an-array | Easy | [code](./Array/easy/2316-count-hills-and-valleys-in-an-array) | [leetcode](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |
 | 228-summary-ranges | Easy | [code](./Array/easy/228-summary-ranges) | [leetcode](https://leetcode.com/problems/summary-ranges/) |
 | 35-search-insert-position | Easy | [code](./Array/easy/35-search-insert-position) | [leetcode](https://leetcode.com/problems/search-insert-position/) |
 | 4-median-of-two-sorted-arrays | Hard | [code](./Array/hard/4-median-of-two-sorted-arrays) | [leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
@@ -238,13 +248,18 @@
 | 49-group-anagrams | Medium | [code](./Array/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 1388-greatest-sum-divisible-by-three | Medium | [code](./Array/medium/1388-greatest-sum-divisible-by-three) | [leetcode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 287-find-the-duplicate-number | Medium | [code](./Array/medium/287-find-the-duplicate-number) | [leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
+| 2047-find-a-peak-element-ii | Medium | [code](./Array/medium/2047-find-a-peak-element-ii) | [leetcode](https://leetcode.com/problems/find-a-peak-element-ii/) |
 | 39-combination-sum | Medium | [code](./Array/medium/39-combination-sum) | [leetcode](https://leetcode.com/problems/combination-sum/) |
 | 90-subsets-ii | Medium | [code](./Array/medium/90-subsets-ii) | [leetcode](https://leetcode.com/problems/subsets-ii/) |
 | 46-permutations | Medium | [code](./Array/medium/46-permutations) | [leetcode](https://leetcode.com/problems/permutations/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 2047-find-a-peak-element-ii | Medium | [code](./Array/medium/2047-find-a-peak-element-ii) | [leetcode](https://leetcode.com/problems/find-a-peak-element-ii/) |
-| 2316-count-hills-and-valleys-in-an-array | Easy | [code](./Array/easy/2316-count-hills-and-valleys-in-an-array) | [leetcode](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |
+| 1041-available-captures-for-rook | Easy | [code](./Array/easy/1041-available-captures-for-rook) | [leetcode](https://leetcode.com/problems/available-captures-for-rook/) |
+| 978-valid-mountain-array | Easy | [code](./Array/easy/978-valid-mountain-array) | [leetcode](https://leetcode.com/problems/valid-mountain-array/) |
+| 1031-add-to-array-form-of-integer | Easy | [code](./Array/easy/1031-add-to-array-form-of-integer) | [leetcode](https://leetcode.com/problems/add-to-array-form-of-integer/) |
+| 1039-find-the-town-judge | Easy | [code](./Array/easy/1039-find-the-town-judge) | [leetcode](https://leetcode.com/problems/find-the-town-judge/) |
+| 990-verifying-an-alien-dictionary | Easy | [code](./Array/easy/990-verifying-an-alien-dictionary) | [leetcode](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
+| 1019-squares-of-a-sorted-array | Easy | [code](./Array/easy/1019-squares-of-a-sorted-array) | [leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 
 ### Divide and Conquer
 
@@ -301,6 +316,7 @@
 | 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 | 3379-score-of-a-string | Easy | [code](./String/easy/3379-score-of-a-string) | [leetcode](https://leetcode.com/problems/score-of-a-string/) |
 | 58-length-of-last-word | Easy | [code](./String/easy/58-length-of-last-word) | [leetcode](https://leetcode.com/problems/length-of-last-word/) |
+| 990-verifying-an-alien-dictionary | Easy | [code](./String/easy/990-verifying-an-alien-dictionary) | [leetcode](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
 
 ### Backtracking
 
@@ -327,6 +343,7 @@
 | 211-design-add-and-search-words-data-structure | Medium | [code](./Design/medium/211-design-add-and-search-words-data-structure) | [leetcode](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |
 | 155-min-stack | Medium | [code](./Design/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
 | 208-implement-trie-prefix-tree | Medium | [code](./Design/medium/208-implement-trie-prefix-tree) | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+| 969-number-of-recent-calls | Easy | [code](./Design/easy/969-number-of-recent-calls) | [leetcode](https://leetcode.com/problems/number-of-recent-calls/) |
 
 ### Heap (Priority Queue)
 
@@ -344,6 +361,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 789-kth-largest-element-in-a-stream | Easy | [code](./Data-Stream/easy/789-kth-largest-element-in-a-stream) | [leetcode](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
+| 969-number-of-recent-calls | Easy | [code](./Data-Stream/easy/969-number-of-recent-calls) | [leetcode](https://leetcode.com/problems/number-of-recent-calls/) |
 
 ### Binary Search
 
@@ -401,6 +419,8 @@
 | 13-roman-to-integer | Easy | [code](./Hash-Table/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Hash-Table/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
 | 242-valid-anagram | Easy | [code](./Hash-Table/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
+| 1039-find-the-town-judge | Easy | [code](./Hash-Table/easy/1039-find-the-town-judge) | [leetcode](https://leetcode.com/problems/find-the-town-judge/) |
+| 990-verifying-an-alien-dictionary | Easy | [code](./Hash-Table/easy/990-verifying-an-alien-dictionary) | [leetcode](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
 
 ### Sorting
 
@@ -422,6 +442,7 @@
 | 1388-greatest-sum-divisible-by-three | Medium | [code](./Sorting/medium/1388-greatest-sum-divisible-by-three) | [leetcode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 242-valid-anagram | Easy | [code](./Sorting/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
+| 1019-squares-of-a-sorted-array | Easy | [code](./Sorting/easy/1019-squares-of-a-sorted-array) | [leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 
 ### Bucket Sort
 
@@ -454,6 +475,7 @@
 |---|---|---|---|
 | 225-implement-stack-using-queues | Easy | [code](./Queue/easy/225-implement-stack-using-queues) | [leetcode](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 232-implement-queue-using-stacks | Easy | [code](./Queue/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
+| 969-number-of-recent-calls | Easy | [code](./Queue/easy/969-number-of-recent-calls) | [leetcode](https://leetcode.com/problems/number-of-recent-calls/) |
 
 ### Trie
 
@@ -511,6 +533,7 @@
 | 125-valid-palindrome | Easy | [code](./Two-Pointers/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 541-reverse-string-ii | Easy | [code](./Two-Pointers/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
 | 345-reverse-vowels-of-a-string | Easy | [code](./Two-Pointers/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
+| 1019-squares-of-a-sorted-array | Easy | [code](./Two-Pointers/easy/1019-squares-of-a-sorted-array) | [leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 
 ### Math
 
@@ -533,6 +556,7 @@
 | 13-roman-to-integer | Easy | [code](./Math/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 171-excel-sheet-column-number | Easy | [code](./Math/easy/171-excel-sheet-column-number) | [leetcode](https://leetcode.com/problems/excel-sheet-column-number/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Math/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
+| 1031-add-to-array-form-of-integer | Easy | [code](./Math/easy/1031-add-to-array-form-of-integer) | [leetcode](https://leetcode.com/problems/add-to-array-form-of-integer/) |
 
 ### Number Theory
 
@@ -550,6 +574,7 @@
 | 1036-rotting-oranges | Medium | [code](./Matrix/medium/1036-rotting-oranges) | [leetcode](https://leetcode.com/problems/rotting-oranges/) |
 | 74-search-a-2d-matrix | Medium | [code](./Matrix/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 2047-find-a-peak-element-ii | Medium | [code](./Matrix/medium/2047-find-a-peak-element-ii) | [leetcode](https://leetcode.com/problems/find-a-peak-element-ii/) |
+| 1041-available-captures-for-rook | Easy | [code](./Matrix/easy/1041-available-captures-for-rook) | [leetcode](https://leetcode.com/problems/available-captures-for-rook/) |
 
 ### Union Find
 
@@ -579,14 +604,6 @@
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Sliding-Window/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 
-### Enumeration
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 3221-find-the-peaks | Easy | [code](./Enumeration/easy/3221-find-the-peaks) | [leetcode](https://leetcode.com/problems/find-the-peaks/) |
-| 3799-unique-3-digit-even-numbers | Easy | [code](./Enumeration/easy/3799-unique-3-digit-even-numbers) | [leetcode](https://leetcode.com/problems/unique-3-digit-even-numbers/) |
-| 2037-count-square-sum-triples | Easy | [code](./Enumeration/easy/2037-count-square-sum-triples) | [leetcode](https://leetcode.com/problems/count-square-sum-triples/) |
-
 ### Geometry
 
 | Problem | Difficulty | Code | LeetCode |
@@ -614,6 +631,14 @@
 |---|---|---|---|
 | 70-climbing-stairs | Easy | [code](./Memoization/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
 
+### Enumeration
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 3221-find-the-peaks | Easy | [code](./Enumeration/easy/3221-find-the-peaks) | [leetcode](https://leetcode.com/problems/find-the-peaks/) |
+| 3799-unique-3-digit-even-numbers | Easy | [code](./Enumeration/easy/3799-unique-3-digit-even-numbers) | [leetcode](https://leetcode.com/problems/unique-3-digit-even-numbers/) |
+| 2037-count-square-sum-triples | Easy | [code](./Enumeration/easy/2037-count-square-sum-triples) | [leetcode](https://leetcode.com/problems/count-square-sum-triples/) |
+
 ### Bit Manipulation
 
 | Problem | Difficulty | Code | LeetCode |
@@ -635,6 +660,13 @@
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 1041-available-captures-for-rook | Easy | [code](./Simulation/easy/1041-available-captures-for-rook) | [leetcode](https://leetcode.com/problems/available-captures-for-rook/) |
 | 67-add-binary | Easy | [code](./Simulation/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 43-multiply-strings | Medium | [code](./Simulation/medium/43-multiply-strings) | [leetcode](https://leetcode.com/problems/multiply-strings/) |
+
+### Graph
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 1039-find-the-town-judge | Easy | [code](./Graph/easy/1039-find-the-town-judge) | [leetcode](https://leetcode.com/problems/find-the-town-judge/) |
 
