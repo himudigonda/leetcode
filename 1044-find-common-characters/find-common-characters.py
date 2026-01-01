@@ -9,6 +9,7 @@ class Solution:
 
         res = []
         for c in count:
-            for i in range(count[c]):
-                res.append(c)
+            # for i in range(count[c]):
+            # res.append(c)
+            res.extend([c] * count[c])
         return res
