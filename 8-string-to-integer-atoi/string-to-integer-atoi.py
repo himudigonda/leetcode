@@ -3,20 +3,29 @@ class Solution:
         s = s.lstrip()
         if not s:
             return 0
-
+        length = len(s)
         direction = 1
         res = 0
-        chidx = 0
+        # chidx = 0
 
-        if s[0] == "+":
-            chidx += 1
-        elif s[0] == "-":
-            chidx += 1
-            direction = -1
+        # if s[0] == "+":
+        #     chidx += 1
+        # elif s[0] == "-":
+        #     chidx += 1
+        #     direction = -1
+        for chidx in range(length):
+            if chidx == 0 and s[chidx] == "-":
+                direction = -1
+            elif chidx == 0 and s[chidx] == "+":
+                direction = 1
+            elif not s[chidx].isdigit():
+                break
+            else:
+                res = res * 10 + int(s[chidx])  # - ord("0"))
 
-        while chidx < len(s) and s[chidx].isdigit():
-            res = res * 10 + int(s[chidx])
-            chidx += 1
+        # while chidx < len(s) and s[chidx].isdigit():
+        #     res = res * 10 + int(s[chidx])
+        #     chidx += 1
         res = res * direction
 
         MAX_INT = 2147483647
