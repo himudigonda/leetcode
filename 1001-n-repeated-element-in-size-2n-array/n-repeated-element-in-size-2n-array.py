@@ -1,8 +1,8 @@
-import random
-
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
-        while True:
-            a, b = random.sample(range(len(nums)), 2)
-            if nums[a] == nums[b]:
-                return nums[a]
+        # Hashset
+        seen = set()
+        for num in nums:
+            if num in seen:
+                return num
+            seen.add(num)
