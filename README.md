@@ -2,13 +2,13 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 155
+**Total Problems Solved:** 156
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 90 |
+| Easy | 91 |
 | Medium | 64 |
 | Hard | 1 |
 
@@ -17,8 +17,8 @@
 | Tag | Count |
 |---|---|
 | Array | 76 |
-| String | 37 |
-| Hash Table | 29 |
+| String | 38 |
+| Hash Table | 30 |
 | Tree | 25 |
 | Binary Tree | 25 |
 | Depth-First Search | 24 |
@@ -35,16 +35,16 @@
 | Design | 8 |
 | Greedy | 8 |
 | Divide and Conquer | 7 |
+| Counting | 7 |
 | Matrix | 7 |
 | Heap (Priority Queue) | 6 |
-| Counting | 6 |
 | Recursion | 6 |
 | Binary Search Tree | 5 |
+| Queue | 4 |
 | Prefix Sum | 4 |
 | Trie | 4 |
 | Simulation | 4 |
 | Quickselect | 3 |
-| Queue | 3 |
 | Sliding Window | 3 |
 | Enumeration | 3 |
 | Data Stream | 2 |
@@ -225,6 +225,7 @@
 | 3221-find-the-peaks | Easy | [code](./Array/easy/3221-find-the-peaks) | [leetcode](https://leetcode.com/problems/find-the-peaks/) |
 | 3799-unique-3-digit-even-numbers | Easy | [code](./Array/easy/3799-unique-3-digit-even-numbers) | [leetcode](https://leetcode.com/problems/unique-3-digit-even-numbers/) |
 | 14-longest-common-prefix | Easy | [code](./Array/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
+| 605-can-place-flowers | Easy | [code](./Array/easy/605-can-place-flowers) | [leetcode](https://leetcode.com/problems/can-place-flowers/) |
 | 1071-binary-prefix-divisible-by-5 | Easy | [code](./Array/easy/1071-binary-prefix-divisible-by-5) | [leetcode](https://leetcode.com/problems/binary-prefix-divisible-by-5/) |
 | 349-intersection-of-two-arrays | Easy | [code](./Array/easy/349-intersection-of-two-arrays) | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays/) |
 | 3476-find-minimum-operations-to-make-all-elements-divisible-by-three | Easy | [code](./Array/easy/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) | [leetcode](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) |
@@ -277,7 +278,6 @@
 | 46-permutations | Medium | [code](./Array/medium/46-permutations) | [leetcode](https://leetcode.com/problems/permutations/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 605-can-place-flowers | Easy | [code](./Array/easy/605-can-place-flowers) | [leetcode](https://leetcode.com/problems/can-place-flowers/) |
 
 ### Divide and Conquer
 
@@ -324,6 +324,7 @@
 | 22-generate-parentheses | Medium | [code](./String/medium/22-generate-parentheses) | [leetcode](https://leetcode.com/problems/generate-parentheses/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./String/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 131-palindrome-partitioning | Medium | [code](./String/medium/131-palindrome-partitioning) | [leetcode](https://leetcode.com/problems/palindrome-partitioning/) |
+| 387-first-unique-character-in-a-string | Easy | [code](./String/easy/387-first-unique-character-in-a-string) | [leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 43-multiply-strings | Medium | [code](./String/medium/43-multiply-strings) | [leetcode](https://leetcode.com/problems/multiply-strings/) |
 | 168-excel-sheet-column-title | Easy | [code](./String/easy/168-excel-sheet-column-title) | [leetcode](https://leetcode.com/problems/excel-sheet-column-title/) |
@@ -335,13 +336,13 @@
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 541-reverse-string-ii | Easy | [code](./String/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
 | 345-reverse-vowels-of-a-string | Easy | [code](./String/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
+| 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 | 242-valid-anagram | Easy | [code](./String/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 | 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 | 551-student-attendance-record-i | Easy | [code](./String/easy/551-student-attendance-record-i) | [leetcode](https://leetcode.com/problems/student-attendance-record-i/) |
 | 3379-score-of-a-string | Easy | [code](./String/easy/3379-score-of-a-string) | [leetcode](https://leetcode.com/problems/score-of-a-string/) |
 | 58-length-of-last-word | Easy | [code](./String/easy/58-length-of-last-word) | [leetcode](https://leetcode.com/problems/length-of-last-word/) |
 | 8-string-to-integer-atoi | Medium | [code](./String/medium/8-string-to-integer-atoi) | [leetcode](https://leetcode.com/problems/string-to-integer-atoi/) |
-| 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 
 ### Backtracking
 
@@ -435,6 +436,7 @@
 | 1777-determine-if-two-strings-are-close | Medium | [code](./Counting/medium/1777-determine-if-two-strings-are-close) | [leetcode](https://leetcode.com/problems/determine-if-two-strings-are-close/) |
 | 347-top-k-frequent-elements | Medium | [code](./Counting/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 621-task-scheduler | Medium | [code](./Counting/medium/621-task-scheduler) | [leetcode](https://leetcode.com/problems/task-scheduler/) |
+| 387-first-unique-character-in-a-string | Easy | [code](./Counting/easy/387-first-unique-character-in-a-string) | [leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 
 ### Hash Table
 
@@ -464,11 +466,12 @@
 | 3329-find-the-length-of-the-longest-common-prefix | Medium | [code](./Hash-Table/medium/3329-find-the-length-of-the-longest-common-prefix) | [leetcode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./Hash-Table/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 387-first-unique-character-in-a-string | Easy | [code](./Hash-Table/easy/387-first-unique-character-in-a-string) | [leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 202-happy-number | Easy | [code](./Hash-Table/easy/202-happy-number) | [leetcode](https://leetcode.com/problems/happy-number/) |
 | 13-roman-to-integer | Easy | [code](./Hash-Table/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Hash-Table/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
-| 242-valid-anagram | Easy | [code](./Hash-Table/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+| 242-valid-anagram | Easy | [code](./Hash-Table/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 
 ### Sorting
 
@@ -514,11 +517,11 @@
 |---|---|---|---|
 | 621-task-scheduler | Medium | [code](./Greedy/medium/621-task-scheduler) | [leetcode](https://leetcode.com/problems/task-scheduler/) |
 | 3334-apple-redistribution-into-boxes | Easy | [code](./Greedy/easy/3334-apple-redistribution-into-boxes) | [leetcode](https://leetcode.com/problems/apple-redistribution-into-boxes/) |
+| 605-can-place-flowers | Easy | [code](./Greedy/easy/605-can-place-flowers) | [leetcode](https://leetcode.com/problems/can-place-flowers/) |
 | 3351-maximize-happiness-of-selected-children | Medium | [code](./Greedy/medium/3351-maximize-happiness-of-selected-children) | [leetcode](https://leetcode.com/problems/maximize-happiness-of-selected-children/) |
 | 11-container-with-most-water | Medium | [code](./Greedy/medium/11-container-with-most-water) | [leetcode](https://leetcode.com/problems/container-with-most-water/) |
 | 1388-greatest-sum-divisible-by-three | Medium | [code](./Greedy/medium/1388-greatest-sum-divisible-by-three) | [leetcode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Greedy/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
-| 605-can-place-flowers | Easy | [code](./Greedy/easy/605-can-place-flowers) | [leetcode](https://leetcode.com/problems/can-place-flowers/) |
 | 409-longest-palindrome | Easy | [code](./Greedy/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 
 ### Queue
@@ -528,6 +531,7 @@
 | 225-implement-stack-using-queues | Easy | [code](./Queue/easy/225-implement-stack-using-queues) | [leetcode](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 232-implement-queue-using-stacks | Easy | [code](./Queue/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 969-number-of-recent-calls | Easy | [code](./Queue/easy/969-number-of-recent-calls) | [leetcode](https://leetcode.com/problems/number-of-recent-calls/) |
+| 387-first-unique-character-in-a-string | Easy | [code](./Queue/easy/387-first-unique-character-in-a-string) | [leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 
 ### Prefix Sum
 
