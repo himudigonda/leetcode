@@ -2,38 +2,38 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 161
+**Total Problems Solved:** 166
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 96 |
-| Medium | 64 |
+| Medium | 69 |
 | Hard | 1 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 78 |
+| Array | 81 |
 | String | 40 |
-| Hash Table | 31 |
-| Tree | 25 |
-| Binary Tree | 25 |
+| Hash Table | 33 |
+| Tree | 27 |
+| Binary Tree | 27 |
+| Depth-First Search | 26 |
 | Math | 25 |
-| Depth-First Search | 24 |
+| Sorting | 22 |
 | Two Pointers | 21 |
-| Sorting | 20 |
 | Binary Search | 17 |
-| Breadth-First Search | 13 |
-| Dynamic Programming | 12 |
+| Breadth-First Search | 15 |
+| Dynamic Programming | 13 |
 | Stack | 11 |
 | Linked List | 11 |
 | Backtracking | 10 |
 | Bit Manipulation | 10 |
+| Greedy | 9 |
 | Design | 8 |
-| Greedy | 8 |
 | Divide and Conquer | 7 |
 | Heap (Priority Queue) | 7 |
 | Counting | 7 |
@@ -93,6 +93,8 @@
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1254-deepest-leaves-sum | Medium | [code](./Tree/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
+| 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Tree/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
+| 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Tree/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 
 ### Depth-First Search
 
@@ -122,6 +124,8 @@
 | 211-design-add-and-search-words-data-structure | Medium | [code](./Depth-First-Search/medium/211-design-add-and-search-words-data-structure) | [leetcode](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |
 | 79-word-search | Medium | [code](./Depth-First-Search/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
 | 200-number-of-islands | Medium | [code](./Depth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Depth-First-Search/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
+| 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Depth-First-Search/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 
 ### String Matching
 
@@ -158,6 +162,8 @@
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Binary-Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1254-deepest-leaves-sum | Medium | [code](./Binary-Tree/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Binary-Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
+| 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Binary-Tree/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
+| 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Binary-Tree/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 
 ### Hash Function
 
@@ -181,7 +187,9 @@
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Breadth-First-Search/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1254-deepest-leaves-sum | Medium | [code](./Breadth-First-Search/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 200-number-of-islands | Medium | [code](./Breadth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Breadth-First-Search/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
 | 1036-rotting-oranges | Medium | [code](./Breadth-First-Search/medium/1036-rotting-oranges) | [leetcode](https://leetcode.com/problems/rotting-oranges/) |
+| 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Breadth-First-Search/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 
 ### Stack
 
@@ -193,10 +201,10 @@
 | 225-implement-stack-using-queues | Easy | [code](./Stack/easy/225-implement-stack-using-queues) | [leetcode](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 232-implement-queue-using-stacks | Easy | [code](./Stack/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 155-min-stack | Medium | [code](./Stack/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
+| 496-next-greater-element-i | Easy | [code](./Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 | 883-car-fleet | Medium | [code](./Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Stack/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Stack/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-| 496-next-greater-element-i | Easy | [code](./Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 | 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 
 ### Array
@@ -211,6 +219,7 @@
 | 303-range-sum-query-immutable | Easy | [code](./Array/easy/303-range-sum-query-immutable) | [leetcode](https://leetcode.com/problems/range-sum-query-immutable/) |
 | 79-word-search | Medium | [code](./Array/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
 | 200-number-of-islands | Medium | [code](./Array/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 496-next-greater-element-i | Easy | [code](./Array/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 | 883-car-fleet | Medium | [code](./Array/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Array/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
@@ -280,7 +289,9 @@
 | 46-permutations | Medium | [code](./Array/medium/46-permutations) | [leetcode](https://leetcode.com/problems/permutations/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 496-next-greater-element-i | Easy | [code](./Array/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
+| 435-non-overlapping-intervals | Medium | [code](./Array/medium/435-non-overlapping-intervals) | [leetcode](https://leetcode.com/problems/non-overlapping-intervals/) |
+| 57-insert-interval | Medium | [code](./Array/medium/57-insert-interval) | [leetcode](https://leetcode.com/problems/insert-interval/) |
+| 56-merge-intervals | Medium | [code](./Array/medium/56-merge-intervals) | [leetcode](https://leetcode.com/problems/merge-intervals/) |
 
 ### Divide and Conquer
 
@@ -459,6 +470,8 @@
 | 160-intersection-of-two-linked-lists | Easy | [code](./Hash-Table/easy/160-intersection-of-two-linked-lists) | [leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
 | 138-copy-list-with-random-pointer | Medium | [code](./Hash-Table/medium/138-copy-list-with-random-pointer) | [leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) |
+| 496-next-greater-element-i | Easy | [code](./Hash-Table/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
+| 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Hash-Table/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Hash-Table/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 | 4008-restore-finishing-order | Easy | [code](./Hash-Table/easy/4008-restore-finishing-order) | [leetcode](https://leetcode.com/problems/restore-finishing-order/) |
@@ -479,7 +492,7 @@
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Hash-Table/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 | 242-valid-anagram | Easy | [code](./Hash-Table/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
-| 496-next-greater-element-i | Easy | [code](./Hash-Table/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
+| 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Hash-Table/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 
 ### Queue
 
@@ -514,6 +527,8 @@
 | 1388-greatest-sum-divisible-by-three | Medium | [code](./Sorting/medium/1388-greatest-sum-divisible-by-three) | [leetcode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 242-valid-anagram | Easy | [code](./Sorting/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
+| 435-non-overlapping-intervals | Medium | [code](./Sorting/medium/435-non-overlapping-intervals) | [leetcode](https://leetcode.com/problems/non-overlapping-intervals/) |
+| 56-merge-intervals | Medium | [code](./Sorting/medium/56-merge-intervals) | [leetcode](https://leetcode.com/problems/merge-intervals/) |
 
 ### Bucket Sort
 
@@ -541,6 +556,7 @@
 | 1388-greatest-sum-divisible-by-three | Medium | [code](./Greedy/medium/1388-greatest-sum-divisible-by-three) | [leetcode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Greedy/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 409-longest-palindrome | Easy | [code](./Greedy/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+| 435-non-overlapping-intervals | Medium | [code](./Greedy/medium/435-non-overlapping-intervals) | [leetcode](https://leetcode.com/problems/non-overlapping-intervals/) |
 
 ### Prefix Sum
 
@@ -684,9 +700,9 @@
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
+| 496-next-greater-element-i | Easy | [code](./Monotonic-Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 | 883-car-fleet | Medium | [code](./Monotonic-Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Monotonic-Stack/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
-| 496-next-greater-element-i | Easy | [code](./Monotonic-Stack/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 
 ### Sliding Window
 
@@ -718,6 +734,7 @@
 | 338-counting-bits | Easy | [code](./Dynamic-Programming/easy/338-counting-bits) | [leetcode](https://leetcode.com/problems/counting-bits/) |
 | 5-longest-palindromic-substring | Medium | [code](./Dynamic-Programming/medium/5-longest-palindromic-substring) | [leetcode](https://leetcode.com/problems/longest-palindromic-substring/) |
 | 1250-longest-common-subsequence | Medium | [code](./Dynamic-Programming/medium/1250-longest-common-subsequence) | [leetcode](https://leetcode.com/problems/longest-common-subsequence/) |
+| 435-non-overlapping-intervals | Medium | [code](./Dynamic-Programming/medium/435-non-overlapping-intervals) | [leetcode](https://leetcode.com/problems/non-overlapping-intervals/) |
 
 ### Memoization
 
