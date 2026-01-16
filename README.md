@@ -54,12 +54,12 @@
 | String Matching | 1 |
 | Hash Function | 1 |
 | Bucket Sort | 1 |
-| Union Find | 1 |
+| Union-Find | 1 |
 | Brainteaser | 1 |
 | Game Theory | 1 |
 | Memoization | 1 |
 | Counting Sort | 1 |
-| Graph | 1 |
+| Graph Theory | 1 |
 | Interactive | 1 |
 
 ## Solutions by Tag
@@ -217,7 +217,6 @@
 | 347-top-k-frequent-elements | Medium | [code](./Array/medium/347-top-k-frequent-elements) | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 621-task-scheduler | Medium | [code](./Array/medium/621-task-scheduler) | [leetcode](https://leetcode.com/problems/task-scheduler/) |
 | 303-range-sum-query-immutable | Easy | [code](./Array/easy/303-range-sum-query-immutable) | [leetcode](https://leetcode.com/problems/range-sum-query-immutable/) |
-| 1395-minimum-time-visiting-all-points | Easy | [code](./Array/easy/1395-minimum-time-visiting-all-points) | [leetcode](https://leetcode.com/problems/minimum-time-visiting-all-points/) |
 | 79-word-search | Medium | [code](./Array/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
 | 200-number-of-islands | Medium | [code](./Array/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
 | 496-next-greater-element-i | Easy | [code](./Array/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
@@ -233,6 +232,7 @@
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
 | 1-two-sum | Easy | [code](./Array/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
 | 66-plus-one | Easy | [code](./Array/easy/66-plus-one) | [leetcode](https://leetcode.com/problems/plus-one/) |
+| 1395-minimum-time-visiting-all-points | Easy | [code](./Array/easy/1395-minimum-time-visiting-all-points) | [leetcode](https://leetcode.com/problems/minimum-time-visiting-all-points/) |
 | 3221-find-the-peaks | Easy | [code](./Array/easy/3221-find-the-peaks) | [leetcode](https://leetcode.com/problems/find-the-peaks/) |
 | 3799-unique-3-digit-even-numbers | Easy | [code](./Array/easy/3799-unique-3-digit-even-numbers) | [leetcode](https://leetcode.com/problems/unique-3-digit-even-numbers/) |
 | 14-longest-common-prefix | Easy | [code](./Array/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
@@ -636,17 +636,16 @@
 |---|---|---|---|
 | 2903-insert-greatest-common-divisors-in-linked-list | Medium | [code](./Math/medium/2903-insert-greatest-common-divisors-in-linked-list) | [leetcode](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) |
 | 2-add-two-numbers | Medium | [code](./Math/medium/2-add-two-numbers) | [leetcode](https://leetcode.com/problems/add-two-numbers/) |
-| 1395-minimum-time-visiting-all-points | Easy | [code](./Math/easy/1395-minimum-time-visiting-all-points) | [leetcode](https://leetcode.com/problems/minimum-time-visiting-all-points/) |
 | 292-nim-game | Easy | [code](./Math/easy/292-nim-game) | [leetcode](https://leetcode.com/problems/nim-game/) |
 | 1014-k-closest-points-to-origin | Medium | [code](./Math/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 70-climbing-stairs | Easy | [code](./Math/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
 | 66-plus-one | Easy | [code](./Math/easy/66-plus-one) | [leetcode](https://leetcode.com/problems/plus-one/) |
+| 1395-minimum-time-visiting-all-points | Easy | [code](./Math/easy/1395-minimum-time-visiting-all-points) | [leetcode](https://leetcode.com/problems/minimum-time-visiting-all-points/) |
 | 3476-find-minimum-operations-to-make-all-elements-divisible-by-three | Easy | [code](./Math/easy/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) | [leetcode](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) |
 | 3846-minimum-operations-to-make-array-sum-divisible-by-k | Easy | [code](./Math/easy/3846-minimum-operations-to-make-array-sum-divisible-by-k) | [leetcode](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) |
 | 1031-add-to-array-form-of-integer | Easy | [code](./Math/easy/1031-add-to-array-form-of-integer) | [leetcode](https://leetcode.com/problems/add-to-array-form-of-integer/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Math/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 1284-four-divisors | Medium | [code](./Math/medium/1284-four-divisors) | [leetcode](https://leetcode.com/problems/four-divisors/) |
-| 223-rectangle-area | Medium | [code](./Math/medium/223-rectangle-area) | [leetcode](https://leetcode.com/problems/rectangle-area/) |
 | 2037-count-square-sum-triples | Easy | [code](./Math/easy/2037-count-square-sum-triples) | [leetcode](https://leetcode.com/problems/count-square-sum-triples/) |
 | 412-fizz-buzz | Easy | [code](./Math/easy/412-fizz-buzz) | [leetcode](https://leetcode.com/problems/fizz-buzz/) |
 | 67-add-binary | Easy | [code](./Math/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
@@ -659,9 +658,10 @@
 | 13-roman-to-integer | Easy | [code](./Math/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 171-excel-sheet-column-number | Easy | [code](./Math/easy/171-excel-sheet-column-number) | [leetcode](https://leetcode.com/problems/excel-sheet-column-number/) |
 | 263-ugly-number | Easy | [code](./Math/easy/263-ugly-number) | [leetcode](https://leetcode.com/problems/ugly-number/) |
+| 866-rectangle-overlap | Easy | [code](./Math/easy/866-rectangle-overlap) | [leetcode](https://leetcode.com/problems/rectangle-overlap/) |
 | 7-reverse-integer | Medium | [code](./Math/medium/7-reverse-integer) | [leetcode](https://leetcode.com/problems/reverse-integer/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Math/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
-| 866-rectangle-overlap | Easy | [code](./Math/easy/866-rectangle-overlap) | [leetcode](https://leetcode.com/problems/rectangle-overlap/) |
+| 223-rectangle-area | Medium | [code](./Math/medium/223-rectangle-area) | [leetcode](https://leetcode.com/problems/rectangle-area/) |
 
 ### Number Theory
 
@@ -669,15 +669,6 @@
 |---|---|---|---|
 | 2903-insert-greatest-common-divisors-in-linked-list | Medium | [code](./Number-Theory/medium/2903-insert-greatest-common-divisors-in-linked-list) | [leetcode](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) |
 | 258-add-digits | Easy | [code](./Number-Theory/easy/258-add-digits) | [leetcode](https://leetcode.com/problems/add-digits/) |
-
-### Geometry
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 1395-minimum-time-visiting-all-points | Easy | [code](./Geometry/easy/1395-minimum-time-visiting-all-points) | [leetcode](https://leetcode.com/problems/minimum-time-visiting-all-points/) |
-| 1014-k-closest-points-to-origin | Medium | [code](./Geometry/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
-| 223-rectangle-area | Medium | [code](./Geometry/medium/223-rectangle-area) | [leetcode](https://leetcode.com/problems/rectangle-area/) |
-| 866-rectangle-overlap | Easy | [code](./Geometry/easy/866-rectangle-overlap) | [leetcode](https://leetcode.com/problems/rectangle-overlap/) |
 
 ### Matrix
 
@@ -691,7 +682,7 @@
 | 74-search-a-2d-matrix | Medium | [code](./Matrix/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 2047-find-a-peak-element-ii | Medium | [code](./Matrix/medium/2047-find-a-peak-element-ii) | [leetcode](https://leetcode.com/problems/find-a-peak-element-ii/) |
 
-### Union Find
+### Union-Find
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
@@ -724,6 +715,15 @@
 | 209-minimum-size-subarray-sum | Medium | [code](./Sliding-Window/medium/209-minimum-size-subarray-sum) | [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Sliding-Window/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
+
+### Geometry
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 1014-k-closest-points-to-origin | Medium | [code](./Geometry/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
+| 1395-minimum-time-visiting-all-points | Easy | [code](./Geometry/easy/1395-minimum-time-visiting-all-points) | [leetcode](https://leetcode.com/problems/minimum-time-visiting-all-points/) |
+| 866-rectangle-overlap | Easy | [code](./Geometry/easy/866-rectangle-overlap) | [leetcode](https://leetcode.com/problems/rectangle-overlap/) |
+| 223-rectangle-area | Medium | [code](./Geometry/medium/223-rectangle-area) | [leetcode](https://leetcode.com/problems/rectangle-area/) |
 
 ### Dynamic Programming
 
@@ -773,11 +773,11 @@
 |---|---|---|---|
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Counting-Sort/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 
-### Graph
+### Graph Theory
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
-| 1039-find-the-town-judge | Easy | [code](./Graph/easy/1039-find-the-town-judge) | [leetcode](https://leetcode.com/problems/find-the-town-judge/) |
+| 1039-find-the-town-judge | Easy | [code](./Graph-Theory/easy/1039-find-the-town-judge) | [leetcode](https://leetcode.com/problems/find-the-town-judge/) |
 
 ### Interactive
 
