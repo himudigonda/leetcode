@@ -7,7 +7,6 @@ class Solution:
         res = []
         for idx in range(1, len(arr)):
             diff = arr[idx - 1] - arr[idx]
-            print(diff, arr[idx - 1], arr[idx])
             if abs(diff) < abs(min_diff):
                 min_diff = diff
                 res = [[arr[idx - 1], arr[idx]]]
