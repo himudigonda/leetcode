@@ -2,40 +2,40 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 181
+**Total Problems Solved:** 182
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
 | Easy | 106 |
-| Medium | 74 |
+| Medium | 75 |
 | Hard | 1 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 92 |
+| Array | 93 |
 | String | 42 |
 | Hash Table | 36 |
 | Math | 30 |
+| Depth-First Search | 28 |
 | Tree | 27 |
-| Depth-First Search | 27 |
 | Binary Tree | 27 |
 | Sorting | 24 |
 | Two Pointers | 22 |
+| Breadth-First Search | 17 |
 | Binary Search | 17 |
-| Breadth-First Search | 16 |
 | Dynamic Programming | 13 |
 | Stack | 11 |
 | Linked List | 11 |
 | Backtracking | 10 |
 | Bit Manipulation | 10 |
 | Greedy | 10 |
+| Matrix | 9 |
 | Design | 8 |
 | Prefix Sum | 8 |
-| Matrix | 8 |
 | Divide and Conquer | 7 |
 | Heap (Priority Queue) | 7 |
 | Counting | 7 |
@@ -51,10 +51,10 @@
 | Sliding Window | 3 |
 | Data Stream | 2 |
 | Number Theory | 2 |
+| Union-Find | 2 |
 | String Matching | 1 |
 | Hash Function | 1 |
 | Bucket Sort | 1 |
-| Union-Find | 1 |
 | Brainteaser | 1 |
 | Game Theory | 1 |
 | Combinatorics | 1 |
@@ -128,6 +128,7 @@
 | 733-flood-fill | Easy | [code](./Depth-First-Search/easy/733-flood-fill) | [leetcode](https://leetcode.com/problems/flood-fill/) |
 | 79-word-search | Medium | [code](./Depth-First-Search/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
 | 200-number-of-islands | Medium | [code](./Depth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 695-max-area-of-island | Medium | [code](./Depth-First-Search/medium/695-max-area-of-island) | [leetcode](https://leetcode.com/problems/max-area-of-island/) |
 
 ### String Matching
 
@@ -193,6 +194,7 @@
 | 733-flood-fill | Easy | [code](./Breadth-First-Search/easy/733-flood-fill) | [leetcode](https://leetcode.com/problems/flood-fill/) |
 | 200-number-of-islands | Medium | [code](./Breadth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
 | 1036-rotting-oranges | Medium | [code](./Breadth-First-Search/medium/1036-rotting-oranges) | [leetcode](https://leetcode.com/problems/rotting-oranges/) |
+| 695-max-area-of-island | Medium | [code](./Breadth-First-Search/medium/695-max-area-of-island) | [leetcode](https://leetcode.com/problems/max-area-of-island/) |
 
 ### Stack
 
@@ -271,6 +273,7 @@
 | 1044-find-common-characters | Easy | [code](./Array/easy/1044-find-common-characters) | [leetcode](https://leetcode.com/problems/find-common-characters/) |
 | 228-summary-ranges | Easy | [code](./Array/easy/228-summary-ranges) | [leetcode](https://leetcode.com/problems/summary-ranges/) |
 | 990-verifying-an-alien-dictionary | Easy | [code](./Array/easy/990-verifying-an-alien-dictionary) | [leetcode](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
+| 1306-minimum-absolute-difference | Easy | [code](./Array/easy/1306-minimum-absolute-difference) | [leetcode](https://leetcode.com/problems/minimum-absolute-difference/) |
 | 35-search-insert-position | Easy | [code](./Array/easy/35-search-insert-position) | [leetcode](https://leetcode.com/problems/search-insert-position/) |
 | 1019-squares-of-a-sorted-array | Easy | [code](./Array/easy/1019-squares-of-a-sorted-array) | [leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 4-median-of-two-sorted-arrays | Hard | [code](./Array/hard/4-median-of-two-sorted-arrays) | [leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
@@ -305,7 +308,7 @@
 | 46-permutations | Medium | [code](./Array/medium/46-permutations) | [leetcode](https://leetcode.com/problems/permutations/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 1306-minimum-absolute-difference | Easy | [code](./Array/easy/1306-minimum-absolute-difference) | [leetcode](https://leetcode.com/problems/minimum-absolute-difference/) |
+| 695-max-area-of-island | Medium | [code](./Array/medium/695-max-area-of-island) | [leetcode](https://leetcode.com/problems/max-area-of-island/) |
 
 ### Divide and Conquer
 
@@ -373,8 +376,8 @@
 | 551-student-attendance-record-i | Easy | [code](./String/easy/551-student-attendance-record-i) | [leetcode](https://leetcode.com/problems/student-attendance-record-i/) |
 | 3379-score-of-a-string | Easy | [code](./String/easy/3379-score-of-a-string) | [leetcode](https://leetcode.com/problems/score-of-a-string/) |
 | 58-length-of-last-word | Easy | [code](./String/easy/58-length-of-last-word) | [leetcode](https://leetcode.com/problems/length-of-last-word/) |
-| 8-string-to-integer-atoi | Medium | [code](./String/medium/8-string-to-integer-atoi) | [leetcode](https://leetcode.com/problems/string-to-integer-atoi/) |
 | 2010-check-if-word-equals-summation-of-two-words | Easy | [code](./String/easy/2010-check-if-word-equals-summation-of-two-words) | [leetcode](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) |
+| 8-string-to-integer-atoi | Medium | [code](./String/medium/8-string-to-integer-atoi) | [leetcode](https://leetcode.com/problems/string-to-integer-atoi/) |
 
 ### Backtracking
 
@@ -539,6 +542,7 @@
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Sorting/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 217-contains-duplicate | Easy | [code](./Sorting/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
 | 88-merge-sorted-array | Easy | [code](./Sorting/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
+| 1306-minimum-absolute-difference | Easy | [code](./Sorting/easy/1306-minimum-absolute-difference) | [leetcode](https://leetcode.com/problems/minimum-absolute-difference/) |
 | 1019-squares-of-a-sorted-array | Easy | [code](./Sorting/easy/1019-squares-of-a-sorted-array) | [leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 75-sort-colors | Medium | [code](./Sorting/medium/75-sort-colors) | [leetcode](https://leetcode.com/problems/sort-colors/) |
 | 3351-maximize-happiness-of-selected-children | Medium | [code](./Sorting/medium/3351-maximize-happiness-of-selected-children) | [leetcode](https://leetcode.com/problems/maximize-happiness-of-selected-children/) |
@@ -549,7 +553,6 @@
 | 56-merge-intervals | Medium | [code](./Sorting/medium/56-merge-intervals) | [leetcode](https://leetcode.com/problems/merge-intervals/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 242-valid-anagram | Easy | [code](./Sorting/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
-| 1306-minimum-absolute-difference | Easy | [code](./Sorting/easy/1306-minimum-absolute-difference) | [leetcode](https://leetcode.com/problems/minimum-absolute-difference/) |
 
 ### Bucket Sort
 
@@ -710,12 +713,14 @@
 | 1036-rotting-oranges | Medium | [code](./Matrix/medium/1036-rotting-oranges) | [leetcode](https://leetcode.com/problems/rotting-oranges/) |
 | 74-search-a-2d-matrix | Medium | [code](./Matrix/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 2047-find-a-peak-element-ii | Medium | [code](./Matrix/medium/2047-find-a-peak-element-ii) | [leetcode](https://leetcode.com/problems/find-a-peak-element-ii/) |
+| 695-max-area-of-island | Medium | [code](./Matrix/medium/695-max-area-of-island) | [leetcode](https://leetcode.com/problems/max-area-of-island/) |
 
 ### Union-Find
 
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 200-number-of-islands | Medium | [code](./Union-Find/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 695-max-area-of-island | Medium | [code](./Union-Find/medium/695-max-area-of-island) | [leetcode](https://leetcode.com/problems/max-area-of-island/) |
 
 ### Brainteaser
 
