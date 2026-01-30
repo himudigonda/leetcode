@@ -51,8 +51,8 @@
 | Sliding Window | 3 |
 | Data Stream | 2 |
 | Number Theory | 2 |
-| Union-Find | 2 |
 | Graph Theory | 2 |
+| Union-Find | 2 |
 | String Matching | 1 |
 | Hash Function | 1 |
 | Bucket Sort | 1 |
@@ -79,6 +79,7 @@
 | 101-symmetric-tree | Easy | [code](./Tree/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
 | 1005-univalued-binary-tree | Easy | [code](./Tree/easy/1005-univalued-binary-tree) | [leetcode](https://leetcode.com/problems/univalued-binary-tree/) |
 | 112-path-sum | Easy | [code](./Tree/easy/112-path-sum) | [leetcode](https://leetcode.com/problems/path-sum/) |
+| 774-maximum-depth-of-n-ary-tree | Easy | [code](./Tree/easy/774-maximum-depth-of-n-ary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Tree/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 108-convert-sorted-array-to-binary-search-tree | Easy | [code](./Tree/easy/108-convert-sorted-array-to-binary-search-tree) | [leetcode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
 | 543-diameter-of-binary-tree | Easy | [code](./Tree/easy/543-diameter-of-binary-tree) | [leetcode](https://leetcode.com/problems/diameter-of-binary-tree/) |
@@ -96,7 +97,6 @@
 | 1254-deepest-leaves-sum | Medium | [code](./Tree/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Tree/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
-| 774-maximum-depth-of-n-ary-tree | Easy | [code](./Tree/easy/774-maximum-depth-of-n-ary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
 
 ### Depth-First Search
 
@@ -112,6 +112,7 @@
 | 101-symmetric-tree | Easy | [code](./Depth-First-Search/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
 | 1005-univalued-binary-tree | Easy | [code](./Depth-First-Search/easy/1005-univalued-binary-tree) | [leetcode](https://leetcode.com/problems/univalued-binary-tree/) |
 | 112-path-sum | Easy | [code](./Depth-First-Search/easy/112-path-sum) | [leetcode](https://leetcode.com/problems/path-sum/) |
+| 774-maximum-depth-of-n-ary-tree | Easy | [code](./Depth-First-Search/easy/774-maximum-depth-of-n-ary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Depth-First-Search/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 543-diameter-of-binary-tree | Easy | [code](./Depth-First-Search/easy/543-diameter-of-binary-tree) | [leetcode](https://leetcode.com/problems/diameter-of-binary-tree/) |
 | 257-binary-tree-paths | Easy | [code](./Depth-First-Search/easy/257-binary-tree-paths) | [leetcode](https://leetcode.com/problems/binary-tree-paths/) |
@@ -127,11 +128,10 @@
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Depth-First-Search/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
 | 211-design-add-and-search-words-data-structure | Medium | [code](./Depth-First-Search/medium/211-design-add-and-search-words-data-structure) | [leetcode](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |
 | 733-flood-fill | Easy | [code](./Depth-First-Search/easy/733-flood-fill) | [leetcode](https://leetcode.com/problems/flood-fill/) |
+| 133-clone-graph | Medium | [code](./Depth-First-Search/medium/133-clone-graph) | [leetcode](https://leetcode.com/problems/clone-graph/) |
 | 695-max-area-of-island | Medium | [code](./Depth-First-Search/medium/695-max-area-of-island) | [leetcode](https://leetcode.com/problems/max-area-of-island/) |
 | 79-word-search | Medium | [code](./Depth-First-Search/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
 | 200-number-of-islands | Medium | [code](./Depth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
-| 133-clone-graph | Medium | [code](./Depth-First-Search/medium/133-clone-graph) | [leetcode](https://leetcode.com/problems/clone-graph/) |
-| 774-maximum-depth-of-n-ary-tree | Easy | [code](./Depth-First-Search/easy/774-maximum-depth-of-n-ary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
 
 ### String Matching
 
@@ -187,6 +187,7 @@
 | 101-symmetric-tree | Easy | [code](./Breadth-First-Search/easy/101-symmetric-tree) | [leetcode](https://leetcode.com/problems/symmetric-tree/) |
 | 1005-univalued-binary-tree | Easy | [code](./Breadth-First-Search/easy/1005-univalued-binary-tree) | [leetcode](https://leetcode.com/problems/univalued-binary-tree/) |
 | 112-path-sum | Easy | [code](./Breadth-First-Search/easy/112-path-sum) | [leetcode](https://leetcode.com/problems/path-sum/) |
+| 774-maximum-depth-of-n-ary-tree | Easy | [code](./Breadth-First-Search/easy/774-maximum-depth-of-n-ary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
 | 111-minimum-depth-of-binary-tree | Easy | [code](./Breadth-First-Search/easy/111-minimum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 104-maximum-depth-of-binary-tree | Easy | [code](./Breadth-First-Search/easy/104-maximum-depth-of-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 | 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Breadth-First-Search/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
@@ -195,11 +196,10 @@
 | 1254-deepest-leaves-sum | Medium | [code](./Breadth-First-Search/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Breadth-First-Search/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 | 733-flood-fill | Easy | [code](./Breadth-First-Search/easy/733-flood-fill) | [leetcode](https://leetcode.com/problems/flood-fill/) |
+| 133-clone-graph | Medium | [code](./Breadth-First-Search/medium/133-clone-graph) | [leetcode](https://leetcode.com/problems/clone-graph/) |
 | 695-max-area-of-island | Medium | [code](./Breadth-First-Search/medium/695-max-area-of-island) | [leetcode](https://leetcode.com/problems/max-area-of-island/) |
 | 200-number-of-islands | Medium | [code](./Breadth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
-| 133-clone-graph | Medium | [code](./Breadth-First-Search/medium/133-clone-graph) | [leetcode](https://leetcode.com/problems/clone-graph/) |
 | 1036-rotting-oranges | Medium | [code](./Breadth-First-Search/medium/1036-rotting-oranges) | [leetcode](https://leetcode.com/problems/rotting-oranges/) |
-| 774-maximum-depth-of-n-ary-tree | Easy | [code](./Breadth-First-Search/easy/774-maximum-depth-of-n-ary-tree) | [leetcode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
 
 ### Stack
 
@@ -215,8 +215,8 @@
 | 883-car-fleet | Medium | [code](./Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Stack/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Stack/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-| 1737-maximum-nesting-depth-of-the-parentheses | Easy | [code](./Stack/easy/1737-maximum-nesting-depth-of-the-parentheses) | [leetcode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
 | 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
+| 1737-maximum-nesting-depth-of-the-parentheses | Easy | [code](./Stack/easy/1737-maximum-nesting-depth-of-the-parentheses) | [leetcode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
 
 ### Array
 
@@ -374,12 +374,12 @@
 | 125-valid-palindrome | Easy | [code](./String/easy/125-valid-palindrome) | [leetcode](https://leetcode.com/problems/valid-palindrome/) |
 | 541-reverse-string-ii | Easy | [code](./String/easy/541-reverse-string-ii) | [leetcode](https://leetcode.com/problems/reverse-string-ii/) |
 | 345-reverse-vowels-of-a-string | Easy | [code](./String/easy/345-reverse-vowels-of-a-string) | [leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
-| 1737-maximum-nesting-depth-of-the-parentheses | Easy | [code](./String/easy/1737-maximum-nesting-depth-of-the-parentheses) | [leetcode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
 | 409-longest-palindrome | Easy | [code](./String/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 | 242-valid-anagram | Easy | [code](./String/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 | 20-valid-parentheses | Easy | [code](./String/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 | 4186-count-residue-prefixes | Easy | [code](./String/easy/4186-count-residue-prefixes) | [leetcode](https://leetcode.com/problems/count-residue-prefixes/) |
 | 521-longest-uncommon-subsequence-i | Easy | [code](./String/easy/521-longest-uncommon-subsequence-i) | [leetcode](https://leetcode.com/problems/longest-uncommon-subsequence-i/) |
+| 1737-maximum-nesting-depth-of-the-parentheses | Easy | [code](./String/easy/1737-maximum-nesting-depth-of-the-parentheses) | [leetcode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
 | 551-student-attendance-record-i | Easy | [code](./String/easy/551-student-attendance-record-i) | [leetcode](https://leetcode.com/problems/student-attendance-record-i/) |
 | 3379-score-of-a-string | Easy | [code](./String/easy/3379-score-of-a-string) | [leetcode](https://leetcode.com/problems/score-of-a-string/) |
 | 58-length-of-last-word | Easy | [code](./String/easy/58-length-of-last-word) | [leetcode](https://leetcode.com/problems/length-of-last-word/) |
@@ -486,10 +486,10 @@
 | 160-intersection-of-two-linked-lists | Easy | [code](./Hash-Table/easy/160-intersection-of-two-linked-lists) | [leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 141-linked-list-cycle | Easy | [code](./Hash-Table/easy/141-linked-list-cycle) | [leetcode](https://leetcode.com/problems/linked-list-cycle/) |
 | 138-copy-list-with-random-pointer | Medium | [code](./Hash-Table/medium/138-copy-list-with-random-pointer) | [leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) |
+| 133-clone-graph | Medium | [code](./Hash-Table/medium/133-clone-graph) | [leetcode](https://leetcode.com/problems/clone-graph/) |
 | 496-next-greater-element-i | Easy | [code](./Hash-Table/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Hash-Table/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
-| 133-clone-graph | Medium | [code](./Hash-Table/medium/133-clone-graph) | [leetcode](https://leetcode.com/problems/clone-graph/) |
 | 4008-restore-finishing-order | Easy | [code](./Hash-Table/easy/4008-restore-finishing-order) | [leetcode](https://leetcode.com/problems/restore-finishing-order/) |
 | 1-two-sum | Easy | [code](./Hash-Table/easy/1-two-sum) | [leetcode](https://leetcode.com/problems/two-sum/) |
 | 3799-unique-3-digit-even-numbers | Easy | [code](./Hash-Table/easy/3799-unique-3-digit-even-numbers) | [leetcode](https://leetcode.com/problems/unique-3-digit-even-numbers/) |
@@ -723,6 +723,13 @@
 | 74-search-a-2d-matrix | Medium | [code](./Matrix/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 2047-find-a-peak-element-ii | Medium | [code](./Matrix/medium/2047-find-a-peak-element-ii) | [leetcode](https://leetcode.com/problems/find-a-peak-element-ii/) |
 
+### Graph Theory
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 133-clone-graph | Medium | [code](./Graph-Theory/medium/133-clone-graph) | [leetcode](https://leetcode.com/problems/clone-graph/) |
+| 1039-find-the-town-judge | Easy | [code](./Graph-Theory/easy/1039-find-the-town-judge) | [leetcode](https://leetcode.com/problems/find-the-town-judge/) |
+
 ### Union-Find
 
 | Problem | Difficulty | Code | LeetCode |
@@ -808,13 +815,6 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 70-climbing-stairs | Easy | [code](./Memoization/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
-
-### Graph Theory
-
-| Problem | Difficulty | Code | LeetCode |
-|---|---|---|---|
-| 133-clone-graph | Medium | [code](./Graph-Theory/medium/133-clone-graph) | [leetcode](https://leetcode.com/problems/clone-graph/) |
-| 1039-find-the-town-judge | Easy | [code](./Graph-Theory/easy/1039-find-the-town-judge) | [leetcode](https://leetcode.com/problems/find-the-town-judge/) |
 
 ### Enumeration
 
