@@ -2,29 +2,29 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 198
+**Total Problems Solved:** 200
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 116 |
-| Medium | 81 |
+| Easy | 117 |
+| Medium | 82 |
 | Hard | 1 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 100 |
+| Array | 102 |
 | String | 46 |
 | Hash Table | 45 |
 | Depth-First Search | 35 |
 | Tree | 33 |
 | Math | 32 |
 | Binary Tree | 31 |
+| Sorting | 25 |
 | Two Pointers | 24 |
-| Sorting | 24 |
 | Breadth-First Search | 20 |
 | Binary Search | 17 |
 | Stack | 14 |
@@ -43,13 +43,13 @@
 | Recursion | 6 |
 | Simulation | 6 |
 | Geometry | 5 |
+| Enumeration | 5 |
 | Queue | 4 |
 | Trie | 4 |
-| Enumeration | 4 |
+| Sliding Window | 4 |
 | Number Theory | 3 |
 | Quickselect | 3 |
 | Monotonic Stack | 3 |
-| Sliding Window | 3 |
 | Hash Function | 2 |
 | Data Stream | 2 |
 | Graph Theory | 2 |
@@ -94,7 +94,7 @@
 | 1895-minimum-number-of-operations-to-move-all-balls-to-each-box | Medium | [code](./Array/medium/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) | [leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |
 | 1014-k-closest-points-to-origin | Medium | [code](./Array/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 215-kth-largest-element-in-an-array | Medium | [code](./Array/medium/215-kth-largest-element-in-an-array) | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
-| 2519-find-the-original-array-of-prefix-xor | Medium | [code](./Array/medium/2519-find-the-original-array-of-prefix-xor) | [leetcode](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |
+| 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold | Medium | [code](./Array/medium/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [leetcode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
 | 4008-restore-finishing-order | Easy | [code](./Array/easy/4008-restore-finishing-order) | [leetcode](https://leetcode.com/problems/restore-finishing-order/) |
 | 3334-apple-redistribution-into-boxes | Easy | [code](./Array/easy/3334-apple-redistribution-into-boxes) | [leetcode](https://leetcode.com/problems/apple-redistribution-into-boxes/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
@@ -142,6 +142,7 @@
 | 1036-rotting-oranges | Medium | [code](./Array/medium/1036-rotting-oranges) | [leetcode](https://leetcode.com/problems/rotting-oranges/) |
 | 3325-find-the-largest-area-of-square-inside-two-rectangles | Medium | [code](./Array/medium/3325-find-the-largest-area-of-square-inside-two-rectangles) | [leetcode](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) |
 | 213-house-robber-ii | Medium | [code](./Array/medium/213-house-robber-ii) | [leetcode](https://leetcode.com/problems/house-robber-ii/) |
+| 2519-find-the-original-array-of-prefix-xor | Medium | [code](./Array/medium/2519-find-the-original-array-of-prefix-xor) | [leetcode](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Array/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 74-search-a-2d-matrix | Medium | [code](./Array/medium/74-search-a-2d-matrix) | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 75-sort-colors | Medium | [code](./Array/medium/75-sort-colors) | [leetcode](https://leetcode.com/problems/sort-colors/) |
@@ -169,6 +170,7 @@
 | 46-permutations | Medium | [code](./Array/medium/46-permutations) | [leetcode](https://leetcode.com/problems/permutations/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+| 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Array/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
 
 ### Hash Table
 
@@ -177,6 +179,8 @@
 | 816-design-hashset | Easy | [code](./Hash-Table/easy/816-design-hashset) | [leetcode](https://leetcode.com/problems/design-hashset/) |
 | 653-two-sum-iv-input-is-a-bst | Easy | [code](./Hash-Table/easy/653-two-sum-iv-input-is-a-bst) | [leetcode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |
 | 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Hash-Table/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
+| 652-find-duplicate-subtrees | Medium | [code](./Hash-Table/medium/652-find-duplicate-subtrees) | [leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
+| 508-most-frequent-subtree-sum | Medium | [code](./Hash-Table/medium/508-most-frequent-subtree-sum) | [leetcode](https://leetcode.com/problems/most-frequent-subtree-sum/) |
 | 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Hash-Table/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 | 387-first-unique-character-in-a-string | Easy | [code](./Hash-Table/easy/387-first-unique-character-in-a-string) | [leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 169-majority-element | Easy | [code](./Hash-Table/easy/169-majority-element) | [leetcode](https://leetcode.com/problems/majority-element/) |
@@ -210,12 +214,10 @@
 | 3329-find-the-length-of-the-longest-common-prefix | Medium | [code](./Hash-Table/medium/3329-find-the-length-of-the-longest-common-prefix) | [leetcode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) |
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 3250-maximum-square-area-by-removing-fences-from-a-field | Medium | [code](./Hash-Table/medium/3250-maximum-square-area-by-removing-fences-from-a-field) | [leetcode](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) |
-| 652-find-duplicate-subtrees | Medium | [code](./Hash-Table/medium/652-find-duplicate-subtrees) | [leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./Hash-Table/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 202-happy-number | Easy | [code](./Hash-Table/easy/202-happy-number) | [leetcode](https://leetcode.com/problems/happy-number/) |
 | 13-roman-to-integer | Easy | [code](./Hash-Table/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Hash-Table/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
-| 508-most-frequent-subtree-sum | Medium | [code](./Hash-Table/medium/508-most-frequent-subtree-sum) | [leetcode](https://leetcode.com/problems/most-frequent-subtree-sum/) |
 | 409-longest-palindrome | Easy | [code](./Hash-Table/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
 | 242-valid-anagram | Easy | [code](./Hash-Table/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
 | 4186-count-residue-prefixes | Easy | [code](./Hash-Table/easy/4186-count-residue-prefixes) | [leetcode](https://leetcode.com/problems/count-residue-prefixes/) |
@@ -225,6 +227,7 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 816-design-hashset | Easy | [code](./Linked-List/easy/816-design-hashset) | [leetcode](https://leetcode.com/problems/design-hashset/) |
+| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Linked-List/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
 | 203-remove-linked-list-elements | Easy | [code](./Linked-List/easy/203-remove-linked-list-elements) | [leetcode](https://leetcode.com/problems/remove-linked-list-elements/) |
 | 206-reverse-linked-list | Easy | [code](./Linked-List/easy/206-reverse-linked-list) | [leetcode](https://leetcode.com/problems/reverse-linked-list/) |
 | 160-intersection-of-two-linked-lists | Easy | [code](./Linked-List/easy/160-intersection-of-two-linked-lists) | [leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
@@ -236,7 +239,6 @@
 | 138-copy-list-with-random-pointer | Medium | [code](./Linked-List/medium/138-copy-list-with-random-pointer) | [leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) |
 | 2-add-two-numbers | Medium | [code](./Linked-List/medium/2-add-two-numbers) | [leetcode](https://leetcode.com/problems/add-two-numbers/) |
 | 19-remove-nth-node-from-end-of-list | Medium | [code](./Linked-List/medium/19-remove-nth-node-from-end-of-list) | [leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
-| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Linked-List/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
 
 ### Design
 
@@ -286,16 +288,16 @@
 | 144-binary-tree-preorder-traversal | Easy | [code](./Tree/easy/144-binary-tree-preorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Tree/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
 | 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Tree/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
+| 652-find-duplicate-subtrees | Medium | [code](./Tree/medium/652-find-duplicate-subtrees) | [leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
+| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Tree/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 102-binary-tree-level-order-traversal | Medium | [code](./Tree/medium/102-binary-tree-level-order-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 98-validate-binary-search-tree | Medium | [code](./Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
+| 508-most-frequent-subtree-sum | Medium | [code](./Tree/medium/508-most-frequent-subtree-sum) | [leetcode](https://leetcode.com/problems/most-frequent-subtree-sum/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1254-deepest-leaves-sum | Medium | [code](./Tree/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Tree/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
-| 652-find-duplicate-subtrees | Medium | [code](./Tree/medium/652-find-duplicate-subtrees) | [leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
-| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Tree/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
-| 508-most-frequent-subtree-sum | Medium | [code](./Tree/medium/508-most-frequent-subtree-sum) | [leetcode](https://leetcode.com/problems/most-frequent-subtree-sum/) |
 
 ### Depth-First Search
 
@@ -321,8 +323,11 @@
 | 144-binary-tree-preorder-traversal | Easy | [code](./Depth-First-Search/easy/144-binary-tree-preorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Depth-First-Search/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
 | 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Depth-First-Search/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
+| 652-find-duplicate-subtrees | Medium | [code](./Depth-First-Search/medium/652-find-duplicate-subtrees) | [leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
+| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Depth-First-Search/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Depth-First-Search/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 98-validate-binary-search-tree | Medium | [code](./Depth-First-Search/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
+| 508-most-frequent-subtree-sum | Medium | [code](./Depth-First-Search/medium/508-most-frequent-subtree-sum) | [leetcode](https://leetcode.com/problems/most-frequent-subtree-sum/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Depth-First-Search/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1254-deepest-leaves-sum | Medium | [code](./Depth-First-Search/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Depth-First-Search/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
@@ -333,9 +338,6 @@
 | 695-max-area-of-island | Medium | [code](./Depth-First-Search/medium/695-max-area-of-island) | [leetcode](https://leetcode.com/problems/max-area-of-island/) |
 | 79-word-search | Medium | [code](./Depth-First-Search/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
 | 200-number-of-islands | Medium | [code](./Depth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
-| 652-find-duplicate-subtrees | Medium | [code](./Depth-First-Search/medium/652-find-duplicate-subtrees) | [leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
-| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Depth-First-Search/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
-| 508-most-frequent-subtree-sum | Medium | [code](./Depth-First-Search/medium/508-most-frequent-subtree-sum) | [leetcode](https://leetcode.com/problems/most-frequent-subtree-sum/) |
 
 ### String Matching
 
@@ -368,16 +370,16 @@
 | 144-binary-tree-preorder-traversal | Easy | [code](./Binary-Tree/easy/144-binary-tree-preorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 896-smallest-subtree-with-all-the-deepest-nodes | Medium | [code](./Binary-Tree/medium/896-smallest-subtree-with-all-the-deepest-nodes) | [leetcode](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) |
 | 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Binary-Tree/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
+| 652-find-duplicate-subtrees | Medium | [code](./Binary-Tree/medium/652-find-duplicate-subtrees) | [leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
+| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Binary-Tree/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 102-binary-tree-level-order-traversal | Medium | [code](./Binary-Tree/medium/102-binary-tree-level-order-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 98-validate-binary-search-tree | Medium | [code](./Binary-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
+| 508-most-frequent-subtree-sum | Medium | [code](./Binary-Tree/medium/508-most-frequent-subtree-sum) | [leetcode](https://leetcode.com/problems/most-frequent-subtree-sum/) |
 | 1116-maximum-level-sum-of-a-binary-tree | Medium | [code](./Binary-Tree/medium/1116-maximum-level-sum-of-a-binary-tree) | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 1254-deepest-leaves-sum | Medium | [code](./Binary-Tree/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Binary-Tree/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Binary-Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
-| 652-find-duplicate-subtrees | Medium | [code](./Binary-Tree/medium/652-find-duplicate-subtrees) | [leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
-| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Binary-Tree/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
-| 508-most-frequent-subtree-sum | Medium | [code](./Binary-Tree/medium/508-most-frequent-subtree-sum) | [leetcode](https://leetcode.com/problems/most-frequent-subtree-sum/) |
 
 ### Breadth-First Search
 
@@ -412,6 +414,7 @@
 | 145-binary-tree-postorder-traversal | Easy | [code](./Stack/easy/145-binary-tree-postorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 776-n-ary-tree-postorder-traversal | Easy | [code](./Stack/easy/776-n-ary-tree-postorder-traversal) | [leetcode](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
 | 144-binary-tree-preorder-traversal | Easy | [code](./Stack/easy/144-binary-tree-preorder-traversal) | [leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
+| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Stack/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
 | 225-implement-stack-using-queues | Easy | [code](./Stack/easy/225-implement-stack-using-queues) | [leetcode](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 232-implement-queue-using-stacks | Easy | [code](./Stack/easy/232-implement-queue-using-stacks) | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 155-min-stack | Medium | [code](./Stack/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
@@ -419,7 +422,6 @@
 | 883-car-fleet | Medium | [code](./Stack/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 739-daily-temperatures | Medium | [code](./Stack/medium/739-daily-temperatures) | [leetcode](https://leetcode.com/problems/daily-temperatures/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Stack/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-| 114-flatten-binary-tree-to-linked-list | Medium | [code](./Stack/medium/114-flatten-binary-tree-to-linked-list) | [leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
 | 20-valid-parentheses | Easy | [code](./Stack/easy/20-valid-parentheses) | [leetcode](https://leetcode.com/problems/valid-parentheses/) |
 | 1737-maximum-nesting-depth-of-the-parentheses | Easy | [code](./Stack/easy/1737-maximum-nesting-depth-of-the-parentheses) | [leetcode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
 
@@ -588,9 +590,9 @@
 |---|---|---|---|
 | 222-count-complete-tree-nodes | Easy | [code](./Bit-Manipulation/easy/222-count-complete-tree-nodes) | [leetcode](https://leetcode.com/problems/count-complete-tree-nodes/) |
 | 1553-count-triplets-that-can-form-two-arrays-of-equal-xor | Medium | [code](./Bit-Manipulation/medium/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) | [leetcode](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) |
-| 2519-find-the-original-array-of-prefix-xor | Medium | [code](./Bit-Manipulation/medium/2519-find-the-original-array-of-prefix-xor) | [leetcode](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |
 | 1071-binary-prefix-divisible-by-5 | Easy | [code](./Bit-Manipulation/easy/1071-binary-prefix-divisible-by-5) | [leetcode](https://leetcode.com/problems/binary-prefix-divisible-by-5/) |
 | 136-single-number | Easy | [code](./Bit-Manipulation/easy/136-single-number) | [leetcode](https://leetcode.com/problems/single-number/) |
+| 2519-find-the-original-array-of-prefix-xor | Medium | [code](./Bit-Manipulation/medium/2519-find-the-original-array-of-prefix-xor) | [leetcode](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |
 | 78-subsets | Medium | [code](./Bit-Manipulation/medium/78-subsets) | [leetcode](https://leetcode.com/problems/subsets/) |
 | 287-find-the-duplicate-number | Medium | [code](./Bit-Manipulation/medium/287-find-the-duplicate-number) | [leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
 | 90-subsets-ii | Medium | [code](./Bit-Manipulation/medium/90-subsets-ii) | [leetcode](https://leetcode.com/problems/subsets-ii/) |
@@ -649,6 +651,7 @@
 | 56-merge-intervals | Medium | [code](./Sorting/medium/56-merge-intervals) | [leetcode](https://leetcode.com/problems/merge-intervals/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
 | 242-valid-anagram | Easy | [code](./Sorting/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
+| 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Sorting/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
 
 ### Math
 
@@ -830,6 +833,7 @@
 | 209-minimum-size-subarray-sum | Medium | [code](./Sliding-Window/medium/209-minimum-size-subarray-sum) | [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Sliding-Window/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
+| 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold | Medium | [code](./Sliding-Window/medium/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [leetcode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
 
 ### Geometry
 
@@ -873,6 +877,7 @@
 | 3799-unique-3-digit-even-numbers | Easy | [code](./Enumeration/easy/3799-unique-3-digit-even-numbers) | [leetcode](https://leetcode.com/problems/unique-3-digit-even-numbers/) |
 | 3250-maximum-square-area-by-removing-fences-from-a-field | Medium | [code](./Enumeration/medium/3250-maximum-square-area-by-removing-fences-from-a-field) | [leetcode](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) |
 | 2037-count-square-sum-triples | Easy | [code](./Enumeration/easy/2037-count-square-sum-triples) | [leetcode](https://leetcode.com/problems/count-square-sum-triples/) |
+| 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Enumeration/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
 
 ### Counting Sort
 
