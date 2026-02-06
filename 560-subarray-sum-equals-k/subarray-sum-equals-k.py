@@ -21,7 +21,7 @@ class Solution:
         for num in nums:
             cursum += num
             diff = cursum - k
-            if diff in mapping:
-                count += mapping[diff]
+            # if diff in mapping:
+            count += mapping.get(diff, 0)
             mapping[cursum] = mapping.get(cursum, 0) + 1
         return count
