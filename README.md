@@ -2,28 +2,28 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 200
+**Total Problems Solved:** 205
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 117 |
-| Medium | 82 |
+| Easy | 118 |
+| Medium | 86 |
 | Hard | 1 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 102 |
-| String | 46 |
-| Hash Table | 45 |
+| Array | 106 |
+| Hash Table | 47 |
+| String | 47 |
 | Depth-First Search | 35 |
+| Math | 34 |
 | Tree | 33 |
-| Math | 32 |
 | Binary Tree | 31 |
-| Sorting | 25 |
+| Sorting | 27 |
 | Two Pointers | 24 |
 | Breadth-First Search | 20 |
 | Binary Search | 17 |
@@ -33,8 +33,8 @@
 | Bit Manipulation | 12 |
 | Backtracking | 10 |
 | Greedy | 10 |
+| Prefix Sum | 10 |
 | Design | 9 |
-| Prefix Sum | 9 |
 | Matrix | 9 |
 | Counting | 8 |
 | Divide and Conquer | 7 |
@@ -42,12 +42,12 @@
 | Binary Search Tree | 6 |
 | Recursion | 6 |
 | Simulation | 6 |
+| Sliding Window | 5 |
 | Geometry | 5 |
 | Enumeration | 5 |
 | Queue | 4 |
+| Number Theory | 4 |
 | Trie | 4 |
-| Sliding Window | 4 |
-| Number Theory | 3 |
 | Quickselect | 3 |
 | Monotonic Stack | 3 |
 | Hash Function | 2 |
@@ -128,6 +128,7 @@
 | 26-remove-duplicates-from-sorted-array | Easy | [code](./Array/easy/26-remove-duplicates-from-sorted-array) | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 136-single-number | Easy | [code](./Array/easy/136-single-number) | [leetcode](https://leetcode.com/problems/single-number/) |
 | 88-merge-sorted-array | Easy | [code](./Array/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
+| 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Array/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
 | 1039-find-the-town-judge | Easy | [code](./Array/easy/1039-find-the-town-judge) | [leetcode](https://leetcode.com/problems/find-the-town-judge/) |
 | 2316-count-hills-and-valleys-in-an-array | Easy | [code](./Array/easy/2316-count-hills-and-valleys-in-an-array) | [leetcode](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |
 | 1044-find-common-characters | Easy | [code](./Array/easy/1044-find-common-characters) | [leetcode](https://leetcode.com/problems/find-common-characters/) |
@@ -170,7 +171,10 @@
 | 46-permutations | Medium | [code](./Array/medium/46-permutations) | [leetcode](https://leetcode.com/problems/permutations/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Array/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
+| 560-subarray-sum-equals-k | Medium | [code](./Array/medium/560-subarray-sum-equals-k) | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 3934-coupon-code-validator | Easy | [code](./Array/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
+| 3373-maximum-prime-difference | Medium | [code](./Array/medium/3373-maximum-prime-difference) | [leetcode](https://leetcode.com/problems/maximum-prime-difference/) |
+| 3958-minimum-removals-to-balance-array | Medium | [code](./Array/medium/3958-minimum-removals-to-balance-array) | [leetcode](https://leetcode.com/problems/minimum-removals-to-balance-array/) |
 
 ### Hash Table
 
@@ -215,6 +219,8 @@
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 3250-maximum-square-area-by-removing-fences-from-a-field | Medium | [code](./Hash-Table/medium/3250-maximum-square-area-by-removing-fences-from-a-field) | [leetcode](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./Hash-Table/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 560-subarray-sum-equals-k | Medium | [code](./Hash-Table/medium/560-subarray-sum-equals-k) | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 3934-coupon-code-validator | Easy | [code](./Hash-Table/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 202-happy-number | Easy | [code](./Hash-Table/easy/202-happy-number) | [leetcode](https://leetcode.com/problems/happy-number/) |
 | 13-roman-to-integer | Easy | [code](./Hash-Table/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Hash-Table/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
@@ -477,6 +483,7 @@
 | 412-fizz-buzz | Easy | [code](./String/easy/412-fizz-buzz) | [leetcode](https://leetcode.com/problems/fizz-buzz/) |
 | 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 43-multiply-strings | Medium | [code](./String/medium/43-multiply-strings) | [leetcode](https://leetcode.com/problems/multiply-strings/) |
+| 3934-coupon-code-validator | Easy | [code](./String/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 168-excel-sheet-column-title | Easy | [code](./String/easy/168-excel-sheet-column-title) | [leetcode](https://leetcode.com/problems/excel-sheet-column-title/) |
 | 13-roman-to-integer | Easy | [code](./String/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 171-excel-sheet-column-number | Easy | [code](./String/easy/171-excel-sheet-column-number) | [leetcode](https://leetcode.com/problems/excel-sheet-column-number/) |
@@ -640,6 +647,7 @@
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Sorting/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 217-contains-duplicate | Easy | [code](./Sorting/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
 | 88-merge-sorted-array | Easy | [code](./Sorting/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
+| 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Sorting/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
 | 1306-minimum-absolute-difference | Easy | [code](./Sorting/easy/1306-minimum-absolute-difference) | [leetcode](https://leetcode.com/problems/minimum-absolute-difference/) |
 | 1019-squares-of-a-sorted-array | Easy | [code](./Sorting/easy/1019-squares-of-a-sorted-array) | [leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 75-sort-colors | Medium | [code](./Sorting/medium/75-sort-colors) | [leetcode](https://leetcode.com/problems/sort-colors/) |
@@ -650,8 +658,9 @@
 | 435-non-overlapping-intervals | Medium | [code](./Sorting/medium/435-non-overlapping-intervals) | [leetcode](https://leetcode.com/problems/non-overlapping-intervals/) |
 | 56-merge-intervals | Medium | [code](./Sorting/medium/56-merge-intervals) | [leetcode](https://leetcode.com/problems/merge-intervals/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
+| 3934-coupon-code-validator | Easy | [code](./Sorting/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 242-valid-anagram | Easy | [code](./Sorting/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
-| 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Sorting/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
+| 3958-minimum-removals-to-balance-array | Medium | [code](./Sorting/medium/3958-minimum-removals-to-balance-array) | [leetcode](https://leetcode.com/problems/minimum-removals-to-balance-array/) |
 
 ### Math
 
@@ -665,6 +674,7 @@
 | 1553-count-triplets-that-can-form-two-arrays-of-equal-xor | Medium | [code](./Math/medium/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) | [leetcode](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) |
 | 1014-k-closest-points-to-origin | Medium | [code](./Math/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 70-climbing-stairs | Easy | [code](./Math/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
+| 3279-alice-and-bob-playing-flower-game | Medium | [code](./Math/medium/3279-alice-and-bob-playing-flower-game) | [leetcode](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) |
 | 66-plus-one | Easy | [code](./Math/easy/66-plus-one) | [leetcode](https://leetcode.com/problems/plus-one/) |
 | 1395-minimum-time-visiting-all-points | Easy | [code](./Math/easy/1395-minimum-time-visiting-all-points) | [leetcode](https://leetcode.com/problems/minimum-time-visiting-all-points/) |
 | 3476-find-minimum-operations-to-make-all-elements-divisible-by-three | Easy | [code](./Math/easy/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) | [leetcode](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) |
@@ -689,6 +699,7 @@
 | 7-reverse-integer | Medium | [code](./Math/medium/7-reverse-integer) | [leetcode](https://leetcode.com/problems/reverse-integer/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Math/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
 | 223-rectangle-area | Medium | [code](./Math/medium/223-rectangle-area) | [leetcode](https://leetcode.com/problems/rectangle-area/) |
+| 3373-maximum-prime-difference | Medium | [code](./Math/medium/3373-maximum-prime-difference) | [leetcode](https://leetcode.com/problems/maximum-prime-difference/) |
 
 ### Number Theory
 
@@ -697,6 +708,7 @@
 | 950-x-of-a-kind-in-a-deck-of-cards | Easy | [code](./Number-Theory/easy/950-x-of-a-kind-in-a-deck-of-cards) | [leetcode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) |
 | 2903-insert-greatest-common-divisors-in-linked-list | Medium | [code](./Number-Theory/medium/2903-insert-greatest-common-divisors-in-linked-list) | [leetcode](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) |
 | 258-add-digits | Easy | [code](./Number-Theory/easy/258-add-digits) | [leetcode](https://leetcode.com/problems/add-digits/) |
+| 3373-maximum-prime-difference | Medium | [code](./Number-Theory/medium/3373-maximum-prime-difference) | [leetcode](https://leetcode.com/problems/maximum-prime-difference/) |
 
 ### Bucket Sort
 
@@ -740,6 +752,7 @@
 | 1553-count-triplets-that-can-form-two-arrays-of-equal-xor | Medium | [code](./Prefix-Sum/medium/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) | [leetcode](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) |
 | 209-minimum-size-subarray-sum | Medium | [code](./Prefix-Sum/medium/209-minimum-size-subarray-sum) | [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 1895-minimum-number-of-operations-to-move-all-balls-to-each-box | Medium | [code](./Prefix-Sum/medium/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) | [leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |
+| 560-subarray-sum-equals-k | Medium | [code](./Prefix-Sum/medium/560-subarray-sum-equals-k) | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
 
 ### Trie
 
@@ -831,9 +844,10 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 209-minimum-size-subarray-sum | Medium | [code](./Sliding-Window/medium/209-minimum-size-subarray-sum) | [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold | Medium | [code](./Sliding-Window/medium/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [leetcode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Sliding-Window/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
-| 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold | Medium | [code](./Sliding-Window/medium/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [leetcode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
+| 3958-minimum-removals-to-balance-array | Medium | [code](./Sliding-Window/medium/3958-minimum-removals-to-balance-array) | [leetcode](https://leetcode.com/problems/minimum-removals-to-balance-array/) |
 
 ### Geometry
 
@@ -875,9 +889,9 @@
 |---|---|---|---|
 | 3221-find-the-peaks | Easy | [code](./Enumeration/easy/3221-find-the-peaks) | [leetcode](https://leetcode.com/problems/find-the-peaks/) |
 | 3799-unique-3-digit-even-numbers | Easy | [code](./Enumeration/easy/3799-unique-3-digit-even-numbers) | [leetcode](https://leetcode.com/problems/unique-3-digit-even-numbers/) |
+| 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Enumeration/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
 | 3250-maximum-square-area-by-removing-fences-from-a-field | Medium | [code](./Enumeration/medium/3250-maximum-square-area-by-removing-fences-from-a-field) | [leetcode](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) |
 | 2037-count-square-sum-triples | Easy | [code](./Enumeration/easy/2037-count-square-sum-triples) | [leetcode](https://leetcode.com/problems/count-square-sum-triples/) |
-| 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Enumeration/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
 
 ### Counting Sort
 
