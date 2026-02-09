@@ -2,44 +2,44 @@
 
 ## 🧮 Summary Stats
 
-**Total Problems Solved:** 205
+**Total Problems Solved:** 209
 
 **By Difficulty:**
 
 | Difficulty | Count |
 |---|---|
-| Easy | 118 |
-| Medium | 86 |
+| Easy | 120 |
+| Medium | 88 |
 | Hard | 1 |
 
 **By Tag:**
 
 | Tag | Count |
 |---|---|
-| Array | 106 |
+| Array | 109 |
 | Hash Table | 47 |
 | String | 47 |
-| Depth-First Search | 35 |
-| Math | 34 |
-| Tree | 33 |
-| Binary Tree | 31 |
+| Depth-First Search | 36 |
+| Math | 35 |
+| Tree | 34 |
+| Binary Tree | 32 |
 | Sorting | 27 |
 | Two Pointers | 24 |
 | Breadth-First Search | 20 |
 | Binary Search | 17 |
 | Stack | 14 |
 | Linked List | 13 |
+| Greedy | 13 |
 | Dynamic Programming | 13 |
 | Bit Manipulation | 12 |
+| Design | 10 |
 | Backtracking | 10 |
-| Greedy | 10 |
 | Prefix Sum | 10 |
-| Design | 9 |
+| Divide and Conquer | 9 |
 | Matrix | 9 |
 | Counting | 8 |
-| Divide and Conquer | 7 |
+| Binary Search Tree | 7 |
 | Heap (Priority Queue) | 7 |
-| Binary Search Tree | 6 |
 | Recursion | 6 |
 | Simulation | 6 |
 | Sliding Window | 5 |
@@ -62,6 +62,8 @@
 | Memoization | 1 |
 | Counting Sort | 1 |
 | Interactive | 1 |
+| Binary Indexed Tree | 1 |
+| Segment Tree | 1 |
 
 ## Solutions by Tag
 
@@ -88,6 +90,7 @@
 | 2102-find-the-middle-index-in-array | Easy | [code](./Array/easy/2102-find-the-middle-index-in-array) | [leetcode](https://leetcode.com/problems/find-the-middle-index-in-array/) |
 | 724-find-pivot-index | Easy | [code](./Array/easy/724-find-pivot-index) | [leetcode](https://leetcode.com/problems/find-pivot-index/) |
 | 238-product-of-array-except-self | Medium | [code](./Array/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
+| 560-subarray-sum-equals-k | Medium | [code](./Array/medium/560-subarray-sum-equals-k) | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | 3422-find-the-n-th-value-after-k-seconds | Medium | [code](./Array/medium/3422-find-the-n-th-value-after-k-seconds) | [leetcode](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) |
 | 1553-count-triplets-that-can-form-two-arrays-of-equal-xor | Medium | [code](./Array/medium/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) | [leetcode](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) |
 | 209-minimum-size-subarray-sum | Medium | [code](./Array/medium/209-minimum-size-subarray-sum) | [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
@@ -95,6 +98,7 @@
 | 1014-k-closest-points-to-origin | Medium | [code](./Array/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 215-kth-largest-element-in-an-array | Medium | [code](./Array/medium/215-kth-largest-element-in-an-array) | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold | Medium | [code](./Array/medium/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [leetcode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
+| 3958-minimum-removals-to-balance-array | Medium | [code](./Array/medium/3958-minimum-removals-to-balance-array) | [leetcode](https://leetcode.com/problems/minimum-removals-to-balance-array/) |
 | 4008-restore-finishing-order | Easy | [code](./Array/easy/4008-restore-finishing-order) | [leetcode](https://leetcode.com/problems/restore-finishing-order/) |
 | 3334-apple-redistribution-into-boxes | Easy | [code](./Array/easy/3334-apple-redistribution-into-boxes) | [leetcode](https://leetcode.com/problems/apple-redistribution-into-boxes/) |
 | 792-binary-search | Easy | [code](./Array/easy/792-binary-search) | [leetcode](https://leetcode.com/problems/binary-search/) |
@@ -116,6 +120,7 @@
 | 1041-available-captures-for-rook | Easy | [code](./Array/easy/1041-available-captures-for-rook) | [leetcode](https://leetcode.com/problems/available-captures-for-rook/) |
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Array/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 27-remove-element | Easy | [code](./Array/easy/27-remove-element) | [leetcode](https://leetcode.com/problems/remove-element/) |
+| 3934-coupon-code-validator | Easy | [code](./Array/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 1001-n-repeated-element-in-size-2n-array | Easy | [code](./Array/easy/1001-n-repeated-element-in-size-2n-array) | [leetcode](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) |
 | 3846-minimum-operations-to-make-array-sum-divisible-by-k | Easy | [code](./Array/easy/3846-minimum-operations-to-make-array-sum-divisible-by-k) | [leetcode](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) |
 | 978-valid-mountain-array | Easy | [code](./Array/easy/978-valid-mountain-array) | [leetcode](https://leetcode.com/problems/valid-mountain-array/) |
@@ -165,16 +170,16 @@
 | 435-non-overlapping-intervals | Medium | [code](./Array/medium/435-non-overlapping-intervals) | [leetcode](https://leetcode.com/problems/non-overlapping-intervals/) |
 | 39-combination-sum | Medium | [code](./Array/medium/39-combination-sum) | [leetcode](https://leetcode.com/problems/combination-sum/) |
 | 57-insert-interval | Medium | [code](./Array/medium/57-insert-interval) | [leetcode](https://leetcode.com/problems/insert-interval/) |
+| 3373-maximum-prime-difference | Medium | [code](./Array/medium/3373-maximum-prime-difference) | [leetcode](https://leetcode.com/problems/maximum-prime-difference/) |
 | 56-merge-intervals | Medium | [code](./Array/medium/56-merge-intervals) | [leetcode](https://leetcode.com/problems/merge-intervals/) |
 | 3250-maximum-square-area-by-removing-fences-from-a-field | Medium | [code](./Array/medium/3250-maximum-square-area-by-removing-fences-from-a-field) | [leetcode](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) |
 | 90-subsets-ii | Medium | [code](./Array/medium/90-subsets-ii) | [leetcode](https://leetcode.com/problems/subsets-ii/) |
 | 46-permutations | Medium | [code](./Array/medium/46-permutations) | [leetcode](https://leetcode.com/problems/permutations/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Array/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 15-3sum | Medium | [code](./Array/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 560-subarray-sum-equals-k | Medium | [code](./Array/medium/560-subarray-sum-equals-k) | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
-| 3934-coupon-code-validator | Easy | [code](./Array/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
-| 3373-maximum-prime-difference | Medium | [code](./Array/medium/3373-maximum-prime-difference) | [leetcode](https://leetcode.com/problems/maximum-prime-difference/) |
-| 3958-minimum-removals-to-balance-array | Medium | [code](./Array/medium/3958-minimum-removals-to-balance-array) | [leetcode](https://leetcode.com/problems/minimum-removals-to-balance-array/) |
+| 1938-minimum-operations-to-make-the-array-increasing | Easy | [code](./Array/easy/1938-minimum-operations-to-make-the-array-increasing) | [leetcode](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) |
+| 1329-minimum-cost-to-move-chips-to-the-same-position | Easy | [code](./Array/easy/1329-minimum-cost-to-move-chips-to-the-same-position) | [leetcode](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) |
+| 307-range-sum-query-mutable | Medium | [code](./Array/medium/307-range-sum-query-mutable) | [leetcode](https://leetcode.com/problems/range-sum-query-mutable/) |
 
 ### Hash Table
 
@@ -199,6 +204,7 @@
 | 138-copy-list-with-random-pointer | Medium | [code](./Hash-Table/medium/138-copy-list-with-random-pointer) | [leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) |
 | 133-clone-graph | Medium | [code](./Hash-Table/medium/133-clone-graph) | [leetcode](https://leetcode.com/problems/clone-graph/) |
 | 496-next-greater-element-i | Easy | [code](./Hash-Table/easy/496-next-greater-element-i) | [leetcode](https://leetcode.com/problems/next-greater-element-i/) |
+| 560-subarray-sum-equals-k | Medium | [code](./Hash-Table/medium/560-subarray-sum-equals-k) | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | 1553-count-triplets-that-can-form-two-arrays-of-equal-xor | Medium | [code](./Hash-Table/medium/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) | [leetcode](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Hash-Table/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 567-permutation-in-string | Medium | [code](./Hash-Table/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
@@ -210,6 +216,7 @@
 | 2777-find-the-distinct-difference-array | Easy | [code](./Hash-Table/easy/2777-find-the-distinct-difference-array) | [leetcode](https://leetcode.com/problems/find-the-distinct-difference-array/) |
 | 349-intersection-of-two-arrays | Easy | [code](./Hash-Table/easy/349-intersection-of-two-arrays) | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays/) |
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Hash-Table/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
+| 3934-coupon-code-validator | Easy | [code](./Hash-Table/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 1001-n-repeated-element-in-size-2n-array | Easy | [code](./Hash-Table/easy/1001-n-repeated-element-in-size-2n-array) | [leetcode](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) |
 | 217-contains-duplicate | Easy | [code](./Hash-Table/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
 | 1039-find-the-town-judge | Easy | [code](./Hash-Table/easy/1039-find-the-town-judge) | [leetcode](https://leetcode.com/problems/find-the-town-judge/) |
@@ -219,8 +226,6 @@
 | 49-group-anagrams | Medium | [code](./Hash-Table/medium/49-group-anagrams) | [leetcode](https://leetcode.com/problems/group-anagrams/) |
 | 3250-maximum-square-area-by-removing-fences-from-a-field | Medium | [code](./Hash-Table/medium/3250-maximum-square-area-by-removing-fences-from-a-field) | [leetcode](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) |
 | 17-letter-combinations-of-a-phone-number | Medium | [code](./Hash-Table/medium/17-letter-combinations-of-a-phone-number) | [leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
-| 560-subarray-sum-equals-k | Medium | [code](./Hash-Table/medium/560-subarray-sum-equals-k) | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
-| 3934-coupon-code-validator | Easy | [code](./Hash-Table/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 202-happy-number | Easy | [code](./Hash-Table/easy/202-happy-number) | [leetcode](https://leetcode.com/problems/happy-number/) |
 | 13-roman-to-integer | Easy | [code](./Hash-Table/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Hash-Table/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
@@ -259,6 +264,7 @@
 | 211-design-add-and-search-words-data-structure | Medium | [code](./Design/medium/211-design-add-and-search-words-data-structure) | [leetcode](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |
 | 155-min-stack | Medium | [code](./Design/medium/155-min-stack) | [leetcode](https://leetcode.com/problems/min-stack/) |
 | 208-implement-trie-prefix-tree | Medium | [code](./Design/medium/208-implement-trie-prefix-tree) | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+| 307-range-sum-query-mutable | Medium | [code](./Design/medium/307-range-sum-query-mutable) | [leetcode](https://leetcode.com/problems/range-sum-query-mutable/) |
 
 ### Hash Function
 
@@ -304,6 +310,7 @@
 | 1254-deepest-leaves-sum | Medium | [code](./Tree/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Tree/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
+| 1285-balance-a-binary-search-tree | Medium | [code](./Tree/medium/1285-balance-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/balance-a-binary-search-tree/) |
 
 ### Depth-First Search
 
@@ -344,6 +351,7 @@
 | 695-max-area-of-island | Medium | [code](./Depth-First-Search/medium/695-max-area-of-island) | [leetcode](https://leetcode.com/problems/max-area-of-island/) |
 | 79-word-search | Medium | [code](./Depth-First-Search/medium/79-word-search) | [leetcode](https://leetcode.com/problems/word-search/) |
 | 200-number-of-islands | Medium | [code](./Depth-First-Search/medium/200-number-of-islands) | [leetcode](https://leetcode.com/problems/number-of-islands/) |
+| 1285-balance-a-binary-search-tree | Medium | [code](./Depth-First-Search/medium/1285-balance-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/balance-a-binary-search-tree/) |
 
 ### String Matching
 
@@ -386,6 +394,7 @@
 | 1254-deepest-leaves-sum | Medium | [code](./Binary-Tree/medium/1254-deepest-leaves-sum) | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/) |
 | 1218-lowest-common-ancestor-of-deepest-leaves | Medium | [code](./Binary-Tree/medium/1218-lowest-common-ancestor-of-deepest-leaves) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |
 | 1450-delete-leaves-with-a-given-value | Medium | [code](./Binary-Tree/medium/1450-delete-leaves-with-a-given-value) | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
+| 1285-balance-a-binary-search-tree | Medium | [code](./Binary-Tree/medium/1285-balance-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/balance-a-binary-search-tree/) |
 
 ### Breadth-First Search
 
@@ -441,7 +450,9 @@
 | 1014-k-closest-points-to-origin | Medium | [code](./Divide-and-Conquer/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 215-kth-largest-element-in-an-array | Medium | [code](./Divide-and-Conquer/medium/215-kth-largest-element-in-an-array) | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 4-median-of-two-sorted-arrays | Hard | [code](./Divide-and-Conquer/hard/4-median-of-two-sorted-arrays) | [leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
+| 1285-balance-a-binary-search-tree | Medium | [code](./Divide-and-Conquer/medium/1285-balance-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/balance-a-binary-search-tree/) |
 | 190-reverse-bits | Easy | [code](./Divide-and-Conquer/easy/190-reverse-bits) | [leetcode](https://leetcode.com/problems/reverse-bits/) |
+| 307-range-sum-query-mutable | Medium | [code](./Divide-and-Conquer/medium/307-range-sum-query-mutable) | [leetcode](https://leetcode.com/problems/range-sum-query-mutable/) |
 
 ### Binary Search Tree
 
@@ -453,6 +464,7 @@
 | 235-lowest-common-ancestor-of-a-binary-search-tree | Medium | [code](./Binary-Search-Tree/medium/235-lowest-common-ancestor-of-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | 230-kth-smallest-element-in-a-bst | Medium | [code](./Binary-Search-Tree/medium/230-kth-smallest-element-in-a-bst) | [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 98-validate-binary-search-tree | Medium | [code](./Binary-Search-Tree/medium/98-validate-binary-search-tree) | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
+| 1285-balance-a-binary-search-tree | Medium | [code](./Binary-Search-Tree/medium/1285-balance-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/balance-a-binary-search-tree/) |
 
 ### String
 
@@ -471,6 +483,7 @@
 | 749-shortest-completing-word | Easy | [code](./String/easy/749-shortest-completing-word) | [leetcode](https://leetcode.com/problems/shortest-completing-word/) |
 | 14-longest-common-prefix | Easy | [code](./String/easy/14-longest-common-prefix) | [leetcode](https://leetcode.com/problems/longest-common-prefix/) |
 | 599-minimum-index-sum-of-two-lists | Easy | [code](./String/easy/599-minimum-index-sum-of-two-lists) | [leetcode](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) |
+| 3934-coupon-code-validator | Easy | [code](./String/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 981-delete-columns-to-make-sorted | Easy | [code](./String/easy/981-delete-columns-to-make-sorted) | [leetcode](https://leetcode.com/problems/delete-columns-to-make-sorted/) |
 | 1044-find-common-characters | Easy | [code](./String/easy/1044-find-common-characters) | [leetcode](https://leetcode.com/problems/find-common-characters/) |
 | 990-verifying-an-alien-dictionary | Easy | [code](./String/easy/990-verifying-an-alien-dictionary) | [leetcode](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
@@ -483,7 +496,6 @@
 | 412-fizz-buzz | Easy | [code](./String/easy/412-fizz-buzz) | [leetcode](https://leetcode.com/problems/fizz-buzz/) |
 | 67-add-binary | Easy | [code](./String/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
 | 43-multiply-strings | Medium | [code](./String/medium/43-multiply-strings) | [leetcode](https://leetcode.com/problems/multiply-strings/) |
-| 3934-coupon-code-validator | Easy | [code](./String/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 168-excel-sheet-column-title | Easy | [code](./String/easy/168-excel-sheet-column-title) | [leetcode](https://leetcode.com/problems/excel-sheet-column-title/) |
 | 13-roman-to-integer | Easy | [code](./String/easy/13-roman-to-integer) | [leetcode](https://leetcode.com/problems/roman-to-integer/) |
 | 171-excel-sheet-column-number | Easy | [code](./String/easy/171-excel-sheet-column-number) | [leetcode](https://leetcode.com/problems/excel-sheet-column-number/) |
@@ -641,10 +653,12 @@
 | 883-car-fleet | Medium | [code](./Sorting/medium/883-car-fleet) | [leetcode](https://leetcode.com/problems/car-fleet/) |
 | 1014-k-closest-points-to-origin | Medium | [code](./Sorting/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 215-kth-largest-element-in-an-array | Medium | [code](./Sorting/medium/215-kth-largest-element-in-an-array) | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+| 3958-minimum-removals-to-balance-array | Medium | [code](./Sorting/medium/3958-minimum-removals-to-balance-array) | [leetcode](https://leetcode.com/problems/minimum-removals-to-balance-array/) |
 | 3334-apple-redistribution-into-boxes | Easy | [code](./Sorting/easy/3334-apple-redistribution-into-boxes) | [leetcode](https://leetcode.com/problems/apple-redistribution-into-boxes/) |
 | 506-relative-ranks | Easy | [code](./Sorting/easy/506-relative-ranks) | [leetcode](https://leetcode.com/problems/relative-ranks/) |
 | 349-intersection-of-two-arrays | Easy | [code](./Sorting/easy/349-intersection-of-two-arrays) | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays/) |
 | 1482-how-many-numbers-are-smaller-than-the-current-number | Easy | [code](./Sorting/easy/1482-how-many-numbers-are-smaller-than-the-current-number) | [leetcode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
+| 3934-coupon-code-validator | Easy | [code](./Sorting/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 217-contains-duplicate | Easy | [code](./Sorting/easy/217-contains-duplicate) | [leetcode](https://leetcode.com/problems/contains-duplicate/) |
 | 88-merge-sorted-array | Easy | [code](./Sorting/easy/88-merge-sorted-array) | [leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 | 3263-divide-an-array-into-subarrays-with-minimum-cost-i | Easy | [code](./Sorting/easy/3263-divide-an-array-into-subarrays-with-minimum-cost-i) | [leetcode](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) |
@@ -658,9 +672,7 @@
 | 435-non-overlapping-intervals | Medium | [code](./Sorting/medium/435-non-overlapping-intervals) | [leetcode](https://leetcode.com/problems/non-overlapping-intervals/) |
 | 56-merge-intervals | Medium | [code](./Sorting/medium/56-merge-intervals) | [leetcode](https://leetcode.com/problems/merge-intervals/) |
 | 15-3sum | Medium | [code](./Sorting/medium/15-3sum) | [leetcode](https://leetcode.com/problems/3sum/) |
-| 3934-coupon-code-validator | Easy | [code](./Sorting/easy/3934-coupon-code-validator) | [leetcode](https://leetcode.com/problems/coupon-code-validator/) |
 | 242-valid-anagram | Easy | [code](./Sorting/easy/242-valid-anagram) | [leetcode](https://leetcode.com/problems/valid-anagram/) |
-| 3958-minimum-removals-to-balance-array | Medium | [code](./Sorting/medium/3958-minimum-removals-to-balance-array) | [leetcode](https://leetcode.com/problems/minimum-removals-to-balance-array/) |
 
 ### Math
 
@@ -674,7 +686,6 @@
 | 1553-count-triplets-that-can-form-two-arrays-of-equal-xor | Medium | [code](./Math/medium/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) | [leetcode](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) |
 | 1014-k-closest-points-to-origin | Medium | [code](./Math/medium/1014-k-closest-points-to-origin) | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 70-climbing-stairs | Easy | [code](./Math/easy/70-climbing-stairs) | [leetcode](https://leetcode.com/problems/climbing-stairs/) |
-| 3279-alice-and-bob-playing-flower-game | Medium | [code](./Math/medium/3279-alice-and-bob-playing-flower-game) | [leetcode](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) |
 | 66-plus-one | Easy | [code](./Math/easy/66-plus-one) | [leetcode](https://leetcode.com/problems/plus-one/) |
 | 1395-minimum-time-visiting-all-points | Easy | [code](./Math/easy/1395-minimum-time-visiting-all-points) | [leetcode](https://leetcode.com/problems/minimum-time-visiting-all-points/) |
 | 3476-find-minimum-operations-to-make-all-elements-divisible-by-three | Easy | [code](./Math/easy/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) | [leetcode](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) |
@@ -683,6 +694,7 @@
 | 3325-find-the-largest-area-of-square-inside-two-rectangles | Medium | [code](./Math/medium/3325-find-the-largest-area-of-square-inside-two-rectangles) | [leetcode](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) |
 | 150-evaluate-reverse-polish-notation | Medium | [code](./Math/medium/150-evaluate-reverse-polish-notation) | [leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 1284-four-divisors | Medium | [code](./Math/medium/1284-four-divisors) | [leetcode](https://leetcode.com/problems/four-divisors/) |
+| 3373-maximum-prime-difference | Medium | [code](./Math/medium/3373-maximum-prime-difference) | [leetcode](https://leetcode.com/problems/maximum-prime-difference/) |
 | 2037-count-square-sum-triples | Easy | [code](./Math/easy/2037-count-square-sum-triples) | [leetcode](https://leetcode.com/problems/count-square-sum-triples/) |
 | 412-fizz-buzz | Easy | [code](./Math/easy/412-fizz-buzz) | [leetcode](https://leetcode.com/problems/fizz-buzz/) |
 | 67-add-binary | Easy | [code](./Math/easy/67-add-binary) | [leetcode](https://leetcode.com/problems/add-binary/) |
@@ -698,8 +710,9 @@
 | 866-rectangle-overlap | Easy | [code](./Math/easy/866-rectangle-overlap) | [leetcode](https://leetcode.com/problems/rectangle-overlap/) |
 | 7-reverse-integer | Medium | [code](./Math/medium/7-reverse-integer) | [leetcode](https://leetcode.com/problems/reverse-integer/) |
 | 1064-smallest-integer-divisible-by-k | Medium | [code](./Math/medium/1064-smallest-integer-divisible-by-k) | [leetcode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |
+| 3279-alice-and-bob-playing-flower-game | Medium | [code](./Math/medium/3279-alice-and-bob-playing-flower-game) | [leetcode](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) |
 | 223-rectangle-area | Medium | [code](./Math/medium/223-rectangle-area) | [leetcode](https://leetcode.com/problems/rectangle-area/) |
-| 3373-maximum-prime-difference | Medium | [code](./Math/medium/3373-maximum-prime-difference) | [leetcode](https://leetcode.com/problems/maximum-prime-difference/) |
+| 1329-minimum-cost-to-move-chips-to-the-same-position | Easy | [code](./Math/easy/1329-minimum-cost-to-move-chips-to-the-same-position) | [leetcode](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) |
 
 ### Number Theory
 
@@ -707,8 +720,8 @@
 |---|---|---|---|
 | 950-x-of-a-kind-in-a-deck-of-cards | Easy | [code](./Number-Theory/easy/950-x-of-a-kind-in-a-deck-of-cards) | [leetcode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) |
 | 2903-insert-greatest-common-divisors-in-linked-list | Medium | [code](./Number-Theory/medium/2903-insert-greatest-common-divisors-in-linked-list) | [leetcode](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) |
-| 258-add-digits | Easy | [code](./Number-Theory/easy/258-add-digits) | [leetcode](https://leetcode.com/problems/add-digits/) |
 | 3373-maximum-prime-difference | Medium | [code](./Number-Theory/medium/3373-maximum-prime-difference) | [leetcode](https://leetcode.com/problems/maximum-prime-difference/) |
+| 258-add-digits | Easy | [code](./Number-Theory/easy/258-add-digits) | [leetcode](https://leetcode.com/problems/add-digits/) |
 
 ### Bucket Sort
 
@@ -737,7 +750,10 @@
 | 1988-minimize-maximum-pair-sum-in-array | Medium | [code](./Greedy/medium/1988-minimize-maximum-pair-sum-in-array) | [leetcode](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) |
 | 435-non-overlapping-intervals | Medium | [code](./Greedy/medium/435-non-overlapping-intervals) | [leetcode](https://leetcode.com/problems/non-overlapping-intervals/) |
 | 1700-minimum-time-to-make-rope-colorful | Medium | [code](./Greedy/medium/1700-minimum-time-to-make-rope-colorful) | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
+| 1938-minimum-operations-to-make-the-array-increasing | Easy | [code](./Greedy/easy/1938-minimum-operations-to-make-the-array-increasing) | [leetcode](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) |
+| 1329-minimum-cost-to-move-chips-to-the-same-position | Easy | [code](./Greedy/easy/1329-minimum-cost-to-move-chips-to-the-same-position) | [leetcode](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) |
 | 409-longest-palindrome | Easy | [code](./Greedy/easy/409-longest-palindrome) | [leetcode](https://leetcode.com/problems/longest-palindrome/) |
+| 1285-balance-a-binary-search-tree | Medium | [code](./Greedy/medium/1285-balance-a-binary-search-tree) | [leetcode](https://leetcode.com/problems/balance-a-binary-search-tree/) |
 
 ### Prefix Sum
 
@@ -748,11 +764,11 @@
 | 2102-find-the-middle-index-in-array | Easy | [code](./Prefix-Sum/easy/2102-find-the-middle-index-in-array) | [leetcode](https://leetcode.com/problems/find-the-middle-index-in-array/) |
 | 724-find-pivot-index | Easy | [code](./Prefix-Sum/easy/724-find-pivot-index) | [leetcode](https://leetcode.com/problems/find-pivot-index/) |
 | 238-product-of-array-except-self | Medium | [code](./Prefix-Sum/medium/238-product-of-array-except-self) | [leetcode](https://leetcode.com/problems/product-of-array-except-self/) |
+| 560-subarray-sum-equals-k | Medium | [code](./Prefix-Sum/medium/560-subarray-sum-equals-k) | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | 3422-find-the-n-th-value-after-k-seconds | Medium | [code](./Prefix-Sum/medium/3422-find-the-n-th-value-after-k-seconds) | [leetcode](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) |
 | 1553-count-triplets-that-can-form-two-arrays-of-equal-xor | Medium | [code](./Prefix-Sum/medium/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) | [leetcode](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) |
 | 209-minimum-size-subarray-sum | Medium | [code](./Prefix-Sum/medium/209-minimum-size-subarray-sum) | [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 1895-minimum-number-of-operations-to-move-all-balls-to-each-box | Medium | [code](./Prefix-Sum/medium/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) | [leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |
-| 560-subarray-sum-equals-k | Medium | [code](./Prefix-Sum/medium/560-subarray-sum-equals-k) | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
 
 ### Trie
 
@@ -846,8 +862,8 @@
 | 209-minimum-size-subarray-sum | Medium | [code](./Sliding-Window/medium/209-minimum-size-subarray-sum) | [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold | Medium | [code](./Sliding-Window/medium/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [leetcode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
 | 3-longest-substring-without-repeating-characters | Medium | [code](./Sliding-Window/medium/3-longest-substring-without-repeating-characters) | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
-| 567-permutation-in-string | Medium | [code](./Sliding-Window/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 | 3958-minimum-removals-to-balance-array | Medium | [code](./Sliding-Window/medium/3958-minimum-removals-to-balance-array) | [leetcode](https://leetcode.com/problems/minimum-removals-to-balance-array/) |
+| 567-permutation-in-string | Medium | [code](./Sliding-Window/medium/567-permutation-in-string) | [leetcode](https://leetcode.com/problems/permutation-in-string/) |
 
 ### Geometry
 
@@ -904,4 +920,16 @@
 | Problem | Difficulty | Code | LeetCode |
 |---|---|---|---|
 | 278-first-bad-version | Easy | [code](./Interactive/easy/278-first-bad-version) | [leetcode](https://leetcode.com/problems/first-bad-version/) |
+
+### Binary Indexed Tree
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 307-range-sum-query-mutable | Medium | [code](./Binary-Indexed-Tree/medium/307-range-sum-query-mutable) | [leetcode](https://leetcode.com/problems/range-sum-query-mutable/) |
+
+### Segment Tree
+
+| Problem | Difficulty | Code | LeetCode |
+|---|---|---|---|
+| 307-range-sum-query-mutable | Medium | [code](./Segment-Tree/medium/307-range-sum-query-mutable) | [leetcode](https://leetcode.com/problems/range-sum-query-mutable/) |
 
