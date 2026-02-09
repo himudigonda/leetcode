@@ -5,8 +5,13 @@ class Solution:
         ans = []
 
         for i in range(maxlen):
-            l = []
+            cur = ""
             for word in words:
-                l.append(word[i] if i < len(word) else " ")
-            ans.append("".join(l).rstrip())
+                cur += word[i] if i < len(word) else " "
+            ans.append(cur.rstrip())
         return ans
+        #     l = []
+        #     for word in words:
+        #         l.append(word[i] if i < len(word) else " ")
+        #     ans.append("".join(l).rstrip())
+        # return ans
