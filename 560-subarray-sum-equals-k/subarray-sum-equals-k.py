@@ -8,7 +8,6 @@ class Solution:
             cursum += num
             diff = cursum - k
 
-            if diff in mapping:
-                count += mapping[diff]
+            count += mapping.get(diff, 0)
             mapping[cursum] = mapping.get(cursum, 0) + 1
         return count
