@@ -3,18 +3,25 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        zero = 0
-        main = 0
-        end = len(nums) - 1
+        left = 0
+        mid = 0
+        right = len(nums) - 1
+        if len(nums) == 1: return nums
 
-        while main <= end:
-            if nums[main] == 0:
-                nums[main], nums[zero] = nums[zero], nums[main]
-                main += 1
-                zero += 1
-            elif nums[main] == 1:
-                main += 1
+        # while left < len(nums) and nums[left] == 0:
+        #     left += 1
+        # mid = left + 1
+        # while nums[right] == 2:
+        #     right -= 1
+
+        while mid <= right:
+            if nums[mid] == 0:
+                nums[mid], nums[left] = nums[left], nums[mid]
+                left += 1
+                mid += 1
+            elif nums[mid] == 1:
+                mid += 1
             else:
-                nums[main], nums[end] = nums[end], nums[main]
-                end -= 1
+                nums[right], nums[mid] = nums[mid], nums[right]
+                right -= 1
         return nums
