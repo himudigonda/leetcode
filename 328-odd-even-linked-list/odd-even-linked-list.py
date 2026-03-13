@@ -9,14 +9,18 @@ class Solution:
             return head
         odd = head
         even = head.next
-        evenHead = even
+        evenHead = head.next
 
-        while even and even.next:
-            odd.next = even.next
-            odd = odd.next
+        while odd and odd.next and even and even.next:
+            if odd.next and odd.next.next:
+                odd.next = even.next
+                odd = odd.next
 
-            even.next = odd.next
-            even = even.next
+            if even.next and even.next.next:
+                even.next = odd.next
+                even = even.next
 
+        even.next = None
         odd.next = evenHead
+
         return head
