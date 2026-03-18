@@ -3,26 +3,27 @@ class Solution:
         if not candidates or min(candidates) > target:
             return []
 
-        res = []
+        res = list()
         candidates.sort()
 
-        def dfs(i, cur, total):
-            if total == target:
-                res.append(cur.copy())
+        def findsum(idx, cursum, curcand):
+            if cursum == target:
+                res.append(curcand.copy())
                 return
-
-            if i >= len(candidates) or total >= target:
+            if idx >= len(candidates) or cursum > target:
                 return
 
             prev = -1
-            for i in range(i, len(candidates)):
+            for i in range(idx, len(candidates)):
+                if cursum + candidates[i] > target:
+                    break
                 if candidates[i] == prev:
                     continue
-                cur.append(candidates[i])
-                dfs(i + 1, cur, total + candidates[i])
-                cur.pop()
+                curcand.append(candidates[i])
+                findsum(i + 1, cursum + candidates[i], curcand)
+                curcand.pop()
                 prev = candidates[i]
             return
 
-        dfs(0, [], 0)
+        findsum(0, 0, [])
         return res
