@@ -1,5 +1,7 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        if not candidates or min(candidates) > target:
+            return []
         res = []
 
         def findSum(idx, cursum, curcand):
