@@ -15,6 +15,8 @@ class Solution:
 
             prev = -1
             for i in range(idx, len(candidates)):
+                if cursum + candidates[i] > target:
+                    break
                 if candidates[i] == prev:
                     continue
                 curcand.append(candidates[i])
