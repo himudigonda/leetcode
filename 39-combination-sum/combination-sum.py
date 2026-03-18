@@ -5,7 +5,6 @@ class Solution:
         res = []
 
         def findSum(idx, cursum, curcand):
-            print(idx, cursum, curcand)
             if cursum == target:
                 res.append(curcand.copy())
                 return
@@ -13,12 +12,12 @@ class Solution:
                 return
 
             curcand.append(candidates[idx])
-            cursum += candidates[idx]
-            findSum(idx, cursum, curcand)
-            # findSum(idx, cursum + candidates[idx], curcand)
+            # cursum += candidates[idx]
+            # findSum(idx, cursum, curcand)
+            findSum(idx, cursum + candidates[idx], curcand)
 
             curcand.pop()
-            cursum -= candidates[idx]
+            # cursum -= candidates[idx]
             findSum(idx + 1, cursum, curcand)
             return
 
