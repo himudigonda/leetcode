@@ -1,40 +1,42 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
+        # bfs
         q = deque()
-        time, fresh = 0, 0
+        ROWS = len(grid)
+        COLS = len(grid[0])
+        oranges = 0
 
-        ROWS, COLS = len(grid), len(grid[0])
+        for i in range(ROWS):
+            for j in range(COLS):
+                if grid[i][j] == 2:
+                    q.append((i, j, 0))
+                if grid[i][j] == 1:
+                    oranges += 1
+        if oranges == 0:
+            return 0
+        if not q:
+            return -1
 
-        for r in range(ROWS):
-            for c in range(COLS):
-                if grid[r][c] == 1:
-                    fresh += 1
-                elif grid[r][c] == 2:
-                    q.append([r, c])
-
-        directions = [
-            [0, 1],
-            [1, 0],
-            [0, -1],
-            [-1, 0],
-        ]
-        while q and fresh > 0:
-            lenq = len(q)
-            for i in range(lenq):
-                r, c = q.popleft()
-                for dr, dc in directions:
-                    row, col = dr + r, dc + c
-                    if (
-                        row < 0
-                        or col < 0
-                        or row == ROWS
-                        or col == COLS
-                        or grid[row][col] != 1
-                    ):
-                        continue
-                    grid[row][col] = 2
-                    q.append([row, col])
-                    fresh -= 1
-            time += 1
-
-        return time if not fresh else -1
+        time = 0
+        dirs = [[0, -1], [0, 1], [1, 0], [-1, 0]]
+        while q and oranges > 0:
+            # qlen = len(q)
+            # for qidx in range(qlen):
+            #     i, j, t = q.popleft()
+            #     for dr, dc in dirs:
+            #         ni, nj = i + dr, j + dc
+            #         if 0 <= ni < ROWS and 0 <= nj < COLS and grid[ni][nj] == 1:
+            #             grid[ni][nj] = 2
+            #             oranges -= 1
+            #             q.append((ni, nj))
+            # time += 1
+            i, j, t = q.popleft()
+            for dr, dc in dirs:
+                ni, nj = i + dr, j + dc
+                if 0 <= ni < ROWS and 0 <= nj < COLS and grid[ni][nj] == 1:
+                    grid[ni][nj] = 2
+                    time = t + 1
+                    q.append((ni, nj, time))
+                    oranges -= 1
+        # time += 1
+        return time if oranges == 0 else -1
