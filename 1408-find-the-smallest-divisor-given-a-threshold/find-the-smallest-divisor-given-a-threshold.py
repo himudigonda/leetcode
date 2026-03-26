@@ -5,7 +5,6 @@ class Solution:
 
         def calc(divisor):
             res = [math.ceil(i / divisor) for i in nums]
-            print(divisor, res)
             return sum(res)
 
         res = float("inf")
