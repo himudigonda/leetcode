@@ -13,10 +13,13 @@ class Solution:
                 target -= 1
             nums[target], nums[ptr] = nums[ptr], nums[target]
 
-        end = len(nums) - 1
-        ptr += 1
-        while ptr < end:
-            nums[ptr], nums[end] = nums[end], nums[ptr]
-            ptr += 1
-            end -= 1
+        # end = len(nums) - 1
+        # ptr += 1
+        # while ptr < end:
+        #     nums[ptr], nums[end] = nums[end], nums[ptr]
+        #     ptr += 1
+        #     end -= 1
+        # return nums
+
+        nums[ptr + 1 :] = reversed(nums[ptr + 1 :])
         return nums
